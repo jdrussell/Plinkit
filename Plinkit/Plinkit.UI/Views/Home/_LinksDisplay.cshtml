@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Plinkit.Domain.Models.Links.DailyLink>
+@{
+    var linkCategory = "";
+    var firstLink = Model.ToList().FirstOrDefault();
+    if (firstLink != null)
+    {
+        linkCategory = firstLink.GetCategory();
+    }
+}
+<h4 class="clear">@linkCategory</h4>        
+<ul>
+@foreach (var link in Model)
+{
+    <li class="clear">
+        <a href="@link.Link" target="_blank"
+           data-toggle="popover" class="pop"
+           data-original-title="Summary"
+           data-content="@HttpUtility.HtmlDecode(link.Description)">
+            @Html.Raw(HttpUtility.HtmlDecode(link.Title))
+        </a> (@link.GetSite())
+    </li>
+}
+</ul>
+@*<a data-content="And here's some amazing content. It's very engaging. right?" title="" data-toggle="popover" class="btn btn-large btn-danger pop" href="#" data-original-title="A Title">Click to toggle popover</a>*@

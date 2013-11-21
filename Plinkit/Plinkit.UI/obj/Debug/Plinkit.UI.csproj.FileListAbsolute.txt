@@ -1,0 +1,84 @@
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Plinkit.UI.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Plinkit.UI.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Antlr3.Runtime.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\EntityFramework.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.WebRequest.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Helpers.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Http.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Mvc.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Optimization.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Providers.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Razor.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\WebGrease.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\EntityFramework.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Net.Http.WebRequest.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Helpers.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Http.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Mvc.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.Razor.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.csprojResolveAssemblyReference.cache
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\Plinkit.UI.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\Plinkit.UI.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\Antlr3.Runtime.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\EntityFramework.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.Formatting.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.WebRequest.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Helpers.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Http.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Http.WebHost.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Mvc.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Optimization.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Providers.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Razor.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Deployment.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\WebGrease.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\EntityFramework.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.Formatting.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Net.Http.WebRequest.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Helpers.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Http.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Http.WebHost.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Mvc.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.Razor.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Deployment.xml
+C:\VS2012\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.xml
+C:\VS2012\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.csprojResolveAssemblyReference.cache
+C:\VS2012\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.dll
+C:\VS2012\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Plinkit.Domain.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\Plinkit.Domain.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\Plinkit.Domain.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\Plinkit.Domain.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.dll
+C:\VS2012\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.pdb
+C:\VS2012\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.xml

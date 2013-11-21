@@ -1,0 +1,16 @@
+C:\VS2012\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.csprojResolveAssemblyReference.cache
+C:\VS2012\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll.config
+C:\VS2012\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll
+C:\VS2012\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.pdb
+C:\VS2012\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.dll
+C:\VS2012\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.xml
+C:\VS2012\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.dll
+C:\VS2012\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll.config
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.pdb
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.dll
+C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.pdb
