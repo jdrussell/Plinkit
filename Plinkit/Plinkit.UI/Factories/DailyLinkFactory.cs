@@ -1,5 +1,5 @@
-﻿using Plinkit.Domain.Models.Links;
-using Plinkit.UI.Configuration;
+﻿using Plinkit.Domain.Configuration;
+using Plinkit.Domain.Models.Links;
 
 namespace Plinkit.UI.Factories
 {

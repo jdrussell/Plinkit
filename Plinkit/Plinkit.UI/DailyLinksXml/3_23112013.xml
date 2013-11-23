@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 51 results</description>
+    <opensearch:totalResults>51</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>OR-&lt;b&gt;Tools blog&lt;/b&gt;: &lt;b&gt;Visual Studio&lt;/b&gt; 2013 support added, &lt;b&gt;Visual Studio&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://or-tools.blogspot.com/2013/11/visual-studio-2013-support-added-visual.html</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; 2013 support added, &lt;em&gt;Visual Studio&lt;/em&gt; 2010 support dropped. Hi After a few tweaks, &lt;em&gt;visual studio&lt;/em&gt; 2013 is now supported in or-&lt;em&gt;tools&lt;/em&gt;. And as I have pushed code that uses the new C++11 iterators (they are so so cool), &lt;em&gt;visual studio&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>OR-Tools blog</dc:publisher>
+      <dc:creator>Laurent Perron</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 08:31:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Windows 8.1, &lt;b&gt;Visual Studio&lt;/b&gt; 2013, Blend for &lt;b&gt;...&lt;/b&gt; - Mike Taulty&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2013/11/22/windows-8-1-visual-studio-2013-blend-for-visual-studio-the-return-of-behaviors.aspx</link>
+      <description>although (as I talked about in my post 4 years ago) – strictly speaking these are a mixture of behaviors and actions but they all get labelled as behaviors here in the &lt;em&gt;tool&lt;/em&gt;. If you&amp;#39;ve seen these things before then there&amp;#39;s probably not much more to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Mike Taulty's Blog</dc:publisher>
+      <dc:creator>mtaulty</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 17:46:29 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Node.js &lt;b&gt;Tools&lt;/b&gt; For &lt;b&gt;Visual Studio&lt;/b&gt;| | Zetta Pros</title>
+      <link>http://www.zettapros.com/2013/11/22/microsoft-launches-node-js-tools-for-visual-studio/</link>
+      <description>Microsoft Launches Node.js &lt;em&gt;Tools&lt;/em&gt; For &lt;em&gt;Visual Studio&lt;/em&gt; Node.js has quickly become one of the most popular platforms for writing server-side code. Windows, however, was never quite the right operating system to develop node.js applications on.</description>
+      <dc:publisher>Zetta Pros</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 11:38:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>Allen Conway&amp;#39;s .NET Weblog: &lt;b&gt;Visual Studio&lt;/b&gt; LIVE! Orlando 2013 Day 5</title>
+      <link>http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-5.html</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; LIVE! Orlando 2013 Day 5. Workshop: Deep Dive into Modern App Design and Development Brent Edwards, Principal Lead Consultant, Magenic. The day long track with the Modern App team is going to offer a chance to go into detail of the creation &lt;b&gt;.....&lt;/b&gt; I can only imagine how awesome it would be to work with a designer that delivers either the completed wireframes or even the full front end using a &lt;em&gt;tool&lt;/em&gt; like this to the engineers ready to interact with for the layers below.</description>
+      <dc:publisher>Allen Conway's .NET Weblog</dc:publisher>
+      <dc:creator>Allen Conway</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 04:07:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using a &lt;b&gt;Visual Studio&lt;/b&gt; Web Test for availability &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/visualstudioalm/archive/2013/11/22/using-a-visual-studio-web-test-for-availability-monitoring-in-application-insights.aspx</link>
+      <description>Helping software development teams plan, manage, track, design, develop, and test applications with &lt;em&gt;Visual Studio&lt;/em&gt; ALM and Team Foundation Server more successfully.</description>
+      <dc:publisher>Microsoft Application Lifecycle Management</dc:publisher>
+      <dc:creator>Charles Sterling</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 05:52:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>Saying &amp;quot;Hi!&amp;quot; to developing with HID in Windows 8.1 | Coding4Fun &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://channel9.msdn.com/coding4fun/blog/Saying-Hi-to-developing-with-HID-in-Windows-81</link>
+      <description>To run the HClient sample you will need Microsoft &lt;em&gt;Visual Studio&lt;/em&gt; 2013 and, more important, Windows Driver Kit (WDK) 8.1. HClient gives &lt;b&gt;...&lt;/b&gt; A new v1 power &lt;em&gt;tool&lt;/em&gt; for your Windows Phone Image tasks, the Nokia Imaging SDK A new v1 power&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>ExcitingAds! 9</dc:publisher>
+      <dc:creator>Greg Duncan</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 14:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>TWC9: node.js for &lt;b&gt;Visual Studio&lt;/b&gt;, EntLib 6 Dev Guide &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-November-22-2013</link>
+      <description>This week on Channel 9, Brian and guest host Charles Torre discuss the week&amp;#39;s top developer news, including; [00:38] node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; (Scott Hanselman)[01:22] Enterprise Library 6: Deve. &lt;b&gt;...&lt;/b&gt; Embed code for this video. iFrame; Silverlight; HTML5; Flash. Copy the code above to embed our video on your website/&lt;em&gt;blog&lt;/em&gt;. Close&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>ExcitingAds! 9</dc:publisher>
+      <dc:creator>Brian Keller, Charles, Greg Duncan</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 21:45:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Number of vehicles on the road reaches highest level on record &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://stiel.org/2013/11/22/number-of-vehicles-on-the-road-reaches-highest-level-on-record/</link>
+      <description>Number of vehicles on the road reaches highest level on record wp.me/priyt-1da 0 minutes ago; Introducing node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; (Scott Hanselman/Scott Hanselman&amp;#39;s &lt;em&gt;Blog&lt;/em&gt;) dlvr.it/4MqXwb #technews 22 minutes ago; What Mozilla is&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Stiel Report™</dc:publisher>
+      <dc:creator>Editor</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 14:37:31 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft MVP Global Summit 2013 November: Day 3</title>
+      <link>http://dynamicsgpblogster.blogspot.com/2013/11/microsoft-mvp-global-summit-2013_22.html</link>
+      <description>Again, I cannot really disclose much of the content I gather from these sessions, but suffice to say the future of &lt;em&gt;Visual Studio&lt;/em&gt; looks great and you can start seeing some of the UX As for SQL Server, you should be looking into some of the content&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Dynamics GP Blogster</dc:publisher>
+      <dc:creator>Mariano Gomez</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 14:09:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft &lt;b&gt;Visual Studio&lt;/b&gt; Professional 2013 en-US &lt;b&gt;...&lt;/b&gt; - Technology &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://technoworldnews12.blogspot.com/2013/11/microsoft-visual-studio-professional.html</link>
+      <description>With &lt;em&gt;Visual Studio&lt;/em&gt; Professional with MSDN, you can actualize applications across devices and services, application a individual band-aid with a constant development experience?You get the &lt;em&gt;tools&lt;/em&gt;, you charge to deliver desktop, Windows&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Technology Blog</dc:publisher>
+      <dc:creator>deepak kumar</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 10:10:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

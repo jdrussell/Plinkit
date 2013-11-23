@@ -10,7 +10,7 @@ namespace Plinkit.UI.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Your one stop shop for Programmer Links.";                  
-            return View(new DailyLinksViewModel(new DailyLinksRepository(),
+            return View(new DailyLinksViewModel(new SqlDailyLinksRepository(),                                                
                                                 DateTime.Now.Date));
         }
 

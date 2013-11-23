@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>About 1,340 results</description>
+    <opensearch:totalResults>1340</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Tonight in San Francisco, 6pm: Domain Specific Languages in &lt;b&gt;F#&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/15/tonight-in-san-francisco-6pm-domain-specific-languages-in-f-with-tomas-petricek.aspx</link>
+      <description>The &lt;em&gt;blog&lt;/em&gt; of the &lt;em&gt;F#&lt;/em&gt; team at Microsoft. Search this &lt;em&gt;blog&lt;/em&gt; &lt;b&gt;....&lt;/b&gt; &lt;em&gt;functional&lt;/em&gt; programming and &lt;em&gt;F#&lt;/em&gt; courses in London and New York and contributed to the development of &lt;em&gt;F#&lt;/em&gt; as an intern and contractor at Microsoft Research in Cambridge. He is a PhD&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Fri, 15 Nov 2013 17:23:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #46, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/11/18/f-weekly-46-2013/</link>
+      <description>Welcome to &lt;em&gt;F#&lt;/em&gt; Weekly, A roundup of &lt;em&gt;F#&lt;/em&gt; content from this past week: News Deedle (Data manipulation library for &lt;em&gt;F#&lt;/em&gt; and C# inspired by Pandas) was announced! PCL and .NET NuGet Libraries are now enabled for Xamarin! Try Deedle in 10&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 17 Nov 2013 21:01:10 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Neural Networks with RProvider &amp;amp; Deedle | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>https://sergeytihon.wordpress.com/2013/11/18/f-neural-networks-with-rprovider-deedle/</link>
+      <description>Now we are one step closer to it from &lt;em&gt;F#&lt;/em&gt; and .NET. We will delegate &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; Neural Networks with RProvider &amp;amp; Deedle. 18/11/2013 1 &lt;b&gt;....&lt;/b&gt; RT @mariofusco: Why &lt;em&gt;functional&lt;/em&gt; code is shorter pchiusano.&lt;em&gt;blogspot&lt;/em&gt;.it/2013/02/why-fu… 15 hours ago; RT&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 17 Nov 2013 21:14:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>Agents and Actor Models in &lt;b&gt;F#&lt;/b&gt; 3.0 with Rachel Reese - .NET Rocks!</title>
+      <link>http://www.dotnetrocks.com/default.aspx?ShowNum=925</link>
+      <description>Rachel&amp;#39;s background in mathematics led her to experiment with &lt;em&gt;functional&lt;/em&gt; languages like Erlang and &lt;em&gt;F#&lt;/em&gt;, and ultimately to solve problems more effectively utilizing techniques like parallelism from &lt;em&gt;F#&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; &lt;em&gt;blog&lt;/em&gt; comments powered by Disqus.</description>
+      <dc:publisher>.NET Rocks!</dc:publisher>
+      <dc:creator>dotnetrocks@franklins.net (Carl Franklin and Richard Campbell)</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 04:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Master &lt;b&gt;F#&lt;/b&gt; with Ted Neward! | Bellevue College Continuing Education</title>
+      <link>http://www.bellevuecollege.edu/ce/maste-f-with-ted-neward/</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt;. Master &lt;em&gt;F#&lt;/em&gt; with Ted Neward! Ted Neward describes himself as “a big geek who takes great pride in making other geeks into bigger, better, more highly rewarded geeks.” Beginning with C++, Ted has spent the last 15 years diving into the tech industry. He&amp;#39;s been working with .NET since before it &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; to your professional tool kit,” Ted notes. “This hybrid object-&lt;em&gt;functional&lt;/em&gt; language offers the best of both worlds by making it easy to do what objects do well and what functions do well. ”&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Bellevue College Continuing Education</dc:publisher>
+      <dc:creator>Ellen Kurek</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 23:53:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>SSIS Packages with &lt;b&gt;F#&lt;/b&gt; (Part 1) | Visual &lt;b&gt;F# Blog&lt;/b&gt; - FSharpBlog.com</title>
+      <link>http://fsharpblog.com/?p=88</link>
+      <description>Naturally, I thought of how nice it would be to use the power of &lt;em&gt;F#&lt;/em&gt; to create the script, but I had no time to figure out how to trick SSIS into using Fscript instead of a C# or VB script. What a natural fit &lt;b&gt;...&lt;/b&gt; This is a &lt;em&gt;functional&lt;/em&gt; member. You just have to love &lt;em&gt;functional&lt;/em&gt; programming with its &lt;em&gt;functional&lt;/em&gt; first class citizenship. &lt;em&gt;F#&lt;/em&gt; Response Module. In my code, I chose to create a Response Module, which I could have easily made a Type, but instead I chose to make it a module. I may have been&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Visual F# Blog</dc:publisher>
+      <dc:creator>James Roberts</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 15:36:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>RyuJIT .NET JIT compiler CTP1 FAQ - .NET &lt;b&gt;Blog&lt;/b&gt; - Site Home &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/dotnet/archive/2013/11/18/ryujit-net-jit-compiler-ctp1-faq.aspx</link>
+      <description>Tail call elimination: RyuJIT CTP1 supports IL tail-prefixed calls (used a lot in &lt;em&gt;F#&lt;/em&gt;), but we do not yet support &amp;quot;opportunistic tail calls&amp;quot;. Edit &amp;amp; Continue: We &lt;b&gt;.....&lt;/b&gt; NET Web Development - Cecil Phillip Intro to &lt;em&gt;Functional&lt;/em&gt; Programming - William Lane.</description>
+      <dc:publisher>.NET Blog</dc:publisher>
+      <dc:creator>The .NET Team</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 15:01:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Abstractivate: From lists to trains to functors</title>
+      <link>http://blog.jessitron.com/2013/11/from-lists-to-trains-to-functors.html</link>
+      <description>The first useful bit of &lt;em&gt;functional&lt;/em&gt; programming is the map method on List. It gives us a new List, which contains the results of the mapped &lt;em&gt;function&lt;/em&gt; applied to each item in the list. We might think of it like this, mapping &lt;em&gt;f&lt;/em&gt; over a List of a single item of&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Abstractivate</dc:publisher>
+      <dc:creator>JessiTRON</dc:creator>
+      <dc:date>Sun, 17 Nov 2013 16:21:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Case Study: Using froglogic for test UI automation &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/visualstudioalm/archive/2013/11/17/case-study-using-froglogic-for-test-ui-automation-with-java-based-applications-and-microsoft-test-manager.aspx</link>
+      <description>This means we just registered a physical environment in lab management, and this enabled us to have the &lt;em&gt;functional&lt;/em&gt; testers run the automated suites as part of their daily test runs. clip_image010. Figure 3: Run your test automation from MTM.</description>
+      <dc:publisher>Microsoft Application Lifecycle Management</dc:publisher>
+      <dc:creator>Charles Sterling</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 01:23:04 GMT</dc:date>
+    </item>
+    <item>
+      <title>Python and Scientific Computing | Lambda the Ultimate</title>
+      <link>http://lambda-the-ultimate.org/node/4841</link>
+      <description>Python and Scientific Computing. This interesting &lt;em&gt;blog&lt;/em&gt; post argues that in recent years Python has gained libraries making it the choice language for scientific computing (over MATLAB and R primarily). I find the details discussed in &lt;b&gt;...&lt;/b&gt; NET platform (C#, &lt;em&gt;F#&lt;/em&gt;, etc), I wonder whether a similar thing may end up happening with R? From a design point of view, the R package system is less modular than the class libraries in Java and .NET, and that may pose some problems. It is interesting to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Lambda the Ultimate - Programming Languages Weblog</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 01:50:34 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

@@ -1,29 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Plinkit.Domain.Configuration;
 using Plinkit.Domain.Models;
 using Plinkit.Domain.Models.Links;
 using Plinkit.Domain.Repositories;
-using Plinkit.UI.Configuration;
 using Plinkit.UI.Services;
 
 namespace Plinkit.UI.ViewModels
 {
     public class DailyLinksViewModel
     {
-        private readonly DateTime _date;
-        private readonly RssReader _webDevelopmentRssReader = new RssReader(RssFeeds.WebDevelopment);
-        private readonly RssReader _entityFrameworkRssReader = new RssReader(RssFeeds.EntityFramework);        
-        private readonly RssReader _visualStudioRssReader = new RssReader(RssFeeds.VisualStudio);
-        private readonly RssReader _javascriptRssReader = new RssReader(RssFeeds.Javascript);
-        private readonly RssReader _cleanCodeRssReader = new RssReader(RssFeeds.CleanCode);
-        private readonly RssReader _productivityRssReader = new RssReader(RssFeeds.Productivity);
-        private readonly RssReader _unitTestingRssReader = new RssReader(RssFeeds.UnitTesting);
-        private readonly RssReader _computerScienceRssReader = new RssReader(RssFeeds.ComputerScience);
-        private readonly RssReader _functionalProgrammingRssReader = new RssReader(RssFeeds.FunctionalProgrammingAndFSharp);
-        private readonly RssReader _computingTechnologyRssReader = new RssReader(RssFeeds.ComputingTechnology);
-        private readonly RssReader _uncleBobRssReader = new RssReader(RssFeeds.UncleBob);
-
+        private readonly DateTime _date;        
+        
         private readonly IRepository<DailyLinksContainer> _repository;
         private DailyLinksContainer _container;
         private bool _persistNewLinksCollection;
@@ -170,58 +159,113 @@ namespace Plinkit.UI.ViewModels
         }
 
         private void SetWebDevelopmentLinks()
-        {                       
-            _container.Links.AddRange(_webDevelopmentRssReader.GetFeed());
+        {
+            using (var rssReader = new RssReader(RssFeeds.WebDevelopment,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetEntityFrameworkLinks()
         {
-            _container.Links.AddRange(_entityFrameworkRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.EntityFramework,
+                                              new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetVisualStudioLinks()
         {
-            _container.Links.AddRange(_visualStudioRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.VisualStudio,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetJavascriptLinks()
         {
-            _container.Links.AddRange(_javascriptRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.Javascript,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetCleanCodeLinks()
         {
-            _container.Links.AddRange(_cleanCodeRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.CleanCode,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetProductivityLinks()
         {
-            _container.Links.AddRange(_productivityRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.Productivity,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetUnitTestingLinks()
         {
-            _container.Links.AddRange(_unitTestingRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.UnitTesting,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetComputerScienceLinks()
         {
-            _container.Links.AddRange(_computerScienceRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.ComputerScience,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SetFunctionalProgrammingAndFSharpLinks()
         {
-            _container.Links.AddRange(_functionalProgrammingRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.FunctionalProgrammingAndFSharp,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }                 
         }
 
         private void SetComputingTechnologyLinks()
         {
-            _container.Links.AddRange(_computingTechnologyRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.ComputingTechnology,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }              
         }
 
         private void SetUncleBobLinks()
         {
-            _container.Links.AddRange(_uncleBobRssReader.GetFeed());
+            using (var rssReader = new RssReader(RssFeeds.UncleBob,
+                                                 new RssWebCaller()))
+            {
+                var links = rssReader.GetFeed();
+                _container.Links.AddRange(links);
+            }            
         }
 
         private void SaveNewDailyLinksContainer()

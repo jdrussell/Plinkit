@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" linq blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+linq+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 29 results</description>
+    <opensearch:totalResults>29</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>You cannot see &lt;b&gt;Entity Framework&lt;/b&gt; after you have created it &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://chanmingman.wordpress.com/2013/11/21/you-cannot-see-entity-framework-after-you-have-created-it/</link>
+      <description>Expand your edmx to see the cs file. The thing you have to bear in mind is when Visual Studio generate the &lt;em&gt;Entity Framework&lt;/em&gt; edmx then it will take your default namespace without hesitate. So you need to rename the namespace by your own.</description>
+      <dc:publisher>Chanmingman's Blog</dc:publisher>
+      <dc:creator>chanmingman</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 15:34:23 GMT</dc:date>
+    </item>
+    <item>
+      <title>Job: WPF/ WInforms/ C#/ Silverlight Dev-Bristol - Technojobs</title>
+      <link>http://www.technojobs.co.uk/job.phtml/1498982</link>
+      <description>As a WPF/WInforms/C# developer you will be proficient in the following languages: WPF, Silverlight, Infragistics, C#, Asp.net, &lt;em&gt;Entity Framework&lt;/em&gt;, SQL, &lt;em&gt;LinQ&lt;/em&gt;. You will be part a small team delivering highly technical specifications. This role a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Latest Jobs : Technojobs.co.uk</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 10:15:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Business Intelligence Developer career at The Hartford in Hartford &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://hartfordjoblist.blogspot.com/2013/11/business-intelligence-developer-career.html</link>
+      <description>Net Framework, C#, Asp.Net, Asp.Net MVC Framework, &lt;em&gt;Linq&lt;/em&gt;, Ado.net &lt;em&gt;entity framework&lt;/em&gt;, JavaScript, jQuery, SilverLight, WPF, WCF, WCF Data Services, SharePoint Technologies, SQL ! Server 2008, Data Visualization (gauges/charts), Oracle,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Find Latest Job Openings in Hartford</dc:publisher>
+      <dc:creator>Ike Janish</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 01:07:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Allen Conway&amp;#39;s .NET Weblog: Visual Studio LIVE! Orlando 2013 Day 4</title>
+      <link>http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-4.html</link>
+      <description>There was another good conversation surrounding &lt;em&gt;Entity Framework&lt;/em&gt; and a code first approach. It&amp;#39;s interesting to hear the &lt;b&gt;...&lt;/b&gt; NET MVC and &lt;em&gt;Entity Framework&lt;/em&gt;. Since EF is &lt;b&gt;....&lt;/b&gt; PLINQ allows using &lt;em&gt;LINQ&lt;/em&gt; with parallel task library underneath. It all runs on &lt;b&gt;...&lt;/b&gt; The discussion jumped right into something I discussed in my previous &lt;em&gt;blog&lt;/em&gt; posts about &amp;#39;What is a Hybrid App?&amp;#39; The explanation was actually long and in depth and not something that can be summarized in a few words. The problem&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Allen Conway's .NET Weblog</dc:publisher>
+      <dc:creator>Allen Conway</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 04:09:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Audit trails and entity relationships - Programmers - Stack Exchange</title>
+      <link>http://programmers.stackexchange.com/questions/219141/audit-trails-and-entity-relationships</link>
+      <description>Is &lt;em&gt;Entity Framework&lt;/em&gt; ready for production? 27 &amp;middot; Should I choose Doctrine &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Entity Framework&lt;/em&gt; with large systems - how to divide models? &lt;b&gt;...&lt;/b&gt; about help badges &lt;em&gt;blog&lt;/em&gt; chat data legal privacy policy jobs advertising info mobile contact us feedback&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - Programmers Stack Exchange</dc:publisher>
+      <dc:creator>Justin</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 19:05:17 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using Web Forms in an MVC Site | Perspectives on .NET &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnet.learningtree.com/2013/11/21/using-web-forms-in-an-mvc-site/</link>
+      <description>So first I create a quick &lt;em&gt;Entity Framework&lt;/em&gt; .edmx file for the table I want to display: Then I add a Web Form to my site. &lt;b&gt;...&lt;/b&gt; Enter your email address to subscribe to this &lt;em&gt;blog&lt;/em&gt; and receive notifications of new posts by e-mail. Join 24 other followers&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Perspectives on .NET Programming From Learning Tree International</dc:publisher>
+      <dc:creator>Kevin Rattan, Learning Tree</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 02:09:26 GMT</dc:date>
+    </item>
+    <item>
+      <title>embedding LIGHTSWITCH IN ENTERPRISE SERVICES (PART 2/N &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.pragmaswitch.com/?p=1507</link>
+      <description>What will we do when the service operation itself needs access to the LightSwitch domain model? Will we setup an own &lt;em&gt;Entity Framework&lt;/em&gt; framework, own repository pattern, etc. … for this? Well, I can imagine that in certain conditions we have&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Lightswitch for the Enterprise</dc:publisher>
+      <dc:creator>paul van bladel</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 10:08:58 GMT</dc:date>
+    </item>
+    <item>
+      <title>St. Louis Day of .NET 2013 - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/NewThingsILearned/archive/2013/11/21/st.-louis-day-of-.net-2013.aspx</link>
+      <description>Materials for Parallelism can be found here and the &lt;em&gt;Entity Framework&lt;/em&gt; one is available here. My apologies to those that wanted it sooner, a couple of people emailed me asking for the materials (which I&amp;#39;ve hold off on responding since I would&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>New Things I Learned</dc:publisher>
+      <dc:creator>Muljadi Budiman</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 16:51:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>[WinRT] Toggle selection of a list item on long press » Thomas &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.thomaslevesque.com/2013/11/21/winrt-toggle-selection-of-a-list-item-on-long-press/</link>
+      <description>NET &lt;em&gt;blog&lt;/em&gt; Tips, tricks and thoughts about . &lt;b&gt;...&lt;/b&gt; Tags .NET 4.0 .NET 4.5 animated article asynchronous attached property binding bug C# C# 4.0 clipboard code snippet collection collectionview datacontext design pattern DLR dragmove dynamic &lt;em&gt;entity framework&lt;/em&gt; events expression freezable gif grid GridView image include InputBinding Josh Smith KeyBinding lambda &lt;em&gt;linq&lt;/em&gt; markup extension MVVM null check parent/child proof of concept RSS sort template Visual Studio winrt WPF XAML.</description>
+      <dc:publisher>Thomas Levesque's .NET blog</dc:publisher>
+      <dc:creator>Thomas Levesque</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 21:41:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>Reviewed Book “Learning Vaadin 7 – Second Edition by Nicolas &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://ovaismehboob.wordpress.com/2013/11/22/reviewed-book-learning-vaadin-7-second-edition-by-nicolas-frankel/</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt; Stats. 21,096 hits. Locations of visitors to this page .Net C# WCF SOA Distributed Systems &lt;em&gt;Entity Framework&lt;/em&gt; ASP.Net Ajax ASP.Net MVC 3 Enterprise Library &lt;em&gt;Linq&lt;/em&gt; 2 Sql SharePoint Design Patterns Architecture REST Services Windows Forms Silverlight 5 HTML 5 .Net .Net C# ASP.Net ASP.Net AJAX C# Code first Debugging Delegates Duplex Messaging DZone MVB &lt;em&gt;Entity Framework&lt;/em&gt; Events External Account IIS Express Microsoft Technology Practices User Group Most&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Ovais Mehboob's TechBlog</dc:publisher>
+      <dc:creator>Ovais Mehboob</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 11:30:10 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

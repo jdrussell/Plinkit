@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>2 results</description>
+    <opensearch:totalResults>2</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>2</opensearch:itemsPerPage>
+    <item>
+      <title>Wanted: &lt;b&gt;TDD&lt;/b&gt; evangelist to speak at lunchtime talk (London) for a &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.softwaretestingclub.com/xn/detail/751045:Comment:215555?xg_source=activity</link>
+      <description>So when it comes to using &lt;em&gt;TDD&lt;/em&gt; there&amp;#39;s a bit of a mixture - some people love &lt;em&gt;TDD&lt;/em&gt; and use it all the time, some people have never got into it and instead write the &lt;em&gt;unit tests&lt;/em&gt; after the code. As a result of some discussion between &lt;em&gt;TDD&lt;/em&gt; fans about&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Latest Activity on Software Testing Club - An Online Software Testing Community</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 09:40:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Digital Media &lt;b&gt;Blog&lt;/b&gt; - Adobe &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.adobe.com/digitalmedia</link>
+      <description>Adobe Primetime &lt;em&gt;Blog&lt;/em&gt;. News, insights and updates from the Adobe Primetime team on TV delivery and monetization across IP‐connected screens &lt;b&gt;....&lt;/b&gt; Posted on September 24, 2013 by &lt;em&gt;Todd&lt;/em&gt; Greenbaum | Comments (0). Today we are&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Adobe Flash Platform Blog</dc:publisher>
+      <dc:creator>Adrian Ludwig</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 08:15:25 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

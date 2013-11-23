@@ -131,7 +131,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Configuration\RssFeeds.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Extensions\UiExtensions.cs" />
@@ -142,6 +141,7 @@
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\RssReader.cs" />
+    <Compile Include="Services\WebCaller.cs" />
     <Compile Include="ViewModels\DailyLinksViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -244,6 +244,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="DailyLinksXml\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

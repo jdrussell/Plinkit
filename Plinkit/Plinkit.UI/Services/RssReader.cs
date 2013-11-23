@@ -1,8 +1,11 @@
 using System;
 using System.Collections.Generic;
-using System.Net;
+using System.IO;
+using System.Web;
 using System.Xml;
+using Plinkit.Domain.Configuration;
 using Plinkit.Domain.Models.Links;
+using Plinkit.Domain.Services;
 using Plinkit.UI.Factories;
 
 namespace Plinkit.UI.Services
@@ -13,17 +16,31 @@ namespace Plinkit.UI.Services
         private string _url;
         private string _feedTitle;
         private string _feedDescription;
-        private List<DailyLink> _rssItems = new List<DailyLink>();
-        private bool _IsDisposed;        
+        private readonly List<DailyLink> _rssItems = new List<DailyLink>();        
+        private IWebCaller _webCaller;
+        private IFileSystem _fileSystem;
+        private bool _isDisposed;
 
         public RssReader()
         {
             _url = string.Empty;
         }
-    
-        public RssReader(string feedUrl)
+
+        public RssReader(string feedUrl, 
+                         IWebCaller webCaller)
         {
             _url = feedUrl;
+            _webCaller = webCaller;
+            _fileSystem = new FileSystem();
+        }
+
+        public RssReader(string feedUrl,
+                         IWebCaller webCaller,
+                         IFileSystem fileSystem)
+        {
+            _url = feedUrl;
+            _webCaller = webCaller;
+            _fileSystem = fileSystem;
         }
 
         public string Url
@@ -51,23 +68,51 @@ namespace Plinkit.UI.Services
         {      
             if (String.IsNullOrEmpty(Url))        
                 throw new ArgumentException("You must provide a feed URL");
-                
+           
+            var xmlDocument = GetRssXmlDocument();
+            ParseDocElements(xmlDocument.SelectSingleNode("//channel"), "title", ref _feedTitle);
+            ParseDocElements(xmlDocument.SelectSingleNode("//channel"), "description", ref _feedDescription);
+            ParseRssItems(xmlDocument);      
+            return _rssItems;     
+        }
+
+        private XmlDocument GetRssXmlDocument()
+        {            
+            var filename = BuildFileName(Url);            
+            var xmlDocument = !File.Exists(filename) 
+                ? GetXmlFromWeb() 
+                : GetXmlFromSavedFile();
+            return xmlDocument;
+        }
+
+        private XmlDocument GetXmlFromWeb()
+        {
             string xmlStr;
-            var wc = new WebClient();
-            //var cred = new NetworkCredential("HYMANS\\jrussell", "*&er1n6!");
-            //var p = new WebProxy("10.122.10.33:80", true, null, cred);
-            //WebRequest.DefaultWebProxy = p;
-            //wc.Proxy = p;
-            using (wc)
+            using (_webCaller)
             {
-                xmlStr = wc.DownloadString(_url);
+                xmlStr = _webCaller.GetRssXml(_url);
             }
             var xmlDoc = new XmlDocument();
             xmlDoc.LoadXml(xmlStr);
-            ParseDocElements(xmlDoc.SelectSingleNode("//channel"), "title", ref _feedTitle);
-            ParseDocElements(xmlDoc.SelectSingleNode("//channel"), "description", ref _feedDescription);
-            ParseRssItems(xmlDoc);      
-            return _rssItems;     
+            _fileSystem.Save(BuildFileName(Url), xmlDoc);
+            return xmlDoc;
+        }
+
+        private XmlDocument GetXmlFromSavedFile()
+        {
+            var xmlDoc = new XmlDocument();
+            xmlDoc.Load(BuildFileName(Url));            
+            return xmlDoc;
+        }
+
+        private string BuildFileName(string url)
+        {
+            var categoryId = RssFeeds.GetCategoryIdByFeedUrl(url);
+            var dateString = DateTime.Now.ToString("ddMMyyyy");
+            return string.Format("{0}{1}_{2}.xml",
+                                 HttpContext.Current.Server.MapPath("~/DailyLinksXml/"),
+                                 categoryId,
+                                 dateString);
         }
 
         private void ParseRssItems(XmlDocument xmlDoc)
@@ -103,15 +148,16 @@ namespace Plinkit.UI.Services
 
         private void Dispose(bool disposing)
         {
-            if (disposing && !_IsDisposed)
+            if (disposing && !_isDisposed)
             {
                 _rssItems.Clear();
                 _url = null;
                 _feedTitle = null;
                 _feedDescription = null;
+                _fileSystem = null;
             }
 
-            _IsDisposed = true;
+            _isDisposed = true;
         }
 
         public void Dispose()

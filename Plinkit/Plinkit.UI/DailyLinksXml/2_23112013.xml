@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" linq blog -job -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+linq+blog+-job+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>10 results</description>
+    <opensearch:totalResults>10</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Technical: Microsoft – SQL Server – Full Text Search and the &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://danieladeniji.wordpress.com/2013/11/22/technical-microsoft-sql-server-full-text-search-and-the-problem-with-nullempty-predicates/</link>
+      <description>&lt;em&gt;Entity Framework&lt;/em&gt;. As &lt;em&gt;Entity Framework&lt;/em&gt; is an Object Relation Mapping (ORM) offering it relies quite a bit on writing its own data manipulation boiler-plate access code. That is it nicely covers the traditional Insert/Update/Delete code for each&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Daniel Adeniji's - Learning in the Open</dc:publisher>
+      <dc:creator>danieladeniji</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 15:55:37 GMT</dc:date>
+    </item>
+    <item>
+      <title>Mindless Rambling Nonsense: Astronomical Database Identfier</title>
+      <link>http://mindlessramblingnonsense.blogspot.com/2013/11/astronomical-database-identfier.html</link>
+      <description>And wish I&amp;#39;d understood some of the more unusual ways that big numbers are handled in C#, &lt;em&gt;Entity Framework&lt;/em&gt;, MS SQL and Oracle That requirement came about in the development of an App that will act as an API for a bunch of sales data.</description>
+      <dc:publisher>Mindless Rambling Nonsense</dc:publisher>
+      <dc:creator>Paul D'Ambra</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 20:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>CREATE FILE encountered operating system error 5(Access is &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://chanmingman.wordpress.com/2013/11/22/create-file-encountered-operating-system-error-5access-is-denied-while-attempting-to-open-or-create-the-physical-file-cdatabasenorthwnd-mdf-microsoft-sql-server-error-5123/</link>
+      <description>Recent Posts. CREATE FILE encountered operating system error 5(Access is denied.) while attempting to open or create the physical file &amp;#39;C:\Database\NORTHWND.MDF&amp;#39;. (Microsoft SQL Server, Error: 5123) &amp;middot; You cannot see &lt;em&gt;Entity Framework&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Chanmingman's Blog</dc:publisher>
+      <dc:creator>chanmingman</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 13:57:42 GMT</dc:date>
+    </item>
+    <item>
+      <title>embedding LIGHTSWITCH IN ENTERPRISE SERVICES (PART 2/N &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.pragmaswitch.com/?p=1507</link>
+      <description>What will we do when the service operation itself needs access to the LightSwitch domain model? Will we setup an own &lt;em&gt;Entity Framework&lt;/em&gt; framework, own repository pattern, etc. … for this? Well, I can imagine that in certain conditions we have&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Lightswitch for the Enterprise</dc:publisher>
+      <dc:creator>paul van bladel</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 10:08:58 GMT</dc:date>
+    </item>
+    <item>
+      <title>Reviewed Book “Learning Vaadin 7 – Second Edition by Nicolas &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://ovaismehboob.wordpress.com/2013/11/22/reviewed-book-learning-vaadin-7-second-edition-by-nicolas-frankel/</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt; Stats. 21,096 hits. Locations of visitors to this page .Net C# WCF SOA Distributed Systems &lt;em&gt;Entity Framework&lt;/em&gt; ASP.Net Ajax ASP.Net MVC 3 Enterprise Library &lt;em&gt;Linq&lt;/em&gt; 2 Sql SharePoint Design Patterns Architecture REST Services Windows Forms Silverlight 5 HTML 5 .Net .Net C# ASP.Net ASP.Net AJAX C# Code first Debugging Delegates Duplex Messaging DZone MVB &lt;em&gt;Entity Framework&lt;/em&gt; Events External Account IIS Express Microsoft Technology Practices User Group Most&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Ovais Mehboob's TechBlog</dc:publisher>
+      <dc:creator>Ovais Mehboob</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 11:30:10 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jumat, 22 November 2013 - Programming Ebook Guide - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://ebookboxs.blogspot.com/2013/11/wow-ebook-nginx-http-server-2nd-edition.html</link>
+      <description>Understand the differences between developing traditional web apps and apps targeting the mobile web; Learn to use the conventions and configurations used by &lt;em&gt;Entity Framework&lt;/em&gt; 5.0 to tailor our model to suit our requirements; Secure your&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Ebook Guide</dc:publisher>
+      <dc:creator>dummy</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 05:49:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Open Question: Why cells appear blank when I use &lt;b&gt;linq&lt;/b&gt; in c# &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.internet-technology-business.com/open-question-why-cells-appear-blank-when-i-use-linq-in-c-yahoo-answers-computers-internet/</link>
+      <description>Open Question: How do I split a contact name in &lt;em&gt;LINQ&lt;/em&gt; to… November 19, 2013 I had a query that worked nicely with a SQL adapter, but I&amp;#39;m needing it to not be that way, I need to use &lt;em&gt;linq&lt;/em&gt; or entities(I&amp;#39;m using the &lt;em&gt;entity framework&lt;/em&gt;). I have a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Internet Technology Business</dc:publisher>
+      <dc:creator>BLOGGER</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 22:40:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>.: Baseless Merge with TFS 2010 - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://vijayanandgawle.blogspot.com/2013/11/baseless-merge-with-tfs-2010.html</link>
+      <description>Popular Posts. &lt;em&gt;Entity Framework&lt;/em&gt; 4 - Part 3 - Execute Stored Procedures Using the &lt;em&gt;Entity Framework&lt;/em&gt; 4. This article demonstrates the usage of the &lt;em&gt;Entity Framework&lt;/em&gt; 4 to execute stored procedures to create, read, update, and delete records in t.</description>
+      <dc:publisher>.</dc:publisher>
+      <dc:creator>Vijayanand Gawle</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 11:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Will every contact in my WhatsApp see me in their contact list too?</title>
+      <link>http://www.internet-technology-business.com/open-question-will-every-contact-in-my-whatsapp-see-me-in-their-contact-list-too-yahoo-answers-computers-internet/</link>
+      <description>Open Question: How do I split a contact name in &lt;em&gt;LINQ&lt;/em&gt; to… November 19, 2013 I had a query that worked nicely with a SQL adapter, but I&amp;#39;m needing it to not be that way, I need to use &lt;em&gt;linq&lt;/em&gt; or entities(I&amp;#39;m using the &lt;em&gt;entity framework&lt;/em&gt;). I have a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Internet Technology Business</dc:publisher>
+      <dc:creator>BLOGGER</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 19:24:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>Open Question: Help wanting to sell two computers? – Yahoo Answers</title>
+      <link>http://www.internet-technology-business.com/open-question-help-wanting-to-sell-two-computers-yahoo-answers-computers-internet/</link>
+      <description>November 19, 2013 I had a query that worked nicely with a SQL adapter, but I&amp;#39;m needing it to not be that way, I need to use &lt;em&gt;linq&lt;/em&gt; or entities(I&amp;#39;m using the &lt;em&gt;entity framework&lt;/em&gt;). &lt;b&gt;...&lt;/b&gt; Bits &lt;em&gt;Blog&lt;/em&gt;: Start-Up Founders Look Beyond the Usual Options…</description>
+      <dc:publisher>Internet Technology Business</dc:publisher>
+      <dc:creator>BLOGGER</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 18:39:31 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

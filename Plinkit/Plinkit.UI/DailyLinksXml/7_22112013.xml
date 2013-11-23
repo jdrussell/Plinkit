@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>8 results</description>
+    <opensearch:totalResults>8</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+    <item>
+      <title>.Net Head » &lt;b&gt;Unit Testing&lt;/b&gt;: Defining the right “Unit”</title>
+      <link>http://blog.baltrinic.com/software-development/agile-practices/automated-testing/unit-testing-defining-the-right-unit</link>
+      <description>&lt;em&gt;Unit Testing&lt;/em&gt;: Defining the right “Unit”. I am a strong proponent of automated testing and &lt;em&gt;test driven development&lt;/em&gt;. But if asked if I do &lt;em&gt;unit testing&lt;/em&gt; verses integration or some higher level of testing, I will usually ask the questioner to define “unit.”.</description>
+      <dc:publisher>.Net Head</dc:publisher>
+      <dc:creator>Ken</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 02:46:19 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jasmine-Node and Rewire, Part 2: Making the &lt;b&gt;test&lt;/b&gt; complete</title>
+      <link>http://randomjavascript.blogspot.com/2013/11/jasmine-node-and-rewire-part-2-making.html</link>
+      <description>In the previous post I introduced the concept of using Rewire with Jasmine-Node to simplify Node.js &lt;em&gt;unit testing&lt;/em&gt;. Rewire added a __set__ and a __get__ function to the module which let us grab a function in the module, and test it directly.</description>
+      <dc:publisher>Random JavaScript</dc:publisher>
+      <dc:creator>David Posin</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 21:34:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>An Introduction To Full-Stack JavaScript - The Rebel Vision Creative &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://rebelvision.com/an-introduction-to-full-stack-javascript</link>
+      <description>In this post, I&amp;#39;ll give you an overview of why full-stack JavaScript might be right for you and how it works its magic. To give you a quick preview: toptal-&lt;em&gt;blog&lt;/em&gt;-500-opt (Large view). I&amp;#39;ll introduce these components piece by piece. But first, a short note &lt;b&gt;.....&lt;/b&gt; These tools enable you to improve your development process by applying &lt;em&gt;test-driven development&lt;/em&gt; (&lt;em&gt;TDD&lt;/em&gt;) or behavior-driven development (BDD), creating the infrastructure to organize your &lt;em&gt;unit tests&lt;/em&gt; and a runner to automatically run them.</description>
+      <dc:publisher>Rebel Vision Creative Agency | 718-413-9418</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 15:36:22 GMT</dc:date>
+    </item>
+    <item>
+      <title>Ardonio Ltd | Why looking at your commit stats matters</title>
+      <link>http://www.ardonio.com/2013/11/21/why-looking-at-your-commit-stats-matters/</link>
+      <description>Static code analysers, (&lt;em&gt;unit&lt;/em&gt;) &lt;em&gt;test&lt;/em&gt; coverage, build stats, cycle &amp;amp; lead time, velocity, … . All have their place but there&amp;#39;s something that is often forgotten. It&amp;#39;s one of the more fine &lt;b&gt;...&lt;/b&gt; which allowed them to look both at test volume and commits with/ without work on tests. Particularly in a &lt;em&gt;TDD&lt;/em&gt; world those are very useful indicators to understand the evolution of the codebase and related tests. &lt;b&gt;...&lt;/b&gt; Follow Ardonio Ltd. Get every new post on this &lt;em&gt;blog&lt;/em&gt; delivered to your Inbox. Join other followers:.</description>
+      <dc:publisher>Ardonio Ltd</dc:publisher>
+      <dc:creator>Klaas Ardinois</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 22:11:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Occasional Masthead › On &lt;b&gt;Testing&lt;/b&gt; - Robert Hook</title>
+      <link>http://www.parttimepolymath.net/masthead/archives/372</link>
+      <description>Rather I am struck by how easy it is to really stuff up &lt;em&gt;unit tests&lt;/em&gt;, and how hard it is to get them right. I&amp;#39;m not so concerned with simple things like the &lt;b&gt;...&lt;/b&gt; This is not simply an artefact of &lt;em&gt;TDD&lt;/em&gt; either, although one of the problems I have with &lt;em&gt;TDD&lt;/em&gt; is that it can lead to beautiful tests accurately exercising code that does not actually meet requirements – it worries me that Agile is often treated as an excuse not to define or identify requirements in much depth. Two examples that I&amp;#39;ve seen recently&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Occasional Masthead</dc:publisher>
+      <dc:creator>Robert Hook</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 18:19:58 GMT</dc:date>
+    </item>
+    <item>
+      <title>Peter Pilgrim :: Java Champion :: Enterprise &lt;b&gt;Blog&lt;/b&gt; » A Shortened Visit &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.xenonique.co.uk/blog/?p=1399</link>
+      <description>The ARM processor in the Raspberry Pi is 25,000 slower in performance than this Mac Book Pro Retina machine and yet the GPU (Graphical Processor &lt;em&gt;Unit&lt;/em&gt;) is capable of deliver full HD video. There was keynote demonstration showing a movie trailer written in Java and JavaFX running on the Pi &lt;b&gt;....&lt;/b&gt; I am speaking at: JavaOne 2013, September 22-26, San Francisco: Talk: &lt;em&gt;Test Driven Development&lt;/em&gt; with Java EE 7, Arquillian and Enterprise Containers ACCU 2013 Conference, Bristol,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Peter Pilgrim :: Java Champion :: Enterprise Blog</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 17:04:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>Crafted Software: Starting a Software Craftsmanship Community</title>
+      <link>http://craftedsw.blogspot.com/2013/11/starting-software-craftsmanship.html</link>
+      <description>Topics can vary immensely, from tools and good practices to continuous deployment, from design and architecture to interview techniques, from how to convince teammates to adopt &lt;em&gt;TDD&lt;/em&gt; to functional languages. The overhead of organising a roundtable is very small. You just need to &lt;b&gt;....&lt;/b&gt; Search This &lt;em&gt;Blog&lt;/em&gt;. Loading. &lt;b&gt;....&lt;/b&gt; Hard-wired dependencies (part 1). When pairing with some developers, I&amp;#39;ve noticed that one of the reasons they are not &lt;em&gt;unit testing&lt;/em&gt; existing code is because, quite often,.</description>
+      <dc:publisher>Crafted Software</dc:publisher>
+      <dc:creator>Sandro Mancuso</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 23:18:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Book Review: “Give and Take: A revolutionary approach to Success”</title>
+      <link>http://www.andriybuday.com/2013/11/book-review-give-and-take-revolutionary.html</link>
+      <description>A &lt;em&gt;blog&lt;/em&gt; about .NET and software development in general by Andriy Buday. &lt;b&gt;...&lt;/b&gt; Dear readers this &lt;em&gt;blog&lt;/em&gt; post is my payment to you. I don&amp;#39;t know you – I just share thoughts with you, but sometimes this might help me. It did in the past, since &lt;em&gt;blogging&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Developer's RoadMap To Success</dc:publisher>
+      <dc:creator>Andriy Buday</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 19:16:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

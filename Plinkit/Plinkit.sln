@@ -12,6 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{06AA9F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plinkit.Domain", "Plinkit.Domain\Plinkit.Domain.csproj", "{03FC0C38-CC81-4695-8B5F-072F35463DE4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database Scripts", "Database Scripts", "{A09AA1E6-76CD-4CE8-A8D8-1E8D8F4A082A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v1.0.0", "v1.0.0", "{60F36A98-1EB2-45B9-B672-BCECE94489FA}"
+	ProjectSection(SolutionItems) = preProject
+		Database Scripts\v1.0.0\CreatePlinkitTablesSchema.sql = Database Scripts\v1.0.0\CreatePlinkitTablesSchema.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,5 +36,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60F36A98-1EB2-45B9-B672-BCECE94489FA} = {A09AA1E6-76CD-4CE8-A8D8-1E8D8F4A082A}
 	EndGlobalSection
 EndGlobal

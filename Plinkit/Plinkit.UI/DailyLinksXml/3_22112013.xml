@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 55 results</description>
+    <opensearch:totalResults>55</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Microsoft Launches Node.js &lt;b&gt;Tools&lt;/b&gt; For &lt;b&gt;Visual Studio&lt;/b&gt; | TechCrunch</title>
+      <link>http://techcrunch.com/2013/11/21/microsoft-launches-node-js-tools-for-visual-studio/</link>
+      <description>The &lt;em&gt;tools&lt;/em&gt; were developed by the same team that also brought Python support to &lt;em&gt;Visual Studio&lt;/em&gt; and will work in both the 2012 and 2013 editions of the IDE. If you want to give them a try, Hanselman&amp;#39;s &lt;em&gt;blog&lt;/em&gt; post also features a brief walk-through&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>TechCrunch</dc:publisher>
+      <dc:creator>Frederic Lardinois</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 00:27:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>OR-&lt;b&gt;Tools blog&lt;/b&gt;: &lt;b&gt;Visual Studio&lt;/b&gt; 2013 support added, &lt;b&gt;Visual Studio&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://or-tools.blogspot.com/2013/11/visual-studio-2013-support-added-visual.html</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; 2013 support added, &lt;em&gt;Visual Studio&lt;/em&gt; 2010 support dropped. Hi After a few tweaks, &lt;em&gt;visual studio&lt;/em&gt; 2013 is now supported in or-&lt;em&gt;tools&lt;/em&gt;. And as I have pushed code that uses the new C++11 iterators (they are so so cool), &lt;em&gt;visual studio&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>OR-Tools blog</dc:publisher>
+      <dc:creator>Laurent Perron</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 08:31:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Node.js &lt;b&gt;Tools&lt;/b&gt; For &lt;b&gt;Visual Studio&lt;/b&gt;| | Zetta Pros</title>
+      <link>http://www.zettapros.com/2013/11/22/microsoft-launches-node-js-tools-for-visual-studio/</link>
+      <description>Microsoft Launches Node.js &lt;em&gt;Tools&lt;/em&gt; For &lt;em&gt;Visual Studio&lt;/em&gt; Node.js has quickly become one of the most popular platforms for writing server-side code. Windows, however, was never quite the right operating system to develop node.js applications on.</description>
+      <dc:publisher>Zetta Pros</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 11:38:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>Allen Conway&amp;#39;s .NET Weblog: &lt;b&gt;Visual Studio&lt;/b&gt; LIVE! Orlando 2013 Day 4</title>
+      <link>http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-4.html</link>
+      <description>The net result is a super simple and easy to use &lt;em&gt;tool&lt;/em&gt; to get real-time information for things like dashboards, collaborations, messaging, or any other type of data that would normally require a Post back to the server or a page refresh. It&amp;#39;s a great&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Allen Conway's .NET Weblog</dc:publisher>
+      <dc:creator>Allen Conway</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 04:09:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Node.js Development in &lt;b&gt;Visual Studio&lt;/b&gt; – Life After Visual Node with &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://visualstudiofeeds.com/index.php?option=com_content&amp;view=article&amp;id=35766:Node.js%20Development%20in%20Visual%20Studio%20%E2%80%93%20Life%20After%20Visual%20Node%20with%20Node%20Tools%20for%20Visual%20Studio&amp;catid=152:bart&amp;Itemid=53</link>
+      <description>By now you may have seen the first public alpha release of Node &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; on CodePlex announced in Scott Hanselman&amp;#39;s excellent overview of the suite. You may have noticed Red.</description>
+      <dc:publisher>VSF RSS English</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 17:37:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Saying &amp;quot;Hi!&amp;quot; to developing with HID in Windows 8.1 | Coding4Fun &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://channel9.msdn.com/coding4fun/blog/Saying-Hi-to-developing-with-HID-in-Windows-81</link>
+      <description>To run the HClient sample you will need Microsoft &lt;em&gt;Visual Studio&lt;/em&gt; 2013 and, more important, Windows Driver Kit (WDK) 8.1. HClient gives &lt;b&gt;...&lt;/b&gt; A new v1 power &lt;em&gt;tool&lt;/em&gt; for your Windows Phone Image tasks, the Nokia Imaging SDK A new v1 power&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>ExcitingAds! 9</dc:publisher>
+      <dc:creator>Greg Duncan</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 14:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>eclipse - Improving the Java development workflow - Programmers &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://programmers.stackexchange.com/questions/219158/improving-the-java-development-workflow</link>
+      <description>Each developer decides on their &lt;em&gt;tool&lt;/em&gt; of choice (somewhat a good thing) and due to the lack of any kind of procedure in terms of 3rd party dependency management, we more often than not run into build or deployment problems and hit serious setbacks when developer machines have to be rebuilt for one reason or another. Our Java &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Visual Studio&lt;/em&gt; helps here too with its version check but this process is working well and I feel it could be replicated for our Java development efforts.</description>
+      <dc:publisher>Recent Questions - Programmers Stack Exchange</dc:publisher>
+      <dc:creator>e28Makaveli</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 22:18:21 GMT</dc:date>
+    </item>
+    <item>
+      <title>Introducing node.js &lt;b&gt;Tools&lt;/b&gt; for &lt;b&gt;Visual Studio&lt;/b&gt; - I am programmer this is &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://iamprogrammerthisismylife.blogspot.com/2013/11/introducing-nodejs-tools-for-visual.html</link>
+      <description>Introducing node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt;. Posted by I am Programmer &amp;middot; Email ThisBlogThis!Share to TwitterShare to Facebook. Tags: Scott Hanselmans &lt;em&gt;Blog&lt;/em&gt; &amp;middot; Older Post Home. Popular Posts. How to install IPA directly on your iOS!</description>
+      <dc:publisher>I am programmer this is my life</dc:publisher>
+      <dc:creator>I am Programmer</dc:creator>
+      <dc:date>Thu, 21 Nov 2013 17:44:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft &lt;b&gt;Visual Studio&lt;/b&gt; Professional 2013 en-US x86 Nov8-2013 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://technoworldnews12.blogspot.com/2013/11/microsoft-visual-studio-professional.html</link>
+      <description>With &lt;em&gt;Visual Studio&lt;/em&gt; Professional with MSDN, you can actualize applications across devices and services, application a individual band-aid with a constant development experience?You get the &lt;em&gt;tools&lt;/em&gt;, you charge to deliver desktop, Windows&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Technology Blog</dc:publisher>
+      <dc:creator>deepak kumar</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 10:10:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>SharePoint 2013 and &lt;b&gt;Visual Studio&lt;/b&gt; 2013 | Microsoft Playground</title>
+      <link>http://msftplayground.com/2013/11/sharepoint-2013-and-visual-studio-2013/</link>
+      <description>This development machine already had a &lt;em&gt;Visual Studio&lt;/em&gt; 2012 installation so we first uninstalled the 2012 installation. After the uninstall we installed &lt;em&gt;Visual Studio&lt;/em&gt; 2013. &lt;b&gt;...&lt;/b&gt; Uninstall the Office developer &lt;em&gt;tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; 2012. Repair the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Microsoft Playground</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 07:53:45 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
