@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" linq blog -job -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+linq+blog+-job+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>4 results</description>
+    <opensearch:totalResults>4</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>4</opensearch:itemsPerPage>
+    <item>
+      <title>[Pet Shop Reloaded] The End | The CodeFluent Entities &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.codefluententities.com/2013/11/24/pet-shop-reloaded-the-end/</link>
+      <description>The first image shows a query using &lt;em&gt;Entity Framework&lt;/em&gt; and &lt;em&gt;Linq&lt;/em&gt;-to-Entities, we can also see the dynamically SQL generated code translated from the C# code. The second image shows the same query using CodeFluent Entities and its&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The CodeFluent Entities Blog</dc:publisher>
+      <dc:creator>SoftFluent</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 18:37:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>Getting the Show on the Road | Ramblings of an IT Professional</title>
+      <link>http://frankdecaire.blogspot.com/2013/11/getting-show-on-road.html</link>
+      <description>I still need to spend more time to research NHibernate, but for now I think I&amp;#39;ll just run with &lt;em&gt;Entity Framework&lt;/em&gt;. One of the positives of EF &lt;b&gt;...&lt;/b&gt; So Friday I began the tedious task of converting one of the &lt;em&gt;LINQ&lt;/em&gt;-to-SQL subsystems to EF. Most of it went&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Ramblings of an IT Professional</dc:publisher>
+      <dc:creator>Frank DeCaire</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 19:19:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Growing with the Web: The samp element</title>
+      <link>http://www.growingwiththeweb.com/2013/11/the-samp-element.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; MVC (5); AWS (1); &lt;em&gt;Blogging&lt;/em&gt; (6); C# (24); Canvas (2); Chrome (7); CodePen (2); Computer science (13); Concurrency (3); CSS (31); Dart (3); Data structure (4); Data-binding (1); Debugging (5); Design (8); Design pattern (6); &lt;em&gt;Entity framework&lt;/em&gt; ( 2) &lt;b&gt;...&lt;/b&gt; &lt;em&gt;LINQ&lt;/em&gt; (2); Markdown (1); Math (1); Microsoft (3); Modernizr (1); My projects (5); Natural language (3); Opera (1); Optimisation (5); ORM (2); Pathfinding (1); Prettyprint (2); Productivity (8); Razor (4); Reflection (1); Responsive web design (3)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Growing with the Web</dc:publisher>
+      <dc:creator>noreply@blogger.com (Daniel Imms)</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 21:18:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Fail at Child Safety | Tycholien</title>
+      <link>http://tycholien.wordpress.com/2013/11/23/microsoft-fail-at-child-safety/</link>
+      <description>Categories. Azure Service Bus &amp;middot; BizTalk &amp;middot; E-Safety &amp;middot; &lt;em&gt;Entity Framework&lt;/em&gt; &amp;middot; ESB 2.1 &amp;middot; Microsoft &amp;middot; Random Stuff &amp;middot; Triathlon &amp;middot; Uncategorized &amp;middot; Windows 8 &amp;middot; Windows Azure AppFabric &amp;middot; Windows Phone 7 &amp;middot; Windows Phone 8 &amp;middot; Windows Workflow&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Tycholien</dc:publisher>
+      <dc:creator>TychoLien</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 19:54:17 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

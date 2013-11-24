@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Web.Mvc;
 using Plinkit.Domain.Repositories;
 using Plinkit.UI.ViewModels;
@@ -9,9 +10,18 @@ namespace Plinkit.UI.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Your one stop shop for Programmer Links.";                  
+            ViewBag.Message = "Your one stop shop for Daily Programming Links.";                  
             return View(new DailyLinksViewModel(new SqlDailyLinksRepository(),                                                
                                                 DateTime.Now.Date));
+        }
+
+        public ActionResult Archive(string date)
+        {
+            var linkDate = new DateTime();
+            DateTime.TryParse(date, CultureInfo.GetCultureInfo("en-GB"), DateTimeStyles.None, out linkDate);
+            ViewBag.Message = "Your one stop shop for Daily Programming Links.";
+            return View("Index", new DailyLinksViewModel(new SqlDailyLinksRepository(),
+                                                         linkDate));
         }
 
         public ActionResult About()

@@ -10,7 +10,21 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
+
+            mesos = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+            dias = ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"];
+
+            $('#demo').bic_calendar({
+                nombresMes: mesos,
+                dias: dias,
+                req_ajax: {
+                    type: 'get',
+                    url: 'http://bic.cat/bic_calendar/index.php' // External calls
+                }
+            });
+
             $.fn.popover.defaults.html = true;
             $.fn.popover.defaults.trigger = 'hover';
             $(".pop")
@@ -22,7 +36,7 @@
     </script>
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar navbar-fixed-top">
         <div class="navbar-inner">
             <div class="container-fluid">
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span

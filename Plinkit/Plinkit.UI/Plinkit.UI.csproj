@@ -145,6 +145,7 @@
     <Compile Include="ViewModels\DailyLinksViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\css\bic-calendar.css" />
     <Content Include="Content\css\bootstrap-responsive.css" />
     <Content Include="Content\css\bootstrap-responsive.min.css" />
     <Content Include="Content\css\bootstrap.css" />
@@ -181,6 +182,9 @@
     <Content Include="Content\themes\base\jquery.ui.theme.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\plinkit-hero.gif" />
+    <Content Include="Images\plinkit-small.gif" />
+    <Content Include="Scripts\bootstrap.bic-calendar.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.7.2-vsdoc.js" />

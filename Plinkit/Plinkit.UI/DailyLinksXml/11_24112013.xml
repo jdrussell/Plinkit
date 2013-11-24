@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"robert c martin" blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=%22robert+c+martin%22+blog+-stackoverflow&amp;lr=lang_en&amp;hl=en&amp;tbm=blg&amp;tbs=qdr:m,lr:lang_1en</link>
+    <description>About 671 results</description>
+    <opensearch:totalResults>671</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Dev&amp;#39;s Corner: Clean Coding (Part One) - FileCatalyst</title>
+      <link>http://www.filecatalyst.com/devs-corner-clean-coding-part-one</link>
+      <description>A few years ago I came across a book, Clean Code: A Handbook of Agile Software Craftsmanship, by &lt;em&gt;Robert C. Martin&lt;/em&gt;. It changed everything &lt;b&gt;...&lt;/b&gt; Posted on Tuesday, November 19th, 2013 under the: Acceleration, &lt;em&gt;Blog&lt;/em&gt; category. Both comments&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>FileCatalyst » Fast File Transfer by FileCatalyst |</dc:publisher>
+      <dc:creator>Cara</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 15:25:25 GMT</dc:date>
+    </item>
+    <item>
+      <title>Pragmatic SOLID Part 2 – The Open/Closed Principle &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://gilesey.wordpress.com/2013/11/09/pragmatic-solid-part-2-the-openclosed-principle/</link>
+      <description>Software entities (classes, modules, functions etc.) should be open for extension but closed for modification- &lt;em&gt;Robert C. Martin&lt;/em&gt; February 1997 TL;DR Let the act of changing code be the catalyst for protecting against that kind of change in future.</description>
+      <dc:publisher>@GilesDMiddleton</dc:publisher>
+      <dc:creator>Giles Middleton</dc:creator>
+      <dc:date>Sat, 09 Nov 2013 12:48:42 GMT</dc:date>
+    </item>
+    <item>
+      <title>11 Strategies for Dealing With Technical Debt | Disciplined Agile &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://disciplinedagiledelivery.wordpress.com/2013/11/10/technical-debt/</link>
+      <description>There are many good online resources regarding technical debt, and the best single one that we have found is Israel Gat&amp;#39;s &lt;em&gt;blog&lt;/em&gt;. Technical debt is real and you need a viable strategy to manage it. &lt;b&gt;...&lt;/b&gt; No_trade_for_basic_levels – “Bad code is always imprudent.” says &lt;em&gt;Robert C. Martin&lt;/em&gt;. Methodology_Induced_Debt – use context-proper iterative approach, that mean the right design strategy in the context. Agile techniques: Clean Code (“prefactoring”), Refactoring, TDD (pay the debt early)</description>
+      <dc:publisher>Disciplined Agile Delivery</dc:publisher>
+      <dc:creator>scottwambler</dc:creator>
+      <dc:date>Sun, 10 Nov 2013 19:59:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jeremy Bytes: New Pluralsight Course: Practical Reflection in .NET</title>
+      <link>http://jeremybytes.blogspot.com/2013/11/new-pluralsight-course-practical.html</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt; Archive. 2013 (60). November (2). New Pluralsight Course: Practical Reflection in .N... November 2013 Speaking Engagement: Desert Code Cam... October (10). September (3). August (7). July (9). June (1). May (5). April (7). March (9) &lt;b&gt;....&lt;/b&gt; The Agile Samurai - Jonathan Rasmusson; Javascript: The Good Parts - Douglas Crockford; Test-Driven Development By Example - Kent Beck; Working Effectively with Legacy Code - Michael C. Feathers; Clean Code - &lt;em&gt;Robert C. Martin&lt;/em&gt;; The Art &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Jeremy Bytes</dc:publisher>
+      <dc:creator>Jeremy</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 19:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>More Stuff less Fluff - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/brendonpage/archive/2013/11/08/more-stuff-less-fluff.aspx</link>
+      <description>&lt;em&gt;Robert C Martin&lt;/em&gt; explains it very nicely, he says a good architecture allows you to defer decisions because if you can defer a decision then you have the flexibility to change it. I&amp;#39;ve recently had a YAGNI experience which brought this all into&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Brendon Page</dc:publisher>
+      <dc:creator>brendonpage</dc:creator>
+      <dc:date>Fri, 08 Nov 2013 06:25:20 GMT</dc:date>
+    </item>
+    <item>
+      <title>config-smartics-alias-1.1.0 released! | smartics</title>
+      <link>http://www.smartics.de/archives/3965</link>
+      <description>The configuration config-smartics-alias for the alias-maven-plugin has been released with version 1.1.0. The new configuration allows to talk to a JBoss AS via the jboss-as-maven-plugin via aliases.</description>
+      <dc:publisher>smartics</dc:publisher>
+      <dc:creator>Robert</dc:creator>
+      <dc:date>Thu, 31 Oct 2013 07:46:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>So, what&amp;#39;s it like to sell your first company? | Alex Iskold</title>
+      <link>http://alexiskold.net/2013/11/07/so-whats-it-like-to-sell-your-first-company/</link>
+      <description>Also, I met &lt;em&gt;Robert C. Martin&lt;/em&gt; in person, and was drinking Agile Software cool aid (I still do). In any case, a biz dev person from &lt;b&gt;....&lt;/b&gt; books, yoga, running, red wine. Past obsessions: poetry, teaching, complex systems, engineering, tv, &lt;em&gt;blogging&lt;/em&gt;.</description>
+      <dc:publisher>Alex Iskold</dc:publisher>
+      <dc:creator>alexiskold</dc:creator>
+      <dc:date>Thu, 07 Nov 2013 02:08:58 GMT</dc:date>
+    </item>
+    <item>
+      <title>Clean Code Development &amp;amp; Flexible work environment - MSCC &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://jochen.kirstaetter.name/blog/community/mscc-26102013-clean-code-developer-flexible-work-environment.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; learned first-hand about Clean Code. Currently, he is reading the book of &lt;em&gt;Robert C. Martin&lt;/em&gt; on that topic and I&amp;#39;m looking forward to his review soon. &lt;b&gt;...&lt;/b&gt; At least put it on your site, next to your personal &lt;em&gt;blog&lt;/em&gt;. Similar to what you would be able to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Articles</dc:publisher>
+      <dc:creator>jochen@kirstaetter.name (Jochen Kirstaetter)</dc:creator>
+      <dc:date>Mon, 28 Oct 2013 06:19:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dig into NoSql with MongoDB | Rob Seder</title>
+      <link>http://blog.robertseder.com/2013/10/29/dig-into-nosql-with-mongodb/</link>
+      <description>Meanwhile, &lt;em&gt;Robert C. Martin&lt;/em&gt; came out with Clean Code. He and other well-respected thought leaders came &lt;b&gt;...&lt;/b&gt; MongoDB (one NoSQL product, amongst many) I plan to do a handful of &lt;em&gt;blog&lt;/em&gt; posts on how to setup and use MongoDB from the .</description>
+      <dc:publisher>Rob Seder</dc:publisher>
+      <dc:creator>Robert Seder</dc:creator>
+      <dc:date>Tue, 29 Oct 2013 22:52:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>Some Good Technical Books - Ranker</title>
+      <link>http://www.ranker.com/list/some-good-technical-books/arun</link>
+      <description>Some Good Technical Books. arun 4,385 views 18 items 3 voters. Some good technical books I have read/referred. rerank this list your way. View: Info &amp;middot; Slideshow &amp;middot; &lt;em&gt;Blog&lt;/em&gt; &amp;middot; Add Item Follow List More Options. More Options. Embed This &lt;b&gt;...&lt;/b&gt; 9. Up 0. Down 0. No image. Perl Best Practices. Damian Conway. BUY @ AMAZON. 10. Up 0. Down 0. No image. natural language processing with python. BUY @ AMAZON. 11. Up 0. Down 0. No image. Clean code - &lt;em&gt;Robert C. Martin&lt;/em&gt;.</description>
+      <dc:publisher>Ranker: Recent World Lists</dc:publisher>
+      <dc:creator>http://www.ranker.com/profile-of/arun</dc:creator>
+      <dc:date>Wed, 20 Nov 2013 11:26:15 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

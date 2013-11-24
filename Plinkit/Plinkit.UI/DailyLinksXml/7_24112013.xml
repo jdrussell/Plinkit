@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>1 result</description>
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <item>
+      <title>Dinis Cruz &lt;b&gt;Blog&lt;/b&gt;: SI Open Sources the Eclipse Plugin-development &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.diniscruz.com/2013/11/si-open-sources-eclipse-plugin.html</link>
+      <description>I used the O2 Platform REPL (and Resharper+Ncrunch VS plugins) to have a proper &lt;em&gt;TDD&lt;/em&gt; development mode (i.e. high effectiveness and productivity), and in the Eclipse world (specially in plugin development) I had a 10 to 30 sec delay before&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dinis Cruz Blog</dc:publisher>
+      <dc:creator>Dinis Cruz</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 16:18:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

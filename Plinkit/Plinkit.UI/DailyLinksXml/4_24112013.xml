@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 138 results</description>
+    <opensearch:totalResults>138</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Obfuscated &lt;b&gt;JavaScript&lt;/b&gt; Code - LeakedIn</title>
+      <link>http://www.leakedin.com/2013/11/24/potential-leak-of-data-obfuscated-javascript-code-542/</link>
+      <description>Detected 1 occurrence(s) of &amp;#39;&lt;em&gt;javascript&lt;/em&gt;.*eval\(&amp;#39;: document.write(&amp;#39;&amp;lt;script language=&amp;quot;&lt;em&gt;JavaScript&lt;/em&gt;&amp;quot;&amp;gt;document.write(\&amp;#39;&amp;lt;div id=&amp;quot;gripper&amp;quot; style=&amp;quot;position: fixed; top: 0; bottom: 0; left: 0; right: 0;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;\/div&amp;gt;\&amp;#39;);&amp;lt;\/script&amp;gt;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>LeakedIn</dc:publisher>
+      <dc:creator>PasteMon</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 01:29:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>Chrome Extension Programming: Illustrating a Basic Survival Skill &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://karpathy.ca/myblog/2013/11/23/chrome-extension-programming-illustrating-a-basic-survival-skill-with-a-twitter-case-study/</link>
+      <description>Writing extensions is very fast: you need a short manifest file that contains some boring meta information, a few &lt;em&gt;js&lt;/em&gt;/html files with your code in a folder, and then you simply activate the folder as an extension from the Extensions menu with a few clicks. &lt;b&gt;...&lt;/b&gt; You can run &lt;em&gt;Javascript&lt;/em&gt;. On top of any webpage. You can Read the page DOM. You can write to it, automatically, on load of the webpage or even periodically! This gives you complete freedom in modifying any webpage to your tastes:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Andrej Karpathy: Blog</dc:publisher>
+      <dc:creator>Andrej</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 22:06:17 GMT</dc:date>
+    </item>
+    <item>
+      <title>jQuery and Fabric.&lt;b&gt;js&lt;/b&gt; - Custom Script Modification | CSS | HTML5 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.freelancer.com/projects/PHP-CSS/jQuery-Fabric-Custom-Script-Modification.html</link>
+      <description>Project Description: Hello, I do have a ready made script written in jQuery and Fabric.&lt;em&gt;js&lt;/em&gt;, I need a few modifications on the source code to do the below changes: This is the url to the script, I will provide you the source code if you think you can&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Freelancer.com - New Projects</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 05:25:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>My links of the week – November 24, 2013 | R4</title>
+      <link>http://ruirib.net/blog/index.php/2013/11/my-links-of-the-week-november-24-2013/</link>
+      <description>Keeping with the &lt;em&gt;Javascript&lt;/em&gt; there, both Scott Hanselman&amp;#39;s Introducing node.&lt;em&gt;js&lt;/em&gt; Tools for Visual Studio and Bart Read&amp;#39;s Node.&lt;em&gt;js&lt;/em&gt; Development in Visual Studio – Life After Visual Node with Node Tools for Visual Studio provide good&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>R4</dc:publisher>
+      <dc:creator>Rui</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 13:41:01 GMT</dc:date>
+    </item>
+    <item>
+      <title>sFlow: Exporting events using syslog</title>
+      <link>http://blog.sflow.com/2013/11/exporting-events-using-syslog.html</link>
+      <description>The following sFlow-RT &lt;em&gt;JavaScript&lt;/em&gt; application (syslog.&lt;em&gt;js&lt;/em&gt;) defines a flow to track ICMP port unreachable messages and generate syslog events that are sent to the SIEM tool running on server 10.0.0.152 and listening for UDP syslog events on the default syslog port (514): var server = &amp;#39;10.0.0.152&amp;#39;; var port = 514; var facility = 16 &lt;b&gt;...&lt;/b&gt; Finally, log export is only one of many applications for sFlow data, some of which have been described on this &lt;em&gt;blog&lt;/em&gt;. The data center wide visibility provided by&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>sFlow</dc:publisher>
+      <dc:creator>Peter</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 16:32:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Bulk exporting Word documents to other formats with &lt;b&gt;JavaScript&lt;/b&gt; | Ali &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.alishabdar.com/2013/11/24/bulk-exporting-word-documents-to-other-formats-with-javascript/</link>
+      <description>Open up a text editor, paste the code in Listing 1, and save the file as bulk_word_exporter.&lt;em&gt;js&lt;/em&gt;. Set the value of sourcePath (line 10) to the folder containing the source files. &lt;b&gt;...&lt;/b&gt; Quit(); } wordDoc = null; wordApp = null; fso = null; } /* serialize function, thanks to http://&lt;em&gt;blog&lt;/em&gt;.stchur.com/2007/04/06/serializing-objects-in-&lt;em&gt;javascript&lt;/em&gt;/ */ function serialize(_obj) { // Let Gecko browsers do this the easy way if (typeof _obj.toSource !== &amp;#39;undefined&amp;#39; &amp;amp;&amp;amp; typeof _obj.callee === &amp;#39;undefined&amp;#39;) { return _obj.</description>
+      <dc:publisher>Ali Shabdar</dc:publisher>
+      <dc:creator>Ali</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 08:36:08 GMT</dc:date>
+    </item>
+    <item>
+      <title>Day 27: Restify–Build Correct REST Web Services in Node.&lt;b&gt;js&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://whyjava.wordpress.com/2013/11/24/day-27-restify-build-correct-rest-web-services-in-node-js/</link>
+      <description>The restify module makes it very easy to write correct RESTful APIs in Node.&lt;em&gt;js&lt;/em&gt; and provides out-of-the-box support for features like versioning, error handling, CORS, and content negotiation. It borrows heavily from Express (intentionally) as&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Shekhar Gulati</dc:publisher>
+      <dc:creator>whyjava</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 17:37:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>japh(r) by Chris Strom: Converting &lt;b&gt;JavaScript&lt;/b&gt; Polymer to Dart</title>
+      <link>http://japhr.blogspot.com/2013/11/converting-javascript-polymer-to-dart.html</link>
+      <description>I still have more questions than I&amp;#39;d like in my &lt;em&gt;JavaScript&lt;/em&gt; implementation of a Polymer + Boostrap element. But I think most of those questions can be deferred until later. Tonight I convert my custom Polymer elements into Dart using&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>japh(r) by Chris Strom</dc:publisher>
+      <dc:creator>Chris Strom</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 04:59:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>sFlow: Metric export to Graphite</title>
+      <link>http://blog.sflow.com/2013/11/metric-export-to-graphite.html</link>
+      <description>The following script (graphite.&lt;em&gt;js&lt;/em&gt;) re-implements the Python example (generating a sum of the load_one metric for a cluster of Linux machines) in &lt;em&gt;JavaScript&lt;/em&gt; using sFlow-RT built-in functions for retrieving metrics and sending them to Graphite: // author: Peter // version: 1.0 // date: 11/23/2013 // description: &lt;b&gt;...&lt;/b&gt; Finally, metrics export is only one of many applications for sFlow data, some of which have been described on this &lt;em&gt;blog&lt;/em&gt;. The data center wide visibility provided by sFlow-RT supports &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>sFlow</dc:publisher>
+      <dc:creator>Peter</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 21:34:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>T w i l i g h t - little-nincompoop - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://nuraini-faradilla.blogspot.com/2013/11/intan-nashuha-binti-mohd-efendi.html</link>
+      <description>Wello! :B You&amp;#39;ve stepped into an Idiot&amp;#39;s paradise. Remember to tag and visit nuraini &lt;em&gt;blog&lt;/em&gt; @ little-nincompoop! -chuu- ♥. Disclaimer. Welcome to my &lt;em&gt;blog&lt;/em&gt;. Before anything else please follow these rules : No ripping, spamming, and any type of&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Adik Sdbl Blog</dc:publisher>
+      <dc:creator>adik sdbl</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 04:26:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

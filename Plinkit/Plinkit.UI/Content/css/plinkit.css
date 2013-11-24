@@ -5,6 +5,15 @@ body
     margin: 0;
 }
 
+.brand
+{
+    background: url(../../Images/plinkit-small.gif) no-repeat top left;
+    display: block;
+    width: 150px;
+    height: 30px;
+    text-indent: -9999px;
+}
+
 .clear { margin-bottom: 1em; }
 
 .pop { margin: 0; }

@@ -26,7 +26,8 @@ namespace Plinkit.UI
 
             bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/css/bootstrap.css",
                 "~/Content/css/plinkit.css",                                                 
-                "~/Content/css/bootstrap-responsive.css"));
+                "~/Content/css/bootstrap-responsive.css",
+                "~/Content/css/bic-calendar.css"));
         }
     }
 }

@@ -14,3 +14,11 @@ C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\bin\Debug\EntityF
 C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.dll
 C:\Users\Erin Russel\Documents\RustyDev\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.pdb
+C:\Git\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll.config
+C:\Git\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.dll
+C:\Git\Plinkit\Plinkit.Domain\bin\Debug\Plinkit.Domain.pdb
+C:\Git\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.dll
+C:\Git\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.xml
+C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.csprojResolveAssemblyReference.cache
+C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.dll
+C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.pdb

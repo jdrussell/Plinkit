@@ -10,13 +10,12 @@ using Plinkit.UI.Services;
 namespace Plinkit.UI.ViewModels
 {
     public class DailyLinksViewModel
-    {
-        private readonly DateTime _date;        
-        
+    {                   
         private readonly IRepository<DailyLinksContainer> _repository;
         private DailyLinksContainer _container;
         private bool _persistNewLinksCollection;
 
+        public DateTime Date;     
         public IEnumerable<DailyLink> WebDevelopmentLinks
         {
             get
@@ -107,7 +106,7 @@ namespace Plinkit.UI.ViewModels
 
         public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, DateTime date)
         {
-            _date = date;
+            Date = date;
             _repository = repository;
             SetupData();
         }
@@ -120,12 +119,12 @@ namespace Plinkit.UI.ViewModels
 
         private void SetDailyLinksContainer()
         {
-            //_container = _repository.GetByDate(_date);
+            //_container = _repository.GetByDate(Date);
             if (_container == null)
             {
                 _container = new DailyLinksContainer
                     {
-                        Date = _date,
+                        Date = Date,
                         Links = new List<DailyLink>()
                     };
                 _persistNewLinksCollection = true;
@@ -161,7 +160,8 @@ namespace Plinkit.UI.ViewModels
         private void SetWebDevelopmentLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.WebDevelopment,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -171,7 +171,8 @@ namespace Plinkit.UI.ViewModels
         private void SetEntityFrameworkLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.EntityFramework,
-                                              new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -181,7 +182,8 @@ namespace Plinkit.UI.ViewModels
         private void SetVisualStudioLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.VisualStudio,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -191,7 +193,8 @@ namespace Plinkit.UI.ViewModels
         private void SetJavascriptLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.Javascript,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -201,7 +204,8 @@ namespace Plinkit.UI.ViewModels
         private void SetCleanCodeLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.CleanCode,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -211,7 +215,8 @@ namespace Plinkit.UI.ViewModels
         private void SetProductivityLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.Productivity,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -221,7 +226,8 @@ namespace Plinkit.UI.ViewModels
         private void SetUnitTestingLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.UnitTesting,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -231,7 +237,8 @@ namespace Plinkit.UI.ViewModels
         private void SetComputerScienceLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.ComputerScience,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -241,7 +248,8 @@ namespace Plinkit.UI.ViewModels
         private void SetFunctionalProgrammingAndFSharpLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.FunctionalProgrammingAndFSharp,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -251,7 +259,8 @@ namespace Plinkit.UI.ViewModels
         private void SetComputingTechnologyLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.ComputingTechnology,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);
@@ -261,7 +270,8 @@ namespace Plinkit.UI.ViewModels
         private void SetUncleBobLinks()
         {
             using (var rssReader = new RssReader(RssFeeds.UncleBob,
-                                                 new RssWebCaller()))
+                                                 new RssWebCaller(),
+                                                 Date))
             {
                 var links = rssReader.GetFeed();
                 _container.Links.AddRange(links);

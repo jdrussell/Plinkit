@@ -4,7 +4,7 @@ namespace Plinkit.Domain.Configuration
 {
     public class RssFeeds
     {
-        private const string WebDevelopmentFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=%22asp+net%22+mvc+html+5+blog+-job+-newslawonline+-download+-%22experience+with%22+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
+        private const string WebDevelopmentFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=asp+net+mvc+blog+-jobs+-newslawonline+-download+-%22experience+with%22+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string EntityFrameworkFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=%22entity+framework%22+linq+blog+-job+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string VisualStudioFeed = "https://www.google.co.uk/search?lr=lang_en&q=%22visual+studio%22+tools+blog+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string JavascriptFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=javascript+js+blog+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";

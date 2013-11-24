@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 53 results</description>
+    <opensearch:totalResults>53</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>[Pet Shop Reloaded] The End | The CodeFluent Entities &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.codefluententities.com/2013/11/24/pet-shop-reloaded-the-end/</link>
+      <description>We used the &lt;em&gt;Visual Studio&lt;/em&gt; 2012 &lt;em&gt;tool&lt;/em&gt; for code metrics analysis (Analyze -&amp;gt; Calculate Code Metrics for Solution). We focalize on 3 indexes: Lines of Code, Maintainability Index and Cyclomatic Complexity. For each index the less is better.</description>
+      <dc:publisher>The CodeFluent Entities Blog</dc:publisher>
+      <dc:creator>SoftFluent</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 18:37:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>My links of the week – November 24, 2013 | R4</title>
+      <link>http://ruirib.net/blog/index.php/2013/11/my-links-of-the-week-november-24-2013/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; both Scott Hanselman&amp;#39;s Introducing node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; and Bart Read&amp;#39;s Node.js Development in &lt;em&gt;Visual Studio&lt;/em&gt; – Life After Visual Node with Node &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; provide good presentations of the &lt;em&gt;Visual Studio tools&lt;/em&gt; for&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>R4</dc:publisher>
+      <dc:creator>Rui</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 13:41:01 GMT</dc:date>
+    </item>
+    <item>
+      <title>Professional Windows Phone 7 Application &lt;b&gt;...&lt;/b&gt; - &lt;b&gt;Blog&lt;/b&gt; Lang thang</title>
+      <link>http://vinhdq.blogspot.com/2013/11/professional-windows-phone-7.html</link>
+      <description>Professional Windows Phone 7 Application Development: Building Applications and Games Using &lt;em&gt;Visual Studio&lt;/em&gt;, Silverlight, and XNA &lt;b&gt;...&lt;/b&gt; Fills the void in the market for an instructional book on developing applications for Windows Phone 7; Offers an overview of Windows Phone and discusses the necessary &lt;em&gt;tools&lt;/em&gt;; Explains how to work with multiview applications; Addresses &lt;em&gt;tool&lt;/em&gt; bars, pickers, table views, navigation controllers, application setting, and user defaults; Reviews drawing&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Blog Lang thang</dc:publisher>
+      <dc:creator>Tiếu Thủy</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 16:14:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;Visual Studio&lt;/b&gt; 2010 Professional (Old Version) | New Plans &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://newplans.net/blog/blog/home/visual-studio-2010-professional-old-version/</link>
+      <description>Creativity Unleashed Create what you can imagine with powerful editing and visual design &lt;em&gt;tools&lt;/em&gt;. &lt;em&gt;Visual Studio&lt;/em&gt; opens new possibilities for your applications by unlocking the power of the processor on your local machine and in the cloud.</description>
+      <dc:publisher>New Plans Blog</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 04:15:51 GMT</dc:date>
+    </item>
+    <item>
+      <title>Getting the Show on the Road | Ramblings of an IT Professional</title>
+      <link>http://frankdecaire.blogspot.com/2013/11/getting-show-on-road.html</link>
+      <description>One of the positives of EF over NHibernate is the visual &lt;em&gt;tool&lt;/em&gt; that makes it easy to setup the data objects. &lt;b&gt;...&lt;/b&gt; If you&amp;#39;re using Moq, make sure you download the NuGet package for Moq (it&amp;#39;s not included in the base install of &lt;em&gt;Visual Studio&lt;/em&gt; 2012).</description>
+      <dc:publisher>Ramblings of an IT Professional</dc:publisher>
+      <dc:creator>Frank DeCaire</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 19:19:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Campus App-a-thon: Ahsanullah University of &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/saqib/archive/2013/11/24/campus-app-a-thon-ahsanullah-university-of-science-amp-technology.aspx</link>
+      <description>During the specified app development time participants will access the Internet and, subject to the terms in this document, use any &lt;em&gt;tools&lt;/em&gt; to produce Windows Phone apps based on themes and problem sets to be provided by Microsoft. b.</description>
+      <dc:publisher>Tanzim Saqib</dc:publisher>
+      <dc:creator>Tanzim-Saqib</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 09:52:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>FsUnit and &lt;b&gt;Visual Studio&lt;/b&gt; 2013 “Could not load file or assembly &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://cyanbyfuchsia.wordpress.com/2013/11/23/fsunit-and-visual-studio-2013-could-not-load-file-or-assembly-fsharp-core-version4-0-0-0/</link>
+      <description>However, for F# programmer, &lt;em&gt;Visual Studio&lt;/em&gt; doesn&amp;#39;t come with F# Unit Test Project. As F# is one of CLI &lt;b&gt;...&lt;/b&gt; However, if you want to test F# with F#, there are many F# testing &lt;em&gt;tools&lt;/em&gt; and libraries that you can try. What I use is FsUnit which has&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Cyan By Fuchsia</dc:publisher>
+      <dc:creator>kimsk</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 01:30:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>Why Katana &amp;amp; OWIN – Why Now? | Chandara</title>
+      <link>http://lchandara.wordpress.com/2013/11/24/why-katana-owin-why-now/</link>
+      <description>It can be found on the NuGet gallery and can be installed using either the &lt;em&gt;Visual Studio&lt;/em&gt; package manager dialog or the package manager console with the following command: install-package Microsoft. &lt;b&gt;...&lt;/b&gt; From the command line, we can then navigate to the project root folder and simply run the OwinHost.exe (which was installed in the &lt;em&gt;tools&lt;/em&gt; folder of its respective NuGet package). By default, OwinHost.exe is &lt;b&gt;....&lt;/b&gt; Posted by chandara&amp;#39;s &lt;em&gt;blog&lt;/em&gt; on November 24, 2013 in ASP.NET and ASP.</description>
+      <dc:publisher>Chandara</dc:publisher>
+      <dc:creator>chandara's blog</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 07:38:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>Mainframe Update: Vivat mainframe - Mainframe Update - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://mainframeupdate.blogspot.com/2013/11/vivat-mainframe.html</link>
+      <description>It&amp;#39;s making sure it has its hands on the &lt;em&gt;tools&lt;/em&gt; and the people who are developing these newer technologies. My conclusion is that there are new problems that need to be solved. And there are new technologies available to solve them. But so&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Mainframe Update</dc:publisher>
+      <dc:creator>Trevor Eddolls</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 10:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Growing with the Web: The samp element</title>
+      <link>http://www.growingwiththeweb.com/2013/11/the-samp-element.html</link>
+      <description>Styling. Given what we now know about the samp element, we can use this knowledge to intelligently style the elements with minimal markup, depending on the context of course. For example a command line &lt;em&gt;tool&amp;#39;s&lt;/em&gt; website could style samp&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Growing with the Web</dc:publisher>
+      <dc:creator>noreply@blogger.com (Daniel Imms)</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 21:18:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

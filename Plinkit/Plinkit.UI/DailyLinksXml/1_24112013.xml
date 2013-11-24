@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"asp net" mvc html 5 blog -job -newslawonline -download -"experience with" -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22asp+net%22+mvc+html+5+blog+-job+-newslawonline+-download+-%22experience+with%22+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>4 results</description>
+    <opensearch:totalResults>4</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>4</opensearch:itemsPerPage>
+    <item>
+      <title>Using the Sage 300 .Net API from &lt;b&gt;ASP.Net MVC&lt;/b&gt; | Stephen Smith&amp;#39;s &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://smist08.wordpress.com/2013/11/23/using-the-sage-300-net-api-from-asp-net-mvc/</link>
+      <description>Stephen Smith&amp;#39;s &lt;em&gt;Blog&lt;/em&gt;. All things Sage ERP… &lt;b&gt;...&lt;/b&gt; As a result I created the sample application that goes with this article in Visual Studio 2013 using &lt;em&gt;ASP.Net MVC&lt;/em&gt; version 5. &lt;em&gt;MVC&lt;/em&gt; versus WinForms. I&amp;#39;ve been using WinForms for the samples in this series of articles on the Sage 300 .Net API because WinForms makes &lt;b&gt;...&lt;/b&gt; I can produce UIs just as rich as with WinForms, but now they need to be specified in &lt;em&gt;HTML5&lt;/em&gt;/CSS and there are a number of additional capabilities that they get as a result.</description>
+      <dc:publisher>Stephen Smith's Blog</dc:publisher>
+      <dc:creator>smist08</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 21:40:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Hack Proof Your &lt;b&gt;Asp.Net&lt;/b&gt; Application Part 3 (Cross Site Request &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sarveshkushwaha.blogspot.com/2013/11/secure-asp-net-applications-from-csrf-attack.html</link>
+      <description>Image link/ any link in email , on any website or on any &lt;em&gt;blog&lt;/em&gt; . &lt;b&gt;...&lt;/b&gt; For &lt;em&gt;Asp.Net MVC&lt;/em&gt; : Use AntiForgeryTokens; Use SSL to prevent sniffing of AntiForgeryTokens. Basically Idea behind this token is Generate a token for forms and validate this token at the server side before performing the action. To achieve this we will have to create a toke in View of &lt;em&gt;Asp.net MVC&lt;/em&gt; and the this token will be verified at the Action of our &lt;b&gt;...&lt;/b&gt; Use @&lt;em&gt;Html&lt;/em&gt;.AntiForgeryToken() in your forms to generate token. @using&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sarvesh Kushwaha</dc:publisher>
+      <dc:creator>Sarvesh Kushwaha</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 08:26:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>[Pet Shop Reloaded] The End | The CodeFluent Entities &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.codefluententities.com/2013/11/24/pet-shop-reloaded-the-end/</link>
+      <description>Across this series of posts we have seen how is to design and build a business application using CodeFluent Entities and Entity Framework &lt;em&gt;5&lt;/em&gt; and as you have seen, we can say that CodeFluent Entities can be located as a superset of Entity &lt;b&gt;...&lt;/b&gt; WPF; WindowsForms; Azure; Windows 8; &lt;em&gt;ASP.NET MVC&lt;/em&gt;; WCF; REST/JSON web services; SharePoint; Silverlight proxy; advanced web services proxies; automatic traces; cache features; documentation files; Linq-to-Sql; Access and Excel lists&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The CodeFluent Entities Blog</dc:publisher>
+      <dc:creator>SoftFluent</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 18:37:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>0 - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/archive/2011/01.aspx</link>
+      <description>Steps to Get &lt;em&gt;MVC&lt;/em&gt; running with Ninject. Aligned, November 20, 2013 Dependency &lt;b&gt;...&lt;/b&gt; November 19, 2013. Today&amp;#39;s $10 deal of the day from APress at http://www.apress.com/97814... is Foundation &lt;em&gt;HTML5&lt;/em&gt; Animation with JavaScript &amp;quot;Foundation &lt;em&gt;HTML5&lt;/em&gt; Animation with JavaScript takes the code from Keith Peters&amp;#39; . &lt;b&gt;....&lt;/b&gt; Beginning &lt;em&gt;ASP.NET&lt;/em&gt; 4.5 Databases. TATWORTH, November 15 &lt;b&gt;...&lt;/b&gt; Microsoft Press are offering a free E-Book at http://&lt;em&gt;blogs&lt;/em&gt;.msdn.com/b/mic... - Introducing Windows Server&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Christian D. Yellington</dc:publisher>
+      <dc:creator>ChrisD</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 21:28:44 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

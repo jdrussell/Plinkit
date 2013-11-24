@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>About 1,350 results</description>
+    <opensearch:totalResults>1350</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #46, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/11/18/f-weekly-46-2013/</link>
+      <description>Welcome to &lt;em&gt;F#&lt;/em&gt; Weekly, A roundup of &lt;em&gt;F#&lt;/em&gt; content from this past week: News Deedle (Data manipulation library for &lt;em&gt;F#&lt;/em&gt; and C# inspired by Pandas) was announced! PCL and .NET NuGet Libraries are now enabled for Xamarin! Try Deedle in 10&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 17 Nov 2013 21:01:10 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Neural Networks with RProvider &amp;amp; Deedle | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>https://sergeytihon.wordpress.com/2013/11/18/f-neural-networks-with-rprovider-deedle/</link>
+      <description>Now we are one step closer to it from &lt;em&gt;F#&lt;/em&gt; and .NET. We will &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; Neural Networks with RProvider &amp;amp; Deedle &lt;b&gt;....&lt;/b&gt; Experienced software engineer who fond of &lt;em&gt;functional&lt;/em&gt; programming, data analysis, machine learning and search technology.</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 17 Nov 2013 21:14:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>Agents and Actor Models in &lt;b&gt;F#&lt;/b&gt; 3.0 with Rachel Reese - .NET Rocks!</title>
+      <link>http://www.dotnetrocks.com/default.aspx?ShowNum=925</link>
+      <description>Rachel&amp;#39;s background in mathematics led her to experiment with &lt;em&gt;functional&lt;/em&gt; languages like Erlang and &lt;em&gt;F#&lt;/em&gt;, and ultimately to solve problems more effectively utilizing techniques like parallelism from &lt;em&gt;F#&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; &lt;em&gt;blog&lt;/em&gt; comments powered by Disqus.</description>
+      <dc:publisher>.NET Rocks!</dc:publisher>
+      <dc:creator>dotnetrocks@franklins.net (Carl Franklin and Richard Campbell)</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 04:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>From C# To &lt;b&gt;F#&lt;/b&gt; And Back Again: Lambdas And More. - Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/334808-from-c</link>
+      <description>View &lt;em&gt;blog&lt;/em&gt;. Posts: 11,844; Joined: 16-October 07. Posted 16 minutes ago. As a language standard, C# has come a very long way since its creation, when it was little more than Java for .NET. In the spanning years, it has thrown off Java&amp;#39;s OO &lt;b&gt;...&lt;/b&gt; What is &lt;em&gt;F#&lt;/em&gt;? Isn&amp;#39;t it that thing frustrated Scala programmers use in .NET? Isn&amp;#39;t it only useful for math stuff? To quote: Quote. &lt;em&gt;F#&lt;/em&gt; is a succinct, expressive, and efficient &lt;em&gt;functional&lt;/em&gt; and object-oriented language for Microsoft .NET that helps you write&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Featured Topics at Dream.In.Code</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 23:37:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>Master &lt;b&gt;F#&lt;/b&gt; with Ted Neward! | Bellevue College Continuing Education</title>
+      <link>http://www.bellevuecollege.edu/ce/maste-f-with-ted-neward/</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt;. Master &lt;em&gt;F#&lt;/em&gt; with Ted Neward! Ted Neward describes himself as “a big geek who takes great pride in making other geeks into bigger, better, more highly rewarded geeks.” Beginning with C++, Ted has spent the last 15 years diving into the tech industry. He&amp;#39;s been working with .NET since before it &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; to your professional tool kit,” Ted notes. “This hybrid object-&lt;em&gt;functional&lt;/em&gt; language offers the best of both worlds by making it easy to do what objects do well and what functions do well. ”&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Bellevue College Continuing Education</dc:publisher>
+      <dc:creator>Ellen Kurek</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 23:53:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>SSIS Packages with &lt;b&gt;F#&lt;/b&gt; (Part 1) | Visual &lt;b&gt;F# Blog&lt;/b&gt; - FSharpBlog.com</title>
+      <link>http://fsharpblog.com/?p=88</link>
+      <description>Naturally, I thought of how nice it would be to use the power of &lt;em&gt;F#&lt;/em&gt; to create the script, but I had no time to figure out how to trick SSIS into using Fscript instead of a C# or VB script. What a natural fit &lt;b&gt;...&lt;/b&gt; This is a &lt;em&gt;functional&lt;/em&gt; member. You just have to love &lt;em&gt;functional&lt;/em&gt; programming with its &lt;em&gt;functional&lt;/em&gt; first class citizenship. &lt;em&gt;F#&lt;/em&gt; Response Module. In my code, I chose to create a Response Module, which I could have easily made a Type, but instead I chose to make it a module. I may have been&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Visual F# Blog</dc:publisher>
+      <dc:creator>James Roberts</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 15:36:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Introducing Java type provider | FourEightThree</title>
+      <link>http://colinbul.wordpress.com/2013/11/24/introducing-java-type-provider/</link>
+      <description>A while ago I blogged about some development I was working on with IKVM and type providers. At the time the type provider only worked with primitive types. Recently I have had time to take this a bit further and with the help of the &lt;em&gt;F#&lt;/em&gt; team&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>FourEightThree</dc:publisher>
+      <dc:creator>colinbul</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 12:27:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>FAKE 2.2 released » Rash thoughts about .NET, C#, &lt;b&gt;F#&lt;/b&gt; and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.navision-blog.de/blog/2013/11/22/fake_2_released/</link>
+      <description>This &lt;em&gt;Blog&lt;/em&gt; is about Microsoft Dynamics NAV (f.k.a Navision incl. C/SIDE and C/AL), C#, &lt;em&gt;F#&lt;/em&gt; and .NET in general. &lt;b&gt;...&lt;/b&gt; are marked as obsolete. The file patterns implement IEnumerable, so you don&amp;#39;t need to use the “Scan” &lt;em&gt;function&lt;/em&gt; any more.</description>
+      <dc:publisher>Rash thoughts about .NET, C#, F# and Dynamics NAV.</dc:publisher>
+      <dc:creator>Steffen Forkmann</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 17:06:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>RyuJIT .NET JIT compiler CTP1 FAQ - .NET &lt;b&gt;Blog&lt;/b&gt; - Site Home &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/dotnet/archive/2013/11/18/ryujit-net-jit-compiler-ctp1-faq.aspx</link>
+      <description>Tail call elimination: RyuJIT CTP1 supports IL tail-prefixed calls (used a lot in &lt;em&gt;F#&lt;/em&gt;), but we do not yet support &amp;quot;opportunistic tail calls&amp;quot;. Edit &amp;amp; Continue: We &lt;b&gt;.....&lt;/b&gt; NET Web Development - Cecil Phillip Intro to &lt;em&gt;Functional&lt;/em&gt; Programming - William Lane.</description>
+      <dc:publisher>.NET Blog</dc:publisher>
+      <dc:creator>The .NET Team</dc:creator>
+      <dc:date>Mon, 18 Nov 2013 15:01:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Neo4j: Cypher – Creating relationships between nodes from &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.markhneedham.com/blog/2013/11/22/neo4j-cypher-creating-relationships-between-nodes-from-adjacent-rows-in-a-query/</link>
+      <description>In a &lt;em&gt;functional&lt;/em&gt; language we might not use the zip &lt;em&gt;function&lt;/em&gt; create pairs from the collection. Cypher doesn&amp;#39;t have this &lt;em&gt;function&lt;/em&gt; but we can get close by using the RANGE &lt;em&gt;function&lt;/em&gt; to select adjacent nodes. I started off with this query:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Mark Needham</dc:publisher>
+      <dc:creator>Mark Needham</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 22:45:32 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

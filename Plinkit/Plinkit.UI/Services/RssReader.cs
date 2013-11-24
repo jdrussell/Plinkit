@@ -12,7 +12,8 @@ namespace Plinkit.UI.Services
 {
     [Serializable]
     public class RssReader : IDisposable
-    {       
+    {
+        private DateTime _date;
         private string _url;
         private string _feedTitle;
         private string _feedDescription;
@@ -27,8 +28,10 @@ namespace Plinkit.UI.Services
         }
 
         public RssReader(string feedUrl, 
-                         IWebCaller webCaller)
+                         IWebCaller webCaller,
+                         DateTime date)
         {
+            _date = date;
             _url = feedUrl;
             _webCaller = webCaller;
             _fileSystem = new FileSystem();
@@ -79,7 +82,7 @@ namespace Plinkit.UI.Services
         private XmlDocument GetRssXmlDocument()
         {            
             var filename = BuildFileName(Url);            
-            var xmlDocument = !File.Exists(filename) 
+            var xmlDocument = (!File.Exists(filename) && _date == DateTime.Now.Date)
                 ? GetXmlFromWeb() 
                 : GetXmlFromSavedFile();
             return xmlDocument;
@@ -101,14 +104,16 @@ namespace Plinkit.UI.Services
         private XmlDocument GetXmlFromSavedFile()
         {
             var xmlDoc = new XmlDocument();
-            xmlDoc.Load(BuildFileName(Url));            
+            var fileName = BuildFileName(Url);
+            if (File.Exists(fileName))
+                xmlDoc.Load(fileName);            
             return xmlDoc;
         }
 
         private string BuildFileName(string url)
         {
             var categoryId = RssFeeds.GetCategoryIdByFeedUrl(url);
-            var dateString = DateTime.Now.ToString("ddMMyyyy");
+            var dateString = _date.ToString("ddMMyyyy");
             return string.Format("{0}{1}_{2}.xml",
                                  HttpContext.Current.Server.MapPath("~/DailyLinksXml/"),
                                  categoryId,
@@ -139,6 +144,8 @@ namespace Plinkit.UI.Services
 
         private void ParseDocElements(XmlNode parent, string xPath, ref string property)
         {
+            if (parent == null)
+                return;
             XmlNode node = parent.SelectSingleNode(xPath);
             if (node != null)
                 property = node.InnerText;
