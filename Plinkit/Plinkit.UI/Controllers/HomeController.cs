@@ -15,13 +15,15 @@ namespace Plinkit.UI.Controllers
                                                 DateTime.Now.Date));
         }
 
-        public ActionResult Archive(string date)
+        public ActionResult Links(string date, string category)
         {
             var linkDate = new DateTime();
+            var linkCategory = (category == "") ? "webDevelopment" : category;
             DateTime.TryParse(date, CultureInfo.GetCultureInfo("en-GB"), DateTimeStyles.None, out linkDate);
             ViewBag.Message = "Your one stop shop for Daily Programming Links.";
             return View("Index", new DailyLinksViewModel(new SqlDailyLinksRepository(),
-                                                         linkDate));
+                                                         linkDate,
+                                                         linkCategory.Replace("-", "")));
         }
 
         public ActionResult About()

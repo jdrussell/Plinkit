@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 11 results</description>
+    <opensearch:totalResults>11</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>IMMEDIATE NEED..!!!!!!!! .NET /Mobile Application &lt;b&gt;...&lt;/b&gt; - Designer</title>
+      <link>http://worlddesignernews.blogspot.com/2013/11/immediate-need-net-mobile-application.html</link>
+      <description>Write &lt;em&gt;unit test&lt;/em&gt; cases to test the written code and ensure very good code coverage. &lt;b&gt;...&lt;/b&gt; Use Microsoft&amp;#39;s MOQ framework of &lt;em&gt;unit testing&lt;/em&gt; for &lt;em&gt;Test Driven Development&lt;/em&gt; (&lt;em&gt;TDD&lt;/em&gt;) Work in VS 2008 &lt;b&gt;...&lt;/b&gt; Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 14:42:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>An encrypted messaging project in .NET with C# part 1: foundations &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetcodr.com/2013/11/25/an-encrypted-messaging-project-in-net-with-c-part-1-foundations/</link>
+      <description>Practice cryptography in a realistic web API project – at least as realistic as can be expected from a &lt;em&gt;blog&lt;/em&gt; as opposed to an entire book; Show how asymmetric and symmetric encryption could be used in parallel to increase messaging security &lt;b&gt;...&lt;/b&gt; You can read more about &lt;em&gt;unit testing&lt;/em&gt; and &lt;em&gt;TDD&lt;/em&gt; here. &lt;b&gt;...&lt;/b&gt; In case you want to test a different asymmetric algorithm then you just create a different implementation of the IAsymmetricCryptographyService interface and encapsulate that algorithm.</description>
+      <dc:publisher>Exercises in .NET</dc:publisher>
+      <dc:creator>Andras Nemes</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 05:47:29 GMT</dc:date>
+    </item>
+    <item>
+      <title>Mario Aquino: Øredev 2013</title>
+      <link>http://marioaquino.blogspot.com/2013/11/redev-2013.html</link>
+      <description>As well, in adopting this architecture, his teams had abandoned the normal &lt;em&gt;TDD&lt;/em&gt; (or &lt;em&gt;unit testing&lt;/em&gt; in general) of the services themselves. That instead of writing automated tests for services that may be thrown away at any time, service monitoring&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Mario Aquino</dc:publisher>
+      <dc:creator>Mario</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 00:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Three Surprising Causes of Technical Debt - Sound Code - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://mark-dot-net.blogspot.com/2013/11/three-surprising-causes-of-technical.html</link>
+      <description>What I&amp;#39;ve also noticed is an ever-increasing number &lt;em&gt;blogs&lt;/em&gt;, books, conference sessions and user group talks tackling this subject. &lt;b&gt;...&lt;/b&gt; It can do a clean build of my million line codebase in under 30 minutes including running the &lt;em&gt;unit tests&lt;/em&gt;.</description>
+      <dc:publisher>Sound Code</dc:publisher>
+      <dc:creator>noreply@blogger.com (Mark H)</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 08:27:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Alexander Kuznetsov : Learning PostgreSql: No Nested &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sqlblog.com/blogs/alexander_kuznetsov/archive/2013/11/25/learning-postgresql-no-nested-transactions-no-transactions-in-pl-pgsql.aspx</link>
+      <description>INSERT INTO test(ID, Some_Value) &lt;b&gt;...&lt;/b&gt; He regularly &lt;em&gt;blogs&lt;/em&gt; on sqlblog.com, mostly about database &lt;em&gt;unit testing&lt;/em&gt;, defensive programming, and query optimization. Alex has written a book entitled &amp;quot;Defensive Database Programming with Transact- SQL&amp;quot; and several articles on simple-talk.com and devx.com. Currently he works at DRW Trading Group in Chicago, where he leads a team of developers, practicing agile development, defensive programming, &lt;em&gt;TDD&lt;/em&gt;, and database &lt;em&gt;unit testing&lt;/em&gt;.</description>
+      <dc:publisher>SQLblog.com - The SQL Server blog spot on the web</dc:publisher>
+      <dc:creator>Alexander Kuznetsov</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 15:58:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Law and Media Round Up – 25 November 2013 | Inforrm&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://inforrm.wordpress.com/2013/11/25/law-and-media-round-up-25-november-2013/</link>
+      <description>A full run down on the evidence given each day can be found on the #pressreform &lt;em&gt;blog&lt;/em&gt; – which reproduces the tweets from the various live tweeters in Court. The Press Gazette reports that Mark Pritchard MP is &lt;b&gt;....&lt;/b&gt; “&lt;em&gt;Test&lt;/em&gt; for Data Protection Rights Effectiveness: Charting the Future of the &amp;#39;Right To Be Forgotten&amp;#39; Under European Law” 19 Colum. J. Eur. L. F. 1 (2012) [pdf]; Stuart Benzi and Timother &lt;b&gt;...&lt;/b&gt; AVB v &lt;em&gt;TDD&lt;/em&gt; 1 November 2013, (Bean J). Otuo v Watchtower Bible and Tract Society,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Inforrm's Blog</dc:publisher>
+      <dc:creator>INFORRM</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 00:15:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Axon framework - behaviour driven &lt;b&gt;testing&lt;/b&gt; | Write less, do more!</title>
+      <link>http://pkaczor.blogspot.com/2013/11/axon-framework-behaviour-driven-testing.html</link>
+      <description>The goal is not to replace relational database with event store (we are not ready yet to be eventual consistent ;-), but to improve quality of &lt;em&gt;unit tests&lt;/em&gt; of ARs (remember, ARs are not simple data container, they contain business logic and thus&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Write less, do more!</dc:publisher>
+      <dc:creator>Paweł Kaczor</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 09:33:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>What&amp;#39;s new in ElectricAccelerator 7.1 – eric melski&amp;#39;s &lt;b&gt;blog&lt;/b&gt;.melski.net</title>
+      <link>http://blog.melski.net/2013/11/25/whats-new-in-electricaccelerator-7-1/</link>
+      <description>eric melski&amp;#39;s &lt;em&gt;blog&lt;/em&gt;.melski.net. musings on the craft of software development, data visualization and more. post &lt;b&gt;....&lt;/b&gt; summit data visualization debugging makefiles debuginfo DIY electric cloud emake filesystem gmake gnu make Halloween HipChat iphone kernel development LEGO linux make makefile md5 multithreading parallel builds performance private cloud scons scrum software development SPARK tcl/tk &lt;em&gt;tdd&lt;/em&gt; testing ui design &lt;em&gt;unit tests&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; Follow “eric melski&amp;#39;s &lt;em&gt;blog&lt;/em&gt;.melski.net”.</description>
+      <dc:publisher>eric melski's blog.melski.net</dc:publisher>
+      <dc:creator>Eric Melski</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 15:28:17 GMT</dc:date>
+    </item>
+    <item>
+      <title>Tom DuPont .NET: Generic Enum Attribute Caching</title>
+      <link>http://www.tomdupont.net/2013/11/generic-enum-attribute-caching.html</link>
+      <description>&lt;em&gt;Unit Tests&lt;/em&gt;. public class EnumExtensionsTests { public class TestAttribute : Attribute { public string Message { get; set; } public TestAttribute(string message) { Message = message; } } public enum TestEnum { [Description(&amp;quot;Hello world!&amp;quot;)]</description>
+      <dc:publisher>Tom DuPont .NET</dc:publisher>
+      <dc:creator>Tom DuPont</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 20:50:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>curl: (35) Unknown SSL protocol error in connection - Managed Chaos</title>
+      <link>http://blogs.agilefaqs.com/2013/11/25/curl-35-unknown-ssl-protocol-error-in-connection/</link>
+      <description>And now it started working always. However I noticed that it was very slow. Something was not right. Then I started using the curl command line to &lt;em&gt;test&lt;/em&gt; things. When I issued the following command:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Managed Chaos</dc:publisher>
+      <dc:creator>Naresh Jain</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 08:39:10 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

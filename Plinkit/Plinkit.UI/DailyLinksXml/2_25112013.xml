@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" linq blog -job -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+linq+blog+-job+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>5 results</description>
+    <opensearch:totalResults>5</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+    <item>
+      <title>Harness the Power of KendoUI &amp;amp; RequireJS to &lt;b&gt;...&lt;/b&gt; - Long Le&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.longle.net/2013/11/25/harness-the-power-of-kendoui-requirejs-to-build-an-awesome-maintainable-spa-for-the-server-side-net-developer/</link>
+      <description>Upgrading to Async with &lt;em&gt;Entity Framework&lt;/em&gt;, Web Api, OData AsyncEntitySetController, Kendo UI, Glimpse &amp;amp; Generic Unit of Work Repository Framework v2.0. This post is password protected. Enter the password to view any comments.</description>
+      <dc:publisher>Long Le's Blog</dc:publisher>
+      <dc:creator>Le</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 07:38:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>Visual Studio 2012 Update 4 | Chanmingman&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://chanmingman.wordpress.com/2013/11/25/visual-studio-2012-update-4/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; http://chanmingman.wordpress.com/2013/07/20/using-web-api-with-&lt;em&gt;entity-framework&lt;/em&gt;-to-update-data-sample-2/ http://chanmingman.wordpress.com/2013/07/25/using-web-api-with-&lt;em&gt;entity-framework&lt;/em&gt;-to-delete-data-sample/ Get your Visual&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Chanmingman's Blog</dc:publisher>
+      <dc:creator>chanmingman</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 09:52:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>List db size remote server with powershell | Sveroa&amp;#39;s Developer &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sveroadev.wordpress.com/2013/11/25/list-db-size-remote-server-with-powershell/</link>
+      <description>&lt;em&gt;Entity Framework&lt;/em&gt;: reset migrations &amp;middot; The RPC server is unavailable (Windows Mobile 6.X) &amp;middot; OpenXML SDK: reading Excel &lt;b&gt;...&lt;/b&gt; Enter your email address to follow this &lt;em&gt;blog&lt;/em&gt; and receive notifications of new posts by email. Join 620 other followers.</description>
+      <dc:publisher>Sveroa's Developer Blog</dc:publisher>
+      <dc:creator>sveroadev</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 17:22:51 GMT</dc:date>
+    </item>
+    <item>
+      <title>Open Question: Query regarding the right provider? – Yahoo Answers</title>
+      <link>http://www.internet-technology-business.com/open-question-query-regarding-the-right-provider-yahoo-answers-computers-internet/</link>
+      <description>Open Question: How do I split a contact name in &lt;em&gt;LINQ&lt;/em&gt; to… November 19, 2013 I had a query that worked nicely with a SQL adapter, but I&amp;#39;m needing it to not be that way, I need to use &lt;em&gt;linq&lt;/em&gt; or entities(I&amp;#39;m using the &lt;em&gt;entity framework&lt;/em&gt;). I have a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Internet Technology Business</dc:publisher>
+      <dc:creator>BLOGGER</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 03:39:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Get Powershell version, and Windows Server 2008 | Sveroa&amp;#39;s &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sveroadev.wordpress.com/2013/11/25/get-powershell-version-and-windows-server-2008/</link>
+      <description>&lt;em&gt;Entity Framework&lt;/em&gt;: reset migrations &amp;middot; OpenXML SDK: reading Excel 2007/2010 documents &amp;middot; Start &amp;amp; stop perfmon collector set from powershell &amp;middot; SQL Server - simple query performance analysis &amp;middot; Cannot load the TERADATA and SQLPDW extension &amp;middot; SQL Server 2012: building failover cluster &amp;middot; The RPC server &lt;b&gt;...&lt;/b&gt; Enter your email address to follow this &lt;em&gt;blog&lt;/em&gt; and receive notifications of new posts by email. &lt;b&gt;...&lt;/b&gt; Follow “Sveroa&amp;#39;s Developer &lt;em&gt;Blog&lt;/em&gt;” &lt;b&gt;...&lt;/b&gt; Sorry, your &lt;em&gt;blog&lt;/em&gt; cannot share posts by email.</description>
+      <dc:publisher>Sveroa's Developer Blog</dc:publisher>
+      <dc:creator>sveroadev</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 10:00:30 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

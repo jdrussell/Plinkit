@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 26 results</description>
+    <opensearch:totalResults>26</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Jim&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Play, Scala, and Iteratees vs. Node.&lt;b&gt;js&lt;/b&gt;, &lt;b&gt;JavaScript&lt;/b&gt;, and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://brikis98.blogspot.com/2013/11/play-scala-and-iteratees-vs-nodejs.html</link>
+      <description>On the &lt;em&gt;JavaScript&lt;/em&gt; side of the world, node.&lt;em&gt;js&lt;/em&gt; and socket.io take an imperative programming approach for stream processing by using the EventEmitter API. I&amp;#39;ve found this imperative approach easy to learn, so for this &lt;em&gt;blog&lt;/em&gt; post, I&amp;#39;ll show a side by&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Jim's Blog</dc:publisher>
+      <dc:creator>Yevgeniy Brikman</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 00:16:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>I&amp;#39;m speaking on &lt;b&gt;JS&lt;/b&gt; Unit Testing on this month&amp;#39;s WP Sessions! | K &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.kadamwhite.com/archives/2013/im-speaking-on-js-unit-testing-on-this-months-wp-sessions</link>
+      <description>Each month a group of speakers are invited to present a series of talks on a specific topic—this week we are focusing on Unit Testing, covering the what, why and how of writing tests in PHP and &lt;em&gt;JavaScript&lt;/em&gt;. Some of what we&amp;#39;ll cover is WordPress -specific, but there should be a lot to learn for anybody curious about how to better test &lt;b&gt;...&lt;/b&gt; I &lt;em&gt;blog&lt;/em&gt; on this site, but it&amp;#39;s not a daily occurrence. You can more reliably find me over on Twitter as @kadamwhite, or track me down on Github or Flickr.</description>
+      <dc:publisher>K.Adam White</dc:publisher>
+      <dc:creator>K.Adam White</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 13:54:22 GMT</dc:date>
+    </item>
+    <item>
+      <title>Oracle Apex - Including &lt;b&gt;JavaScript&lt;/b&gt; on Multiple Pages - Recx - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://recxltd.blogspot.com/2013/11/oracle-apex-including-javascript-on.html</link>
+      <description>One is to save the necessary &lt;em&gt;JavaScript&lt;/em&gt; as a “.&lt;em&gt;js&lt;/em&gt;” file on your computer and then upload it directly to your application workspace. This is done by navigating to shared components &amp;gt; static files and then clicking upload. Now you can either&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Research, Develop, Assess, Consult &amp; Educate | Recx</dc:publisher>
+      <dc:creator>Anoush</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 12:04:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Christmas Decorations For Your &lt;b&gt;Blog&lt;/b&gt; or Websites! | Entertainment &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://entertainmentghost.blogspot.com/2013/11/christmas-decorations-for-your-blog-or.html</link>
+      <description>This time, we&amp;#39;ve got several new Christmas decorations for your &lt;em&gt;Blogs&lt;/em&gt; and/or Websites! &lt;b&gt;...&lt;/b&gt; &amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot;src=&amp;quot;https://sites.google.com/site/toonstunescity/scripts/snowstorm.&lt;em&gt;js&lt;/em&gt;&amp;quot; /&amp;gt;&amp;lt;/script&amp;gt;&amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot;&amp;gt; snowStorm.</description>
+      <dc:publisher>Entertainment Ghost</dc:publisher>
+      <dc:creator>Muhammad Junaid</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 14:04:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Loose Bits - Writing a Technical Book, Part 2 - Authoring</title>
+      <link>http://loose-bits.com/2013/11/25/writing-a-technical-book-part-2.html</link>
+      <description>In the second post in my series on writing a technical book, I walk through my experiences writing the six chapters that would eventually comprise Backbone.&lt;em&gt;js&lt;/em&gt; Testing. I discuss the ups and downs of working with a time-sensitive publisher, finding &lt;b&gt;...&lt;/b&gt; The source code examples are in HTML, &lt;em&gt;JavaScript&lt;/em&gt;, and CSS. And, being a consummate techie, I knew that I needed a reliable and &lt;b&gt;....&lt;/b&gt; Please enable &lt;em&gt;JavaScript&lt;/em&gt; to view the comments powered by Disqus. &lt;em&gt;Blog&lt;/em&gt; comments powered by Disqus.</description>
+      <dc:publisher>Loose Bits</dc:publisher>
+      <dc:creator>Ryan Roemer</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 08:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Silly Rabbit… Frameworks are for Prototypes | getiblog</title>
+      <link>http://blog.getify.com/silly-rabbit-frameworks-are-for-prototypes/</link>
+      <description>&lt;em&gt;javascript&lt;/em&gt;, performance, and ui musings. Home &amp;middot; What &lt;b&gt;...&lt;/b&gt; There&amp;#39;s a running theme on this &lt;em&gt;blog&lt;/em&gt;, if you&amp;#39;ve read many of my posts. &lt;b&gt;...&lt;/b&gt; I suggested the same (well, kinda) was true of &lt;em&gt;JS&lt;/em&gt; frameworks, and the others around the circle seemed to agree.</description>
+      <dc:publisher>getiblog</dc:publisher>
+      <dc:creator>getify</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 12:21:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>Help with $.mobile.changePage(); not working as intended - jQuery &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://forum.jquery.com/topic/help-with-mobile-changepage-not-working-as-intended</link>
+      <description>jQuery &amp;middot; Plugins &amp;middot; UI &amp;middot; Meetups &amp;middot; Forum &amp;middot; &lt;em&gt;Blog&lt;/em&gt; &amp;middot; About &amp;middot; Donate &amp;middot; All Forums &amp;middot; Recent Posts &amp;middot; Log In. Search jQuery. Search &lt;b&gt;...&lt;/b&gt; my structure atm is all pages got there own .html and they all got there own head&amp;#39;s were i set .css&amp;#39;s and &lt;em&gt;JS&amp;#39;s&lt;/em&gt; (all pages got the required Jquery &lt;em&gt;JS&amp;#39;s&lt;/em&gt; and css&amp;#39;s + they each got there own &lt;em&gt;JS&lt;/em&gt; were i got all functions for that specific page) etc. &amp;lt;script src=&amp;quot;generalFunctionsJS.&lt;em&gt;js&lt;/em&gt;&amp;quot; type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;. Is this the correct structure to have? if so what am i doing&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>jQuery Forum</dc:publisher>
+      <dc:creator>Søren didriksen</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 14:23:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>Best &lt;b&gt;Javascript&lt;/b&gt; IDE and lightweight Code Editor</title>
+      <link>http://www.ssiddique.info/best-javascript-ide-available-javascript-developers.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; run unit tests for the &lt;em&gt;JavaScript&lt;/em&gt; files using the test server and Jasmine &lt;em&gt;JS&lt;/em&gt; Test Driver. You can configure to run &lt;em&gt;JS&lt;/em&gt; Test Driver for different modules for a variety of browsers and quickly identify libraries, scripts and &lt;em&gt;JavaScript&lt;/em&gt; tests which must be loaded in the IDE when you run your tests. &lt;b&gt;...&lt;/b&gt; Shabina is a home maker, live in US and love doing programming, web designing and &lt;em&gt;blogging&lt;/em&gt; in my free time. You can contact her at [email protected] &amp;middot; My Twitter profile My Facebook profile My&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Free resources for web designers and programmers</dc:publisher>
+      <dc:creator>Shabina Siddique</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 21:43:39 GMT</dc:date>
+    </item>
+    <item>
+      <title>Walmart Node.&lt;b&gt;js&lt;/b&gt; Memory Leak « thoughts...</title>
+      <link>http://irrlab.com/2013/11/25/walmart-node-js-memory-leak/</link>
+      <description>&amp;quot;A few weeks ago, Eran Hammer of Walmart labs came to the Node.&lt;em&gt;js&lt;/em&gt; core team complaining of a memory leak he had been tracking down for months. By expending a &lt;b&gt;...&lt;/b&gt; initial data:…” http://www.joyent.com/&lt;em&gt;blog&lt;/em&gt;/walmart-node-&lt;em&gt;js&lt;/em&gt;-memory-leak&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>thoughts...</dc:publisher>
+      <dc:creator>irrlab</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 15:57:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>WOW! Women On Writing &lt;b&gt;Blog&lt;/b&gt;: &lt;b&gt;Blog&lt;/b&gt; Tour for Times They Were A &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://muffin.wow-womenonwriting.com/2013/11/blog-tour-for-times-they-were-achanging.html</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt; Tour for Times They Were A&amp;#39;Changing by Linda Joy Myers, Kate Farrell and Amber Lea Starfire &lt;b&gt;...&lt;/b&gt; Visit her &lt;em&gt;blog&lt;/em&gt; at http://memoriesandmemoirs.com. &lt;b&gt;.....&lt;/b&gt; Make sure you have the latest version of &lt;em&gt;Java Script&lt;/em&gt; updated in your browser.</description>
+      <dc:publisher>WOW! Women On Writing Blog</dc:publisher>
+      <dc:creator>Renee Roberson</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 10:30:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

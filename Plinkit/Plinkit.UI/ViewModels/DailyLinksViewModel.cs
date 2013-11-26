@@ -15,6 +15,7 @@ namespace Plinkit.UI.ViewModels
         private DailyLinksContainer _container;
         private bool _persistNewLinksCollection;
 
+        public string SelectedCategory = "webDevelopment";
         public DateTime Date;     
         public IEnumerable<DailyLink> WebDevelopmentLinks
         {
@@ -104,10 +105,27 @@ namespace Plinkit.UI.ViewModels
             }
         }
 
+        public string GetCategoryLinkClass(string comparsionLink)
+        {
+            if (comparsionLink.Trim().ToUpper() == SelectedCategory.Trim().ToUpper())
+                return "active";
+            return "";
+        }
+
         public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, DateTime date)
         {
             Date = date;
             _repository = repository;
+            SetupData();
+        }
+
+        public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, 
+                                   DateTime date,
+                                   string selectedCategory)
+        {
+            Date = date;
+            _repository = repository;
+            SelectedCategory = selectedCategory;
             SetupData();
         }
 

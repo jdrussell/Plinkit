@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 92 results</description>
+    <opensearch:totalResults>92</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>JetBrains .NET &lt;b&gt;Tools Blog&lt;/b&gt; » Beta Updates to ReSharper 8 and .NET &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.jetbrains.com/dotnet/2013/11/beta-updates-to-resharper-8-and-net-tools/</link>
+      <description>NET developer &lt;em&gt;tools&lt;/em&gt; and make them work seamlessly with each other, we&amp;#39;re presenting 3 Beta releases in the same time: Download ReSharper 8.1 Beta with support for TypeScript development; integration into &lt;em&gt;Visual Studio&lt;/em&gt; 2013 RTM&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>JetBrains .NET Tools Blog</dc:publisher>
+      <dc:creator>Jura Gorohovsky</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 11:54:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches &lt;b&gt;Visual Studio&lt;/b&gt; 2013 in the &lt;b&gt;...&lt;/b&gt; - Pinoy Tech &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://www.pinoytechblog.com/archives/microsoft-launches-visual-studio-2013-in-the-philippines</link>
+      <description>Microsoft recently launched the newest version of its flagship integrated development platform, the &lt;em&gt;Visual Studio&lt;/em&gt; 2013. Aside from an improved IDE, Microsoft also presented an advanced collection of developer cloud &lt;em&gt;tools&lt;/em&gt; and services.</description>
+      <dc:publisher>Pinoy Tech Blog - The Philippines' Longest-running Technology Blog</dc:publisher>
+      <dc:creator>joey</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 16:15:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>Alin Constantin &amp;#39;s &lt;b&gt;blog&lt;/b&gt;: Using color themes with &lt;b&gt;Visual Studio&lt;/b&gt; 2013 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://alinconstantin.blogspot.com/2013/11/using-color-themes-with-visual-studio.html</link>
+      <description>Alin Constantin &lt;em&gt;blog&lt;/em&gt; website and links. &lt;b&gt;...&lt;/b&gt; Alin Constantin &amp;#39;s &lt;em&gt;blog&lt;/em&gt;. Mostly technical &lt;b&gt;...&lt;/b&gt; the folder found. &lt;em&gt;Visual Studio&lt;/em&gt; 2013 no longer installs the &lt;em&gt;tools&lt;/em&gt; shortcuts directly in the Start Menu to avoid polluting the menu with 9+ rarely used shortcuts.</description>
+      <dc:publisher>Alin Constantin 's blog</dc:publisher>
+      <dc:creator>Alin Constantin</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 07:31:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>qa &lt;b&gt;blog&lt;/b&gt; - apex online it training: software testing &lt;b&gt;tools&lt;/b&gt; online training</title>
+      <link>http://apex-online-it-training-qa-qtp-seleni.blogspot.com/2013/11/software-testing-tools-online-training_24.html</link>
+      <description>QA &lt;em&gt;BLOG&lt;/em&gt; - APEX ONLINE IT TRAINING &lt;b&gt;...&lt;/b&gt; SOFTWARE TESTING &lt;em&gt;TOOLS&lt;/em&gt; ONLINE TRAINING. SOFTWARE TESTING &lt;em&gt;TOOLS&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; Manual Testing; QTP; Selenium; Coded UI from &lt;em&gt;Visual Studio&lt;/em&gt; 2010; Load Runner &lt;b&gt;...&lt;/b&gt; Search This &lt;em&gt;Blog&lt;/em&gt;. Loading.</description>
+      <dc:publisher>QA BLOG - APEX ONLINE IT TRAINING</dc:publisher>
+      <dc:creator>www.apex-online-it-training.com</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 07:17:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Inspired by Actual Events: Book Review: Developing Windows Store &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://marxsoftware.blogspot.com/2013/11/book-review-developing-windows-store-apps.html</link>
+      <description>The chapter discusses two approaches for acquiring Windows 8 and downloading necessary development &lt;em&gt;tools&lt;/em&gt; such as &lt;em&gt;Visual Studio&lt;/em&gt; Express 2012 for Windows 8 from Windows Dev Center. The chapter discusses how to obtain or renew a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Inspired by Actual Events</dc:publisher>
+      <dc:creator>@DustinMarx</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 18:32:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Enabling Cross-Origin Requests in ASP.NET Web &lt;b&gt;...&lt;/b&gt; - Sochinda&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sochinda.wordpress.com/2013/11/25/enabling-cross-origin-requests-in-asp-net-web-api/</link>
+      <description>In &lt;em&gt;Visual Studio&lt;/em&gt;, from the &lt;em&gt;Tools&lt;/em&gt; menu, select Library Package Manager, then select Package Manager Console. In the Package Manager Console window, type the following command: Install-Package Microsoft.AspNet.WebApi.Cors -pre&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sochinda's Blog</dc:publisher>
+      <dc:creator>sochinda</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 01:50:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>IMMEDIATE NEED..!!!!!!!! .NET /Mobile Application &lt;b&gt;...&lt;/b&gt; - Designer</title>
+      <link>http://worlddesignernews.blogspot.com/2013/11/immediate-need-net-mobile-application.html</link>
+      <description>Test the application using &lt;em&gt;Visual Studio&lt;/em&gt; Unit Testing framework. Technical Environment: &lt;em&gt;Visual Studio&lt;/em&gt; 2008, &lt;em&gt;Visual Studio&lt;/em&gt; Unit Testing &lt;em&gt;Tools&lt;/em&gt;, Mobile MVC, .NET CE 3.5, C# &lt;b&gt;...&lt;/b&gt; a Comment. Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 14:42:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Morning Brew - Chris Alcock » The Morning Brew #1492</title>
+      <link>http://blog.cwa.me.uk/2013/11/25/the-morning-brew-1492/</link>
+      <description>Viasfora v1.1 Published // Winterdom - Tomas Restrepo shares the latest version of Viasfora, a &lt;em&gt;Visual Studio&lt;/em&gt; extension which provides a number of capabilities not present in the core IDE. This release addresses issues with &lt;em&gt;Visual Studio&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; Debugging OWIN app or framework - .NET Web Development and &lt;em&gt;Tools Blog&lt;/em&gt; - Site Home - MSDN &lt;em&gt;Blogs&lt;/em&gt; - Praburaj Thiagarajan takes a brief look at adding some error handling which reveals some debugging information using the Microsoft. Owin.</description>
+      <dc:publisher>The Morning Brew</dc:publisher>
+      <dc:creator>Chris Alcock</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 09:40:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>Reading Notes 2013-11-25 | Matricis</title>
+      <link>http://matricis.com/notes-de-lecture/reading-notes-2013-11-25/</link>
+      <description>You will find below different links to the &lt;em&gt;blog&lt;/em&gt; or Web site which kept Matricis&amp;#39; bloggers interest during the week ending on November, 24th. &lt;b&gt;...&lt;/b&gt; First look at &lt;em&gt;Visual Studio&lt;/em&gt; Online “Monaco” – | Gunnar Peipman – Programming &lt;em&gt;Blog&lt;/em&gt; – The idea is fantastic, let&amp;#39;s see how all this will turn in a few months. Amazon takes Virtual Desktop to the Cloud (Paul Thurrott) &lt;b&gt;...&lt;/b&gt; Linqpad – bring the power of LINQ to SQL Server development – Linqpad is a great wonderful &lt;em&gt;tool&lt;/em&gt;. If you never had the chance to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Matricis</dc:publisher>
+      <dc:creator>Matricis</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 18:33:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Hello Windows 8.1: what&amp;#39;s new in the update for developers Part 6 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.silverlightshow.net/items/Hello-Windows-8.1-what-s-new-in-the-update-for-developers-Part-6-Updates-in-the-tooling-for-Windows-8.1.aspx</link>
+      <description>In this last part, we&amp;#39;re changing gears slightly and we will spend some time looking at the &lt;em&gt;tool&lt;/em&gt; that makes it possible to create apps for Windows 8.1: &lt;em&gt;Visual Studio&lt;/em&gt; 2013. There are a lot of interesting aspects coming with the new versions of the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>SilverlightShow: Silverlight Community</dc:publisher>
+      <dc:creator>editorial@silverlightshow.net (Gill Cleeren )</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 11:29:31 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

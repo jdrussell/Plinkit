@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Web;
 using System.Xml;
 using Plinkit.Domain.Configuration;
@@ -81,8 +80,8 @@ namespace Plinkit.UI.Services
 
         private XmlDocument GetRssXmlDocument()
         {            
-            var filename = BuildFileName(Url);            
-            var xmlDocument = (!File.Exists(filename) && _date == DateTime.Now.Date)
+            var filename = BuildFileName(Url);
+            var xmlDocument = (!_fileSystem.Exists(filename) && _date == DateTime.Now.Date)
                 ? GetXmlFromWeb() 
                 : GetXmlFromSavedFile();
             return xmlDocument;
@@ -105,7 +104,7 @@ namespace Plinkit.UI.Services
         {
             var xmlDoc = new XmlDocument();
             var fileName = BuildFileName(Url);
-            if (File.Exists(fileName))
+            if (_fileSystem.Exists(fileName))
                 xmlDoc.Load(fileName);            
             return xmlDoc;
         }

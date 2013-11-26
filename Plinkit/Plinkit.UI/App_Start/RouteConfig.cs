@@ -21,10 +21,16 @@ namespace Plinkit.UI
             );
 
             routes.MapRoute(
+                "Links",
+                "{controller}/{action}/{date}/{category}",
+                new { controller = "Home", action = "Links", date = "", category = "" }
+            );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
-            );
+            );            
         }
     }
 }

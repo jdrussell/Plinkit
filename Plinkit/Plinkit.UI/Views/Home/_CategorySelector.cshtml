@@ -1,7 +1,8 @@
-﻿<ul class="nav nav-pills nav-stacked">
-    <li class="active"><a href="#webDevelopment" data-toggle="tab" class="">Web Development</a></li>
-    <li><a href="#entityFramework" data-toggle="tab">Entity Framework</a></li>
-    <li><a href="#visualStudio" data-toggle="tab">Visual Studio</a></li>              
+﻿@model Plinkit.UI.ViewModels.DailyLinksViewModel
+<ul class="nav nav-pills nav-stacked">
+    <li class="@Model.GetCategoryLinkClass("webDevelopment")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=web-development">Web Development</a></li>
+    <li class="@Model.GetCategoryLinkClass("entityFramework")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=entity-framework">Entity Framework</a></li>
+    <li class="@Model.GetCategoryLinkClass("visualStudio")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=visual-studio">Visual Studio</a></li>              
     <li><a href="#javascript" data-toggle="tab">Javascript</a></li>  
     <li><a href="#cleanCode" data-toggle="tab">Clean Code</a></li>  
     <li><a href="#productivity" data-toggle="tab">Productivity</a></li>  

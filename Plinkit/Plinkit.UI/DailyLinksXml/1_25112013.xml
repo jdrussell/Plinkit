@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>asp net mvc blog -jobs -newslawonline -download -"experience with" -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=asp+net+mvc+blog+-jobs+-newslawonline+-download+-%22experience+with%22+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 21 results</description>
+    <opensearch:totalResults>21</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Harness the Power of KendoUI &amp;amp; RequireJS to &lt;b&gt;...&lt;/b&gt; - Long Le&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.longle.net/2013/11/25/harness-the-power-of-kendoui-requirejs-to-build-an-awesome-maintainable-spa-for-the-server-side-net-developer/</link>
+      <description>Protected: Harness the Power of KendoUI &amp;amp; RequireJS to Build an Awesome &amp;amp; Maintainable SPA (for the Server-Side .&lt;em&gt;NET&lt;/em&gt; Developer). Enter your password to view comments. This content is password protected. To view it please enter your&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Long Le's Blog</dc:publisher>
+      <dc:creator>Le</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 07:38:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>AngularJS and AntiForgeryToken in &lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;NET MVC&lt;/b&gt; | Parthiv &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://parthivpandya.wordpress.com/2013/11/25/angularjs-and-antiforgerytoken-in-asp-net-mvc/</link>
+      <description>In &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt;, AntiForgeryToken is to prevent Cross-Site Request Forgery (CSRF) Attacks. It generates a hidden form field (anti-forgery token) that is validated when the form is submitted. To help prevent CSRF attacks, &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; uses&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Parthiv Pandya's Blog</dc:publisher>
+      <dc:creator>Parthiv Pandya</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 06:19:46 GMT</dc:date>
+    </item>
+    <item>
+      <title>Enabling Cross-Origin Requests in &lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;NET&lt;/b&gt; Web &lt;b&gt;...&lt;/b&gt; - Sochinda&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sochinda.wordpress.com/2013/11/25/enabling-cross-origin-requests-in-asp-net-web-api/</link>
+      <description>In the New &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET&lt;/em&gt; Project dialog, select the &lt;em&gt;MVC&lt;/em&gt; project template. Optionally, click Change Authenticationand select the No Authentication option. Click Create Project. In Solution Explorer, expand the WebClient project and open the file&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sochinda's Blog</dc:publisher>
+      <dc:creator>sochinda</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 01:50:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Three Surprising Causes of Technical Debt - Sound Code - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://mark-dot-net.blogspot.com/2013/11/three-surprising-causes-of-technical.html</link>
+      <description>&lt;em&gt;NET&lt;/em&gt; took it to a whole new level. It was called “RAD” at the time – “rapid application development”. Things that would take weeks with the previous generation of technologies could be done in days. In just a few lines of code you could express&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sound Code</dc:publisher>
+      <dc:creator>noreply@blogger.com (Mark H)</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 08:27:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Nidheesh&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Send email using &lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;net&lt;/b&gt; and C#, &lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;net&lt;/b&gt; email &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://nidheeshkumar.blogspot.com/2013/11/send-email-using-aspnet-and-c-aspnet.html</link>
+      <description>Net.Mail MailMessage mailmessage = new MailMessage(); //Add From email address &amp;amp; display name mailmessage.From = new MailAddress(stringFromEmailAddress, stringFromEmailDisplayName); //Add Email To Address mailmessage.To. &lt;b&gt;...&lt;/b&gt; NET and JQuery. Lazy Loading is a well-known design pattern that is intended to prevent redundant processing within your application. In the case of tabbe... More FlipBoard Magazines: Azure, XAML, &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; &amp;amp; Web API. In a previous&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Nidheesh's Blog</dc:publisher>
+      <dc:creator>Nidheesh Kumar</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 10:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dinis Cruz &lt;b&gt;Blog&lt;/b&gt;: Script to create stats from TeamMentor Libraries</title>
+      <link>http://blog.diniscruz.com/2013/11/script-to-create-stats-from-teammentor.html</link>
+      <description>Dinis Cruz &lt;em&gt;Blog&lt;/em&gt;. A personal &lt;em&gt;blog&lt;/em&gt; about: transforming Web Application Security into an &amp;#39;Application Visibility&amp;#39; engine, the OWASP O2 Platform, TeamMentor, Application/Data interoperability and a lot more &lt;b&gt;...&lt;/b&gt; Search This &lt;em&gt;Blog&lt;/em&gt;. Loading... Labels. AngularJS (12) AppSensor (1) &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; (5) Azure (11) BDD (2) Book (3) &lt;b&gt;....&lt;/b&gt; Following the work done on the O2 Cmd - Spring MVC module and the conversations we had at OWASP AppSec Ireland about the security implica... Amazing&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dinis Cruz Blog</dc:publisher>
+      <dc:creator>Dinis Cruz</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 15:37:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>An encrypted messaging project in .&lt;b&gt;NET&lt;/b&gt; with C# part 1: foundations &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetcodr.com/2013/11/25/an-encrypted-messaging-project-in-net-with-c-part-1-foundations/</link>
+      <description>Practice cryptography in a realistic web API project – at least as realistic as can be expected from a &lt;em&gt;blog&lt;/em&gt; as opposed to an entire book; Show how asymmetric and symmetric encryption could be used in parallel to increase messaging security&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Exercises in .NET</dc:publisher>
+      <dc:creator>Andras Nemes</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 05:47:29 GMT</dc:date>
+    </item>
+    <item>
+      <title>Reading Notes 2013-11-25 | Matricis</title>
+      <link>http://matricis.com/notes-de-lecture/reading-notes-2013-11-25/</link>
+      <description>You will find below different links to the &lt;em&gt;blog&lt;/em&gt; or Web site which kept Matricis&amp;#39; bloggers interest during the week ending on November, 24th. &lt;b&gt;...&lt;/b&gt; One &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET&lt;/em&gt; – Welcome to the Web Development Buffet! – Great post that quickly introduces a really nice project &lt;em&gt;Asp&lt;/em&gt;.&lt;em&gt;net&lt;/em&gt; One and how it&amp;#39;s integrated with the new Visual Studio 2013. Migrating Database Workloads to the Cloud – Great source of information. This article describe all the scenarios with the pros and cons then helps you in the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Matricis</dc:publisher>
+      <dc:creator>Matricis</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 18:33:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>humble bits » &lt;b&gt;Blog&lt;/b&gt; Archive » Rails – best practices</title>
+      <link>http://blogs.quovantis.com/shanky/2013/11/rails-best-practices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rails-best-practices</link>
+      <description>The &lt;em&gt;MVC&lt;/em&gt; paradigm advocates keeping the views as clean as possible from any calculations. Still sometimes this cannot be avoid, so for those instances do the processing with helpers. ## Bad Practice. &amp;lt;%= f.select( :category, [&amp;#39;Australia&amp;#39;,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>humble bits</dc:publisher>
+      <dc:creator>Shanky Munjal</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 04:40:07 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;MVC&lt;/b&gt; project, make site like (save &amp;quot;dot&amp;quot; co &amp;quot;dot&amp;quot; uk) | .&lt;b&gt;NET&lt;/b&gt; | &lt;b&gt;ASP&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.freelancer.com/projects/NET-C-Sharp-Programming/ASP-MVC-project-make-site.html</link>
+      <description>See more: small project &lt;em&gt;asp net mvc&lt;/em&gt;, datatables project &lt;em&gt;asp net mvc&lt;/em&gt;, file sharing site project asp, ready matrimonial site project asp net, google maps project &lt;em&gt;asp net mvc&lt;/em&gt;, ebidding site project asp net, &lt;em&gt;asp net mvc&lt;/em&gt; project freelance, &lt;em&gt;asp net mvc&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Freelancer.com - New Projects</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 12:05:51 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
