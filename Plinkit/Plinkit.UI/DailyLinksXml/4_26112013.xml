@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 230 results</description>
+    <opensearch:totalResults>230</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;Java Script&lt;/b&gt; Prepopulate New Contact and Appointment Records &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://community.dynamics.com/thread/116455.aspx</link>
+      <description>I am looking for some assistance on some &lt;em&gt;Java Script&lt;/em&gt;, either if someone has some code I could use or point me in the right direction. We are using CRM 2013 Online. There are 2 pieces of code I am trying to write, but honestly do not have a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Microsoft Dynamics CRM</dc:publisher>
+      <dc:creator>G Sav</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 08:39:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using Backbone.&lt;b&gt;js&lt;/b&gt; with a RESTful Java Back-End - Kumar&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://kumarnvm.blogspot.com/2013/11/using-backbone.html</link>
+      <description>As already mentioned, the client-side of the application provides an example of adding structure to your &lt;em&gt;JavaScript&lt;/em&gt; code using the Backbone.&lt;em&gt;js&lt;/em&gt; Model, View and Router components. To learn more about the Backbone.&lt;em&gt;js&lt;/em&gt; implementation, refer&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Kumar's Blog</dc:publisher>
+      <dc:creator>kumarblog</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 04:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using dhtmlxScheduler and dhtmlxGantt with TypeScript « DHTMLX &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dhtmlx.com/blog/?p=2072</link>
+      <description>This problem is common not only for DHTMLX but for other &lt;em&gt;JS&lt;/em&gt; components as well. So there is an open source project that helps to fix the gap between &lt;em&gt;JavaScript&lt;/em&gt; libraries and TypeScript – DefinitelyTyped. Now you can install the scheduler&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DHTMLX News &amp; Events</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 13:19:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Backbone Antipatterns | Shine Technologies</title>
+      <link>http://blog.shinetech.com/2013/11/26/backbone-antipatterns/</link>
+      <description>Backbone.&lt;em&gt;js&lt;/em&gt; deserves a lot of credit for bringing MVC to mainstream client-side &lt;em&gt;Javascript&lt;/em&gt; development. That said, many beginners ask what the &amp;#39;right way&amp;#39; of doing something with Backbone is. The bad news is that there&amp;#39;s not necessarily a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Shine Technologies</dc:publisher>
+      <dc:creator>Ben Teese</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 02:41:21 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Node.&lt;b&gt;js&lt;/b&gt; Tools For Visual Studio | techno babble</title>
+      <link>http://techpenguin.blogspot.com/2013/11/microsoft-launches-nodejs-tools-for.html</link>
+      <description>Node.&lt;em&gt;js&lt;/em&gt; allows developers to write their server-side applications in &lt;em&gt;JavaScript&lt;/em&gt; and it looks like Microsoft has kept all the essentials in place. As Microsoft Web Platform Team member Scott Hanselman notes, the team &lt;b&gt;...&lt;/b&gt; to Visual Studio and will work in both the 2012 and 2013 editions of the IDE. If you want to give them a try, Hanselman&amp;#39;s &lt;em&gt;blog&lt;/em&gt; post also features a brief walk-through of editing (and running) the Node.&lt;em&gt;js&lt;/em&gt;-based Ghost &lt;em&gt;blogging&lt;/em&gt; platform&amp;#39;s source code in Visual Studio.</description>
+      <dc:publisher>techno babble</dc:publisher>
+      <dc:creator>shawn callahan</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 18:24:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Edition 6: Angular &lt;b&gt;JS&lt;/b&gt; versus Knockout &lt;b&gt;JS&lt;/b&gt; | Raghu&amp;#39;s SharePoint &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.sharepointcolumn.com/edition-6-angular-js-versus-knockout-js/</link>
+      <description>With an intention to reduce the load on SharePoint Server and improve the performance of the SharePoint sites Microsoft is encouraging the developer community to build apps using &lt;em&gt;JavaScript&lt;/em&gt;. So when it comes to writing &lt;em&gt;JavaScript&lt;/em&gt; do we need to be careful &lt;b&gt;...&lt;/b&gt; Evaluating Knockout &lt;em&gt;JS&lt;/em&gt; and Angular &lt;em&gt;JS&lt;/em&gt;. Evaluating KnockoutJS and AngularJS – Part 1 &amp;middot; Evaluating &lt;b&gt;....&lt;/b&gt; &lt;em&gt;Blog&lt;/em&gt; is created and maintained by Raghavendra Shanbhag. It includes articles related to SharePoint Technology and&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Raghu's SharePoint Column</dc:publisher>
+      <dc:creator>Raghavendra Shanbhag</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 08:44:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>Extending Geb Navigators to work with Third Party &lt;b&gt;Javascript&lt;/b&gt; Libraries</title>
+      <link>https://fbflex.wordpress.com/2013/11/25/extending-geb-element/</link>
+      <description>With select2, we can programmatically change the dropdown selection via the following &lt;em&gt;javascript&lt;/em&gt;: &lt;b&gt;...&lt;/b&gt; void waitForCssTransition(Closure trigger) { def element = firstElement() browser.&lt;em&gt;js&lt;/em&gt;.exec(element, &amp;#39;&amp;#39;&amp;#39; var o = jQuery(arguments[0]); window.</description>
+      <dc:publisher>Tomás Lin's Programming Brain Dump</dc:publisher>
+      <dc:creator>Tomas Lin</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 22:56:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>Desarrollar &lt;b&gt;JS&lt;/b&gt; Proyecto .NET | .NET | &lt;b&gt;Javascript&lt;/b&gt; | MVC</title>
+      <link>http://www.freelancer.com/projects/Javascript-NET/Desarrollar-Proyecto-NET.html</link>
+      <description>Desarrollar &lt;em&gt;JS&lt;/em&gt; Proyecto .NET. OPEN. Bids. 4. Avg Bid (CLP). $82131. Project Budget (CLP). $15K - $125K. Project Description: Se necesita desarrollado de &lt;em&gt;Javascript&lt;/em&gt;, para validar formulario creado en .NET, para Proyecto de Ministerio de&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Freelancer.com - New Projects</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 00:38:53 GMT</dc:date>
+    </item>
+    <item>
+      <title>Implementing In-App Payments in Your Firefox OS App Mozilla &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://hacks.mozilla.org/2013/11/implementing-in-app-payments-in-your-firefox-os-app/</link>
+      <description>I wrote a game for Firefox OS called Webfighter which uses node.&lt;em&gt;js&lt;/em&gt; as the backend, so I used mozpay-&lt;em&gt;js&lt;/em&gt; on the server-side. Webfighter is &lt;b&gt;....&lt;/b&gt; He regularly also &lt;em&gt;blogs&lt;/em&gt; at http://robertnyman.com and loves to travel and meet people. robertnyman.</description>
+      <dc:publisher>Mozilla Hacks - the Web developer blog</dc:publisher>
+      <dc:creator>James Long</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 20:29:36 GMT</dc:date>
+    </item>
+    <item>
+      <title>Three Great 2013 Trends for Web Development and Beyond</title>
+      <link>http://blog.beacontechnologies.com/three-great-2013-trends-for-web-development-and-beyond/</link>
+      <description>Zedric Myers November 26, 2013 Mobile / Responsive Design, Web Development Responsive, responsive sites, retina, retina images, retina &lt;em&gt;js&lt;/em&gt;, sticky, sticky headers. There are many great trends currently out there for web design. These are&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Beacon Technologies, Inc. Web Blog</dc:publisher>
+      <dc:creator>Zedric Myers</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:10:48 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

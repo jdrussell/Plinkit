@@ -12,24 +12,19 @@
     <script type="text/javascript">
         $(document).ready(function () {
 
-            mesos = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            var days = ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"];
 
-            dias = ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"];
-
-            $('#demo').bic_calendar({
-                nombresMes: mesos,
-                dias: dias,
-                req_ajax: {
-                    type: 'get',
-                    url: 'http://bic.cat/bic_calendar/index.php' // External calls
-                }
+            $('#linksArchive').bic_calendar({
+                nombresMes: months,
+                dias: days,
+                req_ajax: {}
             });
 
             $.fn.popover.defaults.html = true;
             $.fn.popover.defaults.trigger = 'hover';
             $(".pop")
-                .popover()
-                ;
+                .popover();
         });
         
         
@@ -68,8 +63,6 @@
                 </div>                
             </div>
         </footer>
-    </div>
-    
-    
+    </div>        
 </body>
 </html>

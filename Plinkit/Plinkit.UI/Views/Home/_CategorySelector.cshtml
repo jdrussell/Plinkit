@@ -1,14 +1,36 @@
 ﻿@model Plinkit.UI.ViewModels.DailyLinksViewModel
 <ul class="nav nav-pills nav-stacked">
-    <li class="@Model.GetCategoryLinkClass("webDevelopment")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=web-development">Web Development</a></li>
-    <li class="@Model.GetCategoryLinkClass("entityFramework")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=entity-framework">Entity Framework</a></li>
-    <li class="@Model.GetCategoryLinkClass("visualStudio")"><a href="/Home/LinkCategory/?date=@Model.Date.ToShortDateString()&category=visual-studio">Visual Studio</a></li>              
-    <li><a href="#javascript" data-toggle="tab">Javascript</a></li>  
-    <li><a href="#cleanCode" data-toggle="tab">Clean Code</a></li>  
-    <li><a href="#productivity" data-toggle="tab">Productivity</a></li>  
-    <li><a href="#unitTesting" data-toggle="tab">Unit Testing</a></li>  
-    <li><a href="#computerScience" data-toggle="tab">Computer Science</a></li>  
-    <li><a href="#functionalProgrammingAndFSharp" data-toggle="tab">Functional Programming &amp; F#</a></li>  
-    <li><a href="#computingTechnology" data-toggle="tab">Technology</a></li>  
-    <li><a href="#uncleBob" data-toggle="tab">Uncle Bob</a></li>  
+    <li class="@Model.GetCategoryLinkClass("webDevelopment")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/web-development#webDevelopment" data-toggle="tab">Web Development</a>
+    </li>
+    <li class="@Model.GetCategoryLinkClass("entityFramework")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/entity-framework#entityFramework" data-toggle="tab">Entity Framework</a>
+    </li>
+    <li class="@Model.GetCategoryLinkClass("visualStudio")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/visual-studio#visualStudio" data-toggle="tab">Visual Studio</a>
+    </li>              
+    <li class="@Model.GetCategoryLinkClass("javascript")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/javascript#javascript" data-toggle="tab">Javascript</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("cleanCode")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/clean-code#cleanCode" data-toggle="tab">Clean Code</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("productivity")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/productivity#productivity" data-toggle="tab">Productivity</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("unitTesting")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/unit-testing#unitTesting" data-toggle="tab">Unit Testing</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("computerScience")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/computer-science#computerScience" data-toggle="tab">Computer Science</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("functionalProgrammingAndFSharp")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/functional-programming-and-f-sharp#functionalProgrammingAndFSharp" data-toggle="tab">Functional Programming &amp; F#</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("computingTechnology")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/computing-technology#computingTechnology" data-toggle="tab">Technology</a>
+    </li>  
+    <li class="@Model.GetCategoryLinkClass("uncleBob")">
+        <a href="/Links/@Model.Date.ToString("dd-MM-yyyy")/uncle-bob#uncleBob" data-toggle="tab">Uncle Bob</a>
+    </li>  
 </ul>

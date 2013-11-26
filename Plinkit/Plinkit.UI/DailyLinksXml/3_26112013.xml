@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 107 results</description>
+    <opensearch:totalResults>107</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Windows Ribbon for WinForms in &lt;b&gt;Visual Studio&lt;/b&gt; 2013 | Bernhard&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://bernhardelbl.wordpress.com/2013/11/26/windows-ribbon-for-winforms-in-visual-studio-2013/</link>
+      <description>The Windows Ribbon project is still working &lt;em&gt;Visual Studio&lt;/em&gt; 2013. Here I will &lt;b&gt;...&lt;/b&gt; Register the custom &lt;em&gt;tool&lt;/em&gt;. - Create a .reg file and import it. This one will only work with VS 2013 and an x64 Windows. Windows Registry Editor Version 5.00&amp;lt;/pre&amp;gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Bernhard's Blog</dc:publisher>
+      <dc:creator>Bernhard</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 13:28:51 GMT</dc:date>
+    </item>
+    <item>
+      <title>Tech Talk: Start Developing GUI &lt;b&gt;Tools&lt;/b&gt; in WPF | The Official &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.bittorrent.com/2013/11/25/tech-talk-start-developing-gui-tools-in-wpf/</link>
+      <description>(An wants you to know he wears a tank top most days, and not just for &lt;em&gt;blog&lt;/em&gt; photo shoots.) In Tech Talk, we share the stuff that keeps us busy, keeps us up at night, &lt;b&gt;...&lt;/b&gt; Great debugger in &lt;em&gt;Visual Studio&lt;/em&gt;. • Some out of the box support for modular design. If &lt;em&gt;tool&lt;/em&gt; design/architecture is modular, • A module can be reused/interchanged with a future module or even outside the &lt;em&gt;tool&lt;/em&gt; e.g. the data module can be fitted to a test suite. • A module can be insulated from another module changing e.g.&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Official BitTorrent Blog</dc:publisher>
+      <dc:creator>An Nguyen</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 01:45:26 GMT</dc:date>
+    </item>
+    <item>
+      <title>Viasfora - Your new favorite &lt;b&gt;Visual Studio&lt;/b&gt; Text/*ML Editing Extension?</title>
+      <link>http://coolthingoftheday.blogspot.com/2013/11/viasfora-your-new-favorite-visual.html</link>
+      <description>It puts them all in a single, nice package that includes full customizability through the &lt;em&gt;Tools&lt;/em&gt; -&amp;gt; Options dialog in &lt;em&gt;Visual Studio&lt;/em&gt;, including the ability to turn individual features on/off. So what does Viasfora offer? Check the website for the full&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Greg's Cool [Insert Clever Name] of the Day</dc:publisher>
+      <dc:creator>Greg Duncan</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 01:12:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Customizing the Table Control: Sortable by Column &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/lightswitch/archive/2013/11/26/customizing-the-table-control-sortable-by-column-kevin-mehlhaff.aspx</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; LightSwitch is the simplest way to build modern business applications for the enterprise. &lt;b&gt;...&lt;/b&gt; Live Now on Developer &lt;em&gt;Tools Blogs&lt;/em&gt;. Archives. Archives. November 2013 (5); October 2013 (5); September 2013 (5); August 2013 (4)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Visual Studio LightSwitch Team Blog</dc:publisher>
+      <dc:creator>LightSwitch Team</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 15:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Node.js &lt;b&gt;Tools&lt;/b&gt; For &lt;b&gt;Visual Studio&lt;/b&gt; | techno babble</title>
+      <link>http://techpenguin.blogspot.com/2013/11/microsoft-launches-nodejs-tools-for.html</link>
+      <description>Node.js has quickly become one of the most popular platforms for writing server-side code. Windows, however, was never quite the right operating system to develop node.js applications on. That may be changing now, however. Microsoft&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>techno babble</dc:publisher>
+      <dc:creator>shawn callahan</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 18:24:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Up and Running with Sass (scss) and Less in &lt;b&gt;Visual Studio&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.binarymist.net/2013/11/26/up-and-running-with-sass-scss-and-less-in-visual-studio/</link>
+      <description>In &lt;em&gt;Visual Studio&lt;/em&gt;… Install “Web Essentials 2012” through &lt;em&gt;TOOLS&lt;/em&gt; -&amp;gt; Extensions and Updates Then Install Web Developer &lt;em&gt;Tools&lt;/em&gt; 2012.2. You may have them already installed. Install them again if you do. Web Essentials actually provides us with&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Binarymist</dc:publisher>
+      <dc:creator>Kim Carter</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 10:50:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using dhtmlxScheduler and dhtmlxGantt with TypeScript « DHTMLX &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dhtmlx.com/blog/?p=2072</link>
+      <description>The major disadvantage of such JavaScript-TypeScript combination is the loss of type information, which is the main strength of using TypeScript. While working with the DHTMLX scheduler and Gantt chart, IDE (&lt;em&gt;Visual Studio&lt;/em&gt;) will not be able&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DHTMLX News &amp; Events</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 13:19:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Plex Home Theater officially launches, brings Plex Media Server &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://betanews.com/2013/11/26/plex-home-theater-officially-launches-brings-plex-media-server-hosted-content-to-the-big-screen/</link>
+      <description>Plex hits the big screen with the first official release of its media browsing and playback &lt;em&gt;tool&lt;/em&gt;. Plex Home Theater 1.0 is the client-side version of &lt;b&gt;...&lt;/b&gt; &amp;quot;Almost every single thing about the app is improved,&amp;quot; it claimed in a &lt;em&gt;blog&lt;/em&gt; post promoting the new release. &amp;quot;It&amp;#39;s faster, prettier, and more powerful&amp;quot;. The post &lt;b&gt;...&lt;/b&gt; Also added is support for playing multi-part media, a new automatic crash reporting &lt;em&gt;tool&lt;/em&gt; and rewritten Windows build (using &lt;em&gt;Visual Studio&lt;/em&gt; 2012). A late development saw the removal of &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>BetaNews</dc:publisher>
+      <dc:creator>Nick Peers</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 13:05:15 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft &lt;b&gt;Visual Studio&lt;/b&gt; 2014 Full Version Free Download « Toptech4u</title>
+      <link>http://toptech4u.blogspot.com/2013/11/microsoft-visual-studio-2014-full.html</link>
+      <description>Whether you are writing code, planning, testing, debugging, or managing applications, you can use the powerful &lt;em&gt;tools&lt;/em&gt; in &lt;em&gt;Visual Studio&lt;/em&gt; Premium 2013 to increase productivity and enable seamless collaboration in your development team to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Toptech4u</dc:publisher>
+      <dc:creator>SAHiL Ahmed</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 12:03:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Web Development in Studio 2013 with Mads Kristensen - .NET Rocks!</title>
+      <link>http://www.dotnetrocks.com/default.aspx?ShowNum=927</link>
+      <description>&lt;b&gt;...&lt;/b&gt; must have for the web developer! Mads Kristensen is a Sr. Program Manager on the Web Platforms and &lt;em&gt;Tools&lt;/em&gt; team at Microsoft working on the web developer experiences of &lt;em&gt;Visual Studio&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; &lt;em&gt;blog&lt;/em&gt; comments powered by Disqus &amp;middot; get free stuff.</description>
+      <dc:publisher>.NET Rocks!</dc:publisher>
+      <dc:creator>dotnetrocks@franklins.net (Carl Franklin and Richard Campbell)</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 04:00:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

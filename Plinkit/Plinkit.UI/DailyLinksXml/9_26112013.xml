@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>About 872 results</description>
+    <opensearch:totalResults>872</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>FAKE 2.2 released » Rash thoughts about .NET, C#, &lt;b&gt;F#&lt;/b&gt; and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.navision-blog.de/blog/2013/11/22/fake_2_released/</link>
+      <description>This &lt;em&gt;Blog&lt;/em&gt; is about Microsoft Dynamics NAV (f.k.a Navision incl. C/SIDE and C/AL), C#, &lt;em&gt;F#&lt;/em&gt; and .NET in general. &lt;b&gt;...&lt;/b&gt; are marked as obsolete. The file patterns implement IEnumerable, so you don&amp;#39;t need to use the “Scan” &lt;em&gt;function&lt;/em&gt; any more.</description>
+      <dc:publisher>Rash thoughts about .NET, C#, F# and Dynamics NAV.</dc:publisher>
+      <dc:creator>Steffen Forkmann</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 17:06:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; and SignalR Stock Ticker Example | Jamie Dixon&amp;#39;s Home</title>
+      <link>http://jamessdixon.wordpress.com/2013/11/26/f-and-singalr-stock-ticker-example/</link>
+      <description>Since I want a full-on double rainbow &lt;em&gt;F#&lt;/em&gt; only MVC application, I tossed the template and just created a bare-bones &lt;em&gt;F#&lt;/em&gt; project. I then opened the .fsproj file and added a web ProjectType GUID (basically &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; swooped in from vacation and exclaimed “What are you doing? The tenants of &lt;em&gt;functional&lt;/em&gt; programming is immutability. &lt;b&gt;...&lt;/b&gt; This &lt;em&gt;blog&lt;/em&gt; post is getting a bit long so I will continue this project on another post. Thanks to the RHCP, I listened to this 2-3 times when doing this &lt;em&gt;blog&lt;/em&gt; post …</description>
+      <dc:publisher>Jamie Dixon's Home</dc:publisher>
+      <dc:creator>jamie dixon</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 09:18:08 GMT</dc:date>
+    </item>
+    <item>
+      <title>Introducing Java type provider | FourEightThree</title>
+      <link>http://colinbul.wordpress.com/2013/11/24/introducing-java-type-provider/</link>
+      <description>A while ago I blogged about some development I was working on with IKVM and type providers. At the time the type provider only worked with primitive types. Recently I have had time to take this a bit further and with the help of the &lt;em&gt;F#&lt;/em&gt; team&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>FourEightThree</dc:publisher>
+      <dc:creator>colinbul</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 12:27:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>R-Fiddle: An online playground for R code | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/11/22/r-fiddle-an-online-playground-for-r-code/</link>
+      <description>On The Roads of Brain Driven Development with &lt;em&gt;F#&lt;/em&gt; (by Sergey Tihon) &lt;b&gt;...&lt;/b&gt; Experienced software engineer who fond of &lt;em&gt;functional&lt;/em&gt; programming, data analysis, machine learning and search technology. Has a success into international&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 05:52:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>[Book Review] &amp;#39;LÖVE for Lua Game Programming&amp;#39; - Greg&amp;#39;s Cool &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://coolthingoftheday.blogspot.com/2013/11/book-review-for-lua-game-programming.html</link>
+      <description>My technical, professional and sometimes personal &lt;em&gt;blog&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; The LÖVE framework is the quickest and easiest way to build fully-&lt;em&gt;functional&lt;/em&gt; 2D video games. It leverages the Lua programming language, which is known to be one of the easiest&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Greg's Cool [Insert Clever Name] of the Day</dc:publisher>
+      <dc:creator>Greg Duncan</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 21:32:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Neo4j: Cypher – Creating relationships between nodes from &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.markhneedham.com/blog/2013/11/22/neo4j-cypher-creating-relationships-between-nodes-from-adjacent-rows-in-a-query/</link>
+      <description>In a &lt;em&gt;functional&lt;/em&gt; language we might not use the zip &lt;em&gt;function&lt;/em&gt; create pairs from the collection. Cypher doesn&amp;#39;t have this &lt;em&gt;function&lt;/em&gt; but we can get close by using the RANGE &lt;em&gt;function&lt;/em&gt; to select adjacent nodes. I started off with this query:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Mark Needham</dc:publisher>
+      <dc:creator>Mark Needham</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 22:45:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>This language has more than one dimension | Windows Live space</title>
+      <link>http://clivetong.wordpress.com/2013/11/25/this-language-has-more-than-one-dimension/</link>
+      <description>As well as being a straight forward &lt;em&gt;functional&lt;/em&gt;/object hybrid (think &lt;em&gt;F#&lt;/em&gt;), it has interesting notions such as objects being callable simply by having an apply method defined on them, a type representing a PartialFunction and traits – interfaces that&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Windows Live space</dc:publisher>
+      <dc:creator>Clive Tong</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 06:04:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>design patterns - What is the difference between self-types and trait &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://programmers.stackexchange.com/questions/219038/what-is-the-difference-between-self-types-and-trait-inheritance-in-scala</link>
+      <description>Beyond that, for any composite object you create with mixins, you can probably create something approximate in &lt;em&gt;function&lt;/em&gt; with inheritance - if you define &lt;em&gt;function&lt;/em&gt; purely in terms of the visible methods. Where they will differ is in extensibility,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - Programmers Stack Exchange</dc:publisher>
+      <dc:creator>Mark Canlas</dc:creator>
+      <dc:date>Wed, 20 Nov 2013 18:20:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Insights | ThoughtWorks</title>
+      <link>http://www.thoughtworks.com/insights</link>
+      <description>A global software company focused on software design and delivery. We provide professional services and products and leading thought on Agile and Continuous Delivery.</description>
+      <dc:publisher>Planet TW</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 08:03:45 GMT</dc:date>
+    </item>
+    <item>
+      <title>Friday Links #279 - &lt;b&gt;Blog&lt;/b&gt; - Mike Ward</title>
+      <link>http://mike-ward.net/blog/post/00881/friday-links-279</link>
+      <description>Net (42) &amp;middot; Bloget (40) &amp;middot; Browser (48) &amp;middot; C# (98) &amp;middot; Desktop Gadgets (129) &amp;middot; &lt;em&gt;F#&lt;/em&gt; (4) &amp;middot; Freebies (249) &amp;middot; Life (95) &amp;middot; Links (298) &amp;middot; Nancy Framework (3) &amp;middot; Naughty &amp;amp; Nice (8) &amp;middot; PC Tips (83) &amp;middot; Programming (179) &amp;middot; Science (36) &amp;middot; Security (3) &amp;middot; Technology (69).</description>
+      <dc:publisher>Mike Ward's Technology Blog</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 20:47:41 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

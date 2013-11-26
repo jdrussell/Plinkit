@@ -14,6 +14,10 @@ body
     text-indent: -9999px;
 }
 
+.hero-unit {
+   /*background: url(../../Images/grid.png) repeat top left; */
+}
+
 .clear { margin-bottom: 1em; }
 
 .pop { margin: 0; }

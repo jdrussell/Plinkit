@@ -9,15 +9,24 @@ using Plinkit.UI.Factories;
 
 namespace Plinkit.UI.Services
 {
+    public interface IRssReader : IDisposable
+    {
+        string Url { get; set; }        
+        IEnumerable<DailyLink> RssItems { get; }
+        string FeedTitle { get; }
+        string FeedDescription { get; }
+        IEnumerable<DailyLink> GetFeed();
+    }
+
     [Serializable]
-    public class RssReader : IDisposable
+    public class RssReader : IRssReader
     {
         private DateTime _date;
         private string _url;
         private string _feedTitle;
         private string _feedDescription;
         private readonly List<DailyLink> _rssItems = new List<DailyLink>();        
-        private IWebCaller _webCaller;
+        private readonly IWebCaller _webCaller;
         private IFileSystem _fileSystem;
         private bool _isDisposed;
 

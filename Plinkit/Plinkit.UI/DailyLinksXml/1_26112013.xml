@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>asp net mvc blog -jobs -newslawonline -download -"experience with" -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=asp+net+mvc+blog+-jobs+-newslawonline+-download+-%22experience+with%22+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 28 results</description>
+    <opensearch:totalResults>28</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Southwest Ohio Code Camp : MikeWo&amp;#39;s Musings</title>
+      <link>http://mvwood.com/blog/southwest-ohio-code-camp/</link>
+      <description>Creating Single Page Applications with AngularJS and &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; 4 Web API (Brian Woodward) How I Learned to Love Dependency Injection (James Bender). 10:20-11:20. Diversified ASP.Net - One Web Project - 4 ASP.Net Frameworks&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MikeWo's Musings: Blog</dc:publisher>
+      <dc:creator>Michael Wood</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 18:17:23 GMT</dc:date>
+    </item>
+    <item>
+      <title>No If&amp;#39;s here.. Jason Haley Web Appifys his Interesting Finds &lt;b&gt;blog&lt;/b&gt; as &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://coolthingoftheday.blogspot.com/2013/11/no-if-here-jason-haley-web-appifys-his.html</link>
+      <description>Last month, some of my project work slowed down – so I took the time to redesign and rewrite a useful single page application for reading the Interesting Finds &lt;em&gt;blog&lt;/em&gt; entries. The new site design is now &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Net&lt;/em&gt; Binding List With Sorting Example&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Greg's Cool [Insert Clever Name] of the Day</dc:publisher>
+      <dc:creator>Greg Duncan</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 01:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Daniel Root&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Enter, Trello Dojo</title>
+      <link>http://www.danielroot.info/2013/11/enter-trello-dojo.html</link>
+      <description>Apple (3); &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET&lt;/em&gt; (18); Azure (7); Big Data (2); Book Review (2); C# (15); Cloud (2); Dynamic Data (1); Fun (11); Gadgets (4); Harware (1); Home (8); iPad (2); iPhoneSketchADay (5); JavaScript (1); jQuery (3); &lt;em&gt;MVC&lt;/em&gt; (6); Performance (4)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Daniel Root's Blog</dc:publisher>
+      <dc:creator>Daniel Root</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 17:01:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dissecting the Web API Individual Accounts Template–Part 2: Local &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://leastprivilege.com/2013/11/26/dissecting-the-web-api-individual-accounts-templatepart-2-local-accounts/</link>
+      <description>But this template is consistent with the feature set of the &lt;em&gt;MVC&lt;/em&gt; individual accounts template and the SPA template (which is basically the Web API template with a JS client). In this post I want to focus on &lt;b&gt;...&lt;/b&gt; The account controller then uses the &lt;em&gt;ASP&lt;/em&gt;. &lt;em&gt;NET&lt;/em&gt; identity framework to create a new user in the local database (after making sure the password and confirmPassword are the same – just in case your client framework is not powerful enough to compare two strings…;). IdentityResult result&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>www.leastprivilege.com</dc:publisher>
+      <dc:creator>Dominick Baier</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 09:21:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>C#.&lt;b&gt;NET&lt;/b&gt;, &lt;b&gt;ASP&lt;/b&gt;.&lt;b&gt;NET&lt;/b&gt;, SQL Server, &lt;b&gt;MVC&lt;/b&gt;, WCF Tutorials: Tips to &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dotnet-vikramchandra.com/2013/11/tips-to-increase-performance-of-sql.html</link>
+      <description>C#.&lt;em&gt;NET&lt;/em&gt;, &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET&lt;/em&gt;, SQL Server, &lt;em&gt;MVC&lt;/em&gt;, WCF Tutorials &amp;middot; Home &amp;middot; &lt;em&gt;Asp&lt;/em&gt;.&lt;em&gt;Net&lt;/em&gt; &amp;middot; &lt;em&gt;MVC&lt;/em&gt; &amp;middot; WCF &amp;middot; SQL SERVER &amp;middot; JQUERY &amp;middot; JAVASCRIPT &amp;middot; VALIDATIONS &lt;b&gt;...&lt;/b&gt; Total Pageviews. Powered by &lt;em&gt;Blogger&lt;/em&gt;.</description>
+      <dc:publisher>C#.NET, ASP.NET, SQL Server, MVC, WCF Tutorials</dc:publisher>
+      <dc:creator>Vikram Chowdary</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 10:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Brien Malone&amp;#39;s Tech &lt;b&gt;Blog&lt;/b&gt;: Paradox 4.5 for DOS Syntax Highlighting &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://brien-malone-web-dev.blogspot.com/2013/11/paradox-45-for-dos-syntax-highlighting_25.html</link>
+      <description>&lt;em&gt;Blog&lt;/em&gt; Archive. 2013 (6). November (3). Paradox 4.5 for DOS Syntax Highlighting for Notepa... Creating a New One &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; 5 Site From the Vis... Understanding Visual Studio 2013 and TFS - Project... August (2). January (1). 2011 (3).</description>
+      <dc:publisher>Brien Malone's Tech Blog</dc:publisher>
+      <dc:creator>Brien Malone</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 00:59:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Mobile Up, Widescreen Down, or Somewhere In-Between? from &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://techsmashed.com/mobile-up-widescreen-down-or-somewhere-in-between/</link>
+      <description>&lt;em&gt;Blogging&lt;/em&gt; on the Go Made Easier With WordPress iOS7 App. Rating: iOS 7 is the latest mobile operating system released by Apple Inc. It is a users&amp;#39; bliss, a... You can find further on this from the source... here &lt;b&gt;....&lt;/b&gt; Introduction to Developing Mobile Web Applications in &lt;em&gt;ASP&lt;/em&gt;.&lt;em&gt;NET MVC&lt;/em&gt; 4. As mobile devices are becoming more and more popular, web developers are also finding it necessary... You can find further on this from the source... here&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Techsmashed</dc:publisher>
+      <dc:creator>Techsmashedadmin</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 22:35:05 GMT</dc:date>
+    </item>
+    <item>
+      <title>Desarrollar JS Proyecto .&lt;b&gt;NET&lt;/b&gt; | .&lt;b&gt;NET&lt;/b&gt; | Javascript | &lt;b&gt;MVC&lt;/b&gt;</title>
+      <link>http://www.freelancer.com/projects/Javascript-NET/Desarrollar-Proyecto-NET.html</link>
+      <description>&lt;em&gt;NET&lt;/em&gt;, para Proyecto de Ministerio de Vivienda y Urbanismo. Solo son validar campos de entrada. Skills required: .&lt;em&gt;NET&lt;/em&gt;, Javascript, &lt;em&gt;MVC&lt;/em&gt;. See more: build shopping cart &lt;em&gt;asp net&lt;/em&gt; ext js, exe dll decompiler flash swf java basic sql &lt;em&gt;net&lt;/em&gt; borland&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Freelancer.com - New Projects</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 00:38:53 GMT</dc:date>
+    </item>
+    <item>
+      <title>SQL Server: ntext, text, and image are deprecated - Darius &lt;b&gt;Blog&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog-of-darius.blogspot.com/2013/11/sql-server-ntext-text-and-image-are.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; games (4) hash (4) html (4) joke (4) json (4) optimization (4) poezija (4) ECMAScript 6 (3) FluentNHibernate (3) IT Personalities (3) REST (3) Rust (3) TypeScript (3) VIM (3) VisualStudio (3) Windows Azure (3) &lt;em&gt;asp&lt;/em&gt;.&lt;em&gt;net MVC&lt;/em&gt; (3) asynchronous&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RANDOM THOUGHTS</dc:publisher>
+      <dc:creator>Darius Kučinskas</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 20:19:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>KISS - Keep It Simple Silly!: Technical Design - Application &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://santoshpoojari.blogspot.com/2013/11/technical-design-application.html</link>
+      <description>To complete these &lt;em&gt;blogs&lt;/em&gt; actually I need an expert advice to make this meaningful and comprehensive. I&amp;#39;m sure there is no such reference atleast available online. Everyone has their own theisis of explanation and fundamentals behind.</description>
+      <dc:publisher>KISS - Keep It Simple Silly!</dc:publisher>
+      <dc:creator>Santosh Poojari</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 12:46:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

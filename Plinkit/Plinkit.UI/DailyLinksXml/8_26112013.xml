@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"computer science" algorithms blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=RkG&amp;rls=org.mozilla:en-US:official&amp;q=%22computer+science%22+algorithms+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 38 results</description>
+    <opensearch:totalResults>38</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>&amp;#39;Students of All Majors Should Study &lt;b&gt;Computer Science&lt;/b&gt;&amp;#39; – Letters &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://chronicle.com/blogs/letters/students-of-all-majors-should-study-computer-science/</link>
+      <description>The Growth of the Common Application, 2001-12 Premium Link. Sign up for the Academe Today newsletter. &lt;em&gt;Blogs&lt;/em&gt; &lt;b&gt;....&lt;/b&gt; “Computational thinking”—problem analysis and decomposition, &lt;em&gt;algorithmic&lt;/em&gt; thinking, &lt;em&gt;algorithmic&lt;/em&gt; expression, abstraction, modeling, stepwise fault isolation—is central to an increasingly broad array of fields. Programming is not just an incredibly valuable skill (although it certainly is that)—it is the hands-on inquiry-based way that we teach computational thinking.</description>
+      <dc:publisher>LettersLetters - Blogs - The Chronicle of Higher Education</dc:publisher>
+      <dc:creator>Lawrence Biemiller</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:26:04 GMT</dc:date>
+    </item>
+    <item>
+      <title>Part 2: How to hold excellent technical recruitment &lt;b&gt;...&lt;/b&gt; - Sam&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://www.samjarman.co.nz/2013/11/27/part-2-how-to-hold-excellent-technical-recruitment-seminars/</link>
+      <description>One time we were hosting a company, and as myself and other &lt;em&gt;computer science&lt;/em&gt; and software engineering students listened to them, it started to sound like that they wanted all of their grads to spend a mandatory year in QA – simple clicking&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sam's Blog</dc:publisher>
+      <dc:creator>Sam Jarman</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 20:39:40 GMT</dc:date>
+    </item>
+    <item>
+      <title>My Biased Coin: News Worth Reading</title>
+      <link>http://mybiasedcoin.blogspot.com/2013/11/news-worth-reading.html</link>
+      <description>My Biased Coin. My take on &lt;em&gt;computer science&lt;/em&gt; -- &lt;em&gt;algorithms&lt;/em&gt;, networking, information theory -- and related items. &lt;b&gt;...&lt;/b&gt; said David Parkes, Harvard&amp;#39;s dean for &lt;em&gt;computer science&lt;/em&gt;. “I think part of it is that students are seeing a new way to contribute to society through &lt;em&gt;computer science&lt;/em&gt;” &lt;b&gt;....&lt;/b&gt; Legal Statement. While I do not generally advertise on the &lt;em&gt;blog&lt;/em&gt;, I do sometimes link to books, and I take part in the Amazon Associates program, getting some small credit if you purchase a book I recommend .</description>
+      <dc:publisher>My Biased Coin</dc:publisher>
+      <dc:creator>Michael Mitzenmacher</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Technical Perspective: The Cleanest Garbage Collection &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://cacm.acm.org/magazines/2013/12/169947-technical-perspective-the-cleanest-garbage-collection</link>
+      <description>About the &lt;em&gt;Blogs BLOG&lt;/em&gt;@CACM Blogroll &lt;em&gt;Blogs&lt;/em&gt; Archive &amp;middot; Opinion &amp;middot; Articles Interviews Opinion Archive &lt;b&gt;...&lt;/b&gt; If that was not enough, most GC &lt;em&gt;algorithms&lt;/em&gt; would wait for the designated memory to fill, then stop the program, collect, and restart the program, introducing pauses into the primary computation. Proponents of GC have persuasive software &lt;b&gt;...&lt;/b&gt; Author. Eliot Moss (moss@cs.umass.edu) is a professor in the Department of &lt;em&gt;Computer Science&lt;/em&gt; at the University of Massachusetts, Amherst.</description>
+      <dc:publisher>Communications of the ACM: Latest Issue</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 14:07:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>Will Someone Let the American Studies Association Know It Got &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://chronicle.com/blogs/conversation/2013/11/25/will-someone-let-the-american-studies-association-know-it-got-hacked/</link>
+      <description>&lt;em&gt;Computer Science&lt;/em&gt; / Cyber Security Faculty. Dakota State University &lt;b&gt;....&lt;/b&gt; It&amp;#39;s as if the tweets were generated by some &lt;em&gt;algorithm&lt;/em&gt; that translates banality into jargon! Again, very funny, but if I were a &lt;b&gt;...&lt;/b&gt; Even the historian Claire Potter, whose Tenured Radical &lt;em&gt;blog&lt;/em&gt; is hosted on The Chronicle&amp;#39;s website, was taken in by the impression, generated by the fake Twitter discussion, that “discussion on Israeli [occupation] … has completely taken over” the conference. The conceit here was that the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The ConversationThe Conversation - Blogs - The Chronicle of Higher Education</dc:publisher>
+      <dc:creator>Jonathan Marks</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 20:42:46 GMT</dc:date>
+    </item>
+    <item>
+      <title>Theory Announcements: [DMANET] Deadline extension, December &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dmatheorynet.blogspot.com/2013/11/dmanet-deadline-extension-december-12.html</link>
+      <description>Control theory and specific characteristics; Types of computation theories; Tools for computation and control; &lt;em&gt;Algorithms&lt;/em&gt; and data structures; Special &lt;em&gt;algorithmic&lt;/em&gt; techniques; &lt;em&gt;Algorithmic&lt;/em&gt; applications; Domain case studies; Technologies case studies for computation and control; Application-aware networking. MODEL: Modeling, virtualization, any-on-demand, MDA, SOA &lt;b&gt;...&lt;/b&gt; Search This &lt;em&gt;Blog&lt;/em&gt;. Loading. &lt;b&gt;...&lt;/b&gt; [DMANET] 3 post-doc positions in &lt;em&gt;Computer Science&lt;/em&gt; ... [DMANET] CFP: PSD 2014 &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Theory Announcements</dc:publisher>
+      <dc:creator>Lance Fortnow</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 09:26:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Long Post of the Week: Compressive Sensing Edition</title>
+      <link>http://nuit-blanche.blogspot.com/2013/11/the-long-post-of-week-compressive.html</link>
+      <description>Then, we exploit the sparse nature of the signals and develop a Two-stage Sparse Phase Retrieval &lt;em&gt;algorithm&lt;/em&gt; (TSPR), which involves: (i) identifying the support, i.e., the locations of the non-zero components, of the signal (ii) identifying the signal &lt;b&gt;...&lt;/b&gt; and the Davis-Kahan theorem (concerning the singular vectors), play essential roles in quantitative science; in particular, these bounds have found application in data analysis as well as related areas of engineering and &lt;em&gt;computer science&lt;/em&gt;.</description>
+      <dc:publisher>Nuit Blanche</dc:publisher>
+      <dc:creator>Igor</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 06:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>PART 1: R for Pairwise DNA Sequence Alignmnet using Shiny Server</title>
+      <link>http://techscienceinterest.blogspot.com/2013/11/part-1-r-for-pairwise-dna-sequence.html</link>
+      <description>However, basically it&amp;#39;s an &lt;em&gt;algorithmic&lt;/em&gt; way of finding the &amp;quot;best fit&amp;quot; for two sequences. Suppose you had two DNA sequences (though it could be RNA, Proteins, or Amino &lt;b&gt;...&lt;/b&gt; to do in R because R has packages available that will do the &lt;em&gt;algorithm&lt;/em&gt; for us. I try not to get into the weeds in my &lt;em&gt;blog&lt;/em&gt;, so if you want more information the wiki page is actually pretty accurate on this topic. &lt;b&gt;....&lt;/b&gt; Technology &amp;amp; Science Interest. &lt;em&gt;Computer Science&lt;/em&gt;, Technology, and Issues in Science. Loading. Send feedback.</description>
+      <dc:publisher>Technology &amp; Science Interest</dc:publisher>
+      <dc:creator>Brent Coffey</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 11:33:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Lecturer, Non tenure-track - Computing Research Association</title>
+      <link>http://www.cra.org/ads/ads-view/lecturer_non_tenure-track_usc/</link>
+      <description>The &lt;em&gt;Computer Science&lt;/em&gt; Department (http://cs.usc.edu) at the USC Viterbi School of Engineering (http://viterbi.usc.edu) seeks candidates for teaching positions (Lecturer) to teach undergraduate and graduate courses. &lt;b&gt;...&lt;/b&gt; the following areas: Agents, &lt;em&gt;Algorithms&lt;/em&gt;, Artificial Intelligence, Complexity, Databases, Games, Graphics, Information Management, Multimedia, Natural Language Processing, Networks, Programming, Robotics, Software Systems and Engineering, Systems, and Vision.</description>
+      <dc:publisher>CRA Job Postings</dc:publisher>
+      <dc:creator>webmaster@cra.org</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 20:12:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>The &lt;b&gt;Blog&lt;/b&gt; of Lucian Green - BestThinking</title>
+      <link>http://www.bestthinking.com/thinkers/society_and_humanities/philosophy/philosophy_of_artificial_life/lucian-green?tab=blog&amp;item=21513</link>
+      <description>Knight and Dragon Productions about &lt;em&gt;Computer Science&lt;/em&gt;. Share 0 Retweet 0. Oct. 25, 2013 4:25 am. Each &lt;em&gt;algorithm&lt;/em&gt; should have a middle-ages themed 250 breasoning-long A split into 50 (like 50 As for a production) groupsof 5 breasonings&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Blog of Lucian Green</dc:publisher>
+      <dc:creator>Lucian Green</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 23:45:25 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

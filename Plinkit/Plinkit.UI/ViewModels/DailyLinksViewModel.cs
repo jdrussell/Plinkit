@@ -14,6 +14,17 @@ namespace Plinkit.UI.ViewModels
         private readonly IRepository<DailyLinksContainer> _repository;
         private DailyLinksContainer _container;
         private bool _persistNewLinksCollection;
+        private IRssReader _webDevelopmentReader;
+        private IRssReader _entityFrameworkReader;
+        private IRssReader _visualStudioReader;
+        private IRssReader _javascriptReader;
+        private IRssReader _cleanCodeReader;
+        private IRssReader _productivityReader;
+        private IRssReader _unitTestingReader;
+        private IRssReader _computerScienceReader;
+        private IRssReader _functionalProgrammingReader;
+        private IRssReader _computingTechnologyReader;
+        private IRssReader _uncleBobReader;
 
         public string SelectedCategory = "webDevelopment";
         public DateTime Date;     
@@ -116,17 +127,56 @@ namespace Plinkit.UI.ViewModels
         {
             Date = date;
             _repository = repository;
+            SetupRssReaders();
             SetupData();
         }
 
         public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, 
                                    DateTime date,
                                    string selectedCategory)
-        {
-            Date = date;
+        {                  
             _repository = repository;
-            SelectedCategory = selectedCategory;
+            Date = date;  
+            SelectedCategory = selectedCategory;                
+            SetupRssReaders();
             SetupData();
+        }
+
+        private void SetupRssReaders()
+        {
+            _webDevelopmentReader = new RssReader(RssFeeds.WebDevelopment,
+                                                  new RssWebCaller(),
+                                                  Date);
+            _entityFrameworkReader = new RssReader(RssFeeds.EntityFramework,
+                                                   new RssWebCaller(),
+                                                   Date);
+            _visualStudioReader = new RssReader(RssFeeds.VisualStudio,
+                                                new RssWebCaller(),
+                                                Date);
+            _javascriptReader = new RssReader(RssFeeds.Javascript,
+                                              new RssWebCaller(),
+                                              Date);
+            _cleanCodeReader = new RssReader(RssFeeds.CleanCode,
+                                             new RssWebCaller(),
+                                             Date);
+            _productivityReader = new RssReader(RssFeeds.Productivity,
+                                                new RssWebCaller(),
+                                                Date);
+            _unitTestingReader = new RssReader(RssFeeds.UnitTesting,
+                                               new RssWebCaller(),
+                                               Date);
+            _computerScienceReader = new RssReader(RssFeeds.ComputerScience,
+                                                   new RssWebCaller(),
+                                                   Date);
+            _functionalProgrammingReader = new RssReader(RssFeeds.FunctionalProgrammingAndFSharp,
+                                                         new RssWebCaller(),
+                                                         Date);
+            _computingTechnologyReader = new RssReader(RssFeeds.ComputingTechnology,
+                                                       new RssWebCaller(),
+                                                       Date);
+            _uncleBobReader = new RssReader(RssFeeds.UncleBob,
+                                            new RssWebCaller(),
+                                            Date);
         }
 
         private void SetupData()
@@ -177,121 +227,99 @@ namespace Plinkit.UI.ViewModels
 
         private void SetWebDevelopmentLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.WebDevelopment,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_webDevelopmentReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _webDevelopmentReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetEntityFrameworkLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.EntityFramework,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_entityFrameworkReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _entityFrameworkReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetVisualStudioLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.VisualStudio,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_visualStudioReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _visualStudioReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetJavascriptLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.Javascript,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_javascriptReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _javascriptReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetCleanCodeLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.CleanCode,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_cleanCodeReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _cleanCodeReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetProductivityLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.Productivity,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_productivityReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _productivityReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetUnitTestingLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.UnitTesting,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_unitTestingReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _unitTestingReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetComputerScienceLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.ComputerScience,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_computerScienceReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _computerScienceReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }
 
         private void SetFunctionalProgrammingAndFSharpLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.FunctionalProgrammingAndFSharp,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_functionalProgrammingReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _functionalProgrammingReader.GetFeed();
                 _container.Links.AddRange(links);
             }                 
         }
 
         private void SetComputingTechnologyLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.ComputingTechnology,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_computingTechnologyReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _computingTechnologyReader.GetFeed();
                 _container.Links.AddRange(links);
             }              
         }
 
         private void SetUncleBobLinks()
         {
-            using (var rssReader = new RssReader(RssFeeds.UncleBob,
-                                                 new RssWebCaller(),
-                                                 Date))
+            using (_uncleBobReader)
             {
-                var links = rssReader.GetFeed();
+                var links = _uncleBobReader.GetFeed();
                 _container.Links.AddRange(links);
             }            
         }

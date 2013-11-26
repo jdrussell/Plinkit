@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>2 results</description>
+    <opensearch:totalResults>2</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>2</opensearch:itemsPerPage>
+    <item>
+      <title>What factors affect the speed of NServiceBus message processing? |</title>
+      <link>http://www.planetgeek.ch/2013/11/25/what-factors-affect-the-speed-of-nservicebus-message-processing/</link>
+      <description>But without having more information about your non-functional requirements and SLAs I have to stick to this generic answer. But at least this short &lt;em&gt;blog&lt;/em&gt; post gives a hints what needs to be considered when designing your enterprise system&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>planetgeek.ch</dc:publisher>
+      <dc:creator>Daniel Marbach</dc:creator>
+      <dc:date>Mon, 25 Nov 2013 21:56:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>xkcd • View topic - Coding: Fleeting Thoughts</title>
+      <link>http://forums.xkcd.com/viewtopic.php?t=14661&amp;p=3503759</link>
+      <description>It doesn&amp;#39;t quite do it justice, because I&amp;#39;ve forgotten how a lot of this old code works, and because I know how the original &lt;em&gt;test&lt;/em&gt; looked. But you get the rough idea. Also, I realize I&amp;#39;m needlessly passing around world to placeRock(s)At. Oops.</description>
+      <dc:publisher>xkcd</dc:publisher>
+      <dc:creator>Negrebskoh</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 07:18:44 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
