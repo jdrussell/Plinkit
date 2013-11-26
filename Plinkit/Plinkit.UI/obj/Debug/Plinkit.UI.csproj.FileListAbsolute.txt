@@ -124,3 +124,5 @@ C:\Git\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.xml
 C:\Git\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.csprojResolveAssemblyReference.cache
 C:\Git\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.dll
 C:\Git\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.pdb
+C:\Git\Plinkit\Plinkit.UI\bin\Elmah.dll
+C:\Git\Plinkit\Plinkit.UI\bin\Elmah.Mvc.dll
