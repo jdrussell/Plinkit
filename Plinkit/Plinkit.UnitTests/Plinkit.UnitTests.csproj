@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\packages\Moq.4.1.1311.0615\lib\net40\Moq.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>..\packages\NUnit.2.6.3\lib\nunit.framework.dll</HintPath>
     </Reference>
@@ -49,6 +52,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Plinkit.Domain\Plinkit.Domain.csproj">
+      <Project>{03fc0c38-cc81-4695-8b5f-072f35463de4}</Project>
+      <Name>Plinkit.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Plinkit.UI\Plinkit.UI.csproj">
+      <Project>{4477f9d5-4990-41f4-94a8-b0fd8c3c5076}</Project>
+      <Name>Plinkit.UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\nuget.targets" />

@@ -51,5 +51,12 @@
     margin-bottom: 3px;
 }
 .bic_calendar .dias_semana td{
-    background: #f0f0f0 ;
+    background-color: #B7E2FB;
+    color: #ffffff;    
+}
+
+.bic_calendar .header {
+    background-color: #89CBF3;
+    color: #ffffff;
+    font-weight: bold;
 }

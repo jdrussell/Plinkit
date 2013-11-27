@@ -21,3 +21,7 @@ body
 .clear { margin-bottom: 1em; }
 
 .pop { margin: 0; }
+
+.navbar .brand {
+    margin-top: 5px;
+}

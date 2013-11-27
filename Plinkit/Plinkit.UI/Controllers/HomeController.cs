@@ -40,8 +40,7 @@ namespace Plinkit.UI.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "pLinkIt.";
-            throw new Exception("test");
+            ViewBag.Message = "pLinkIt.";            
             return View();
         }
 

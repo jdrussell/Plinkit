@@ -16,10 +16,10 @@ namespace Plinkit.UI.Services
         {
             string result = "";
             var wc = new WebClient();
-            //var cred = new NetworkCredential("HYMANS\\jrussell", "*&er1n6!");
-            //var p = new WebProxy("10.122.10.33:80", true, null, cred);
-            //WebRequest.DefaultWebProxy = p;
-            //wc.Proxy = p;
+            var cred = new NetworkCredential("HYMANS\\jrussell", "*&er1n6!");
+            var p = new WebProxy("10.122.10.33:80", true, null, cred);
+            WebRequest.DefaultWebProxy = p;
+            wc.Proxy = p;
             using (wc)
             {
                 result = wc.DownloadString(url);

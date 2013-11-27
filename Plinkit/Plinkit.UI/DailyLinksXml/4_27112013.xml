@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 404 results</description>
+    <opensearch:totalResults>404</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>This page makes 33 parallelizable requests to &lt;b&gt;...&lt;/b&gt; - My Technical &lt;b&gt;blog&lt;/b&gt;</title>
+      <link>http://technical.sabhlokcity.com/2013/11/this-page-makes-33-parallelizable-requests-to-increase-download-parallelization-by-distributing-these-requests-across-multiple-hostnames/</link>
+      <description>asically every single call to the server is a request. It means you have 33 objects on the page be they images, css files and &lt;em&gt;javascript&lt;/em&gt; files. I&amp;#39;m guessing it is the latter two. The more modules you add the more css and &lt;em&gt;js&lt;/em&gt; files there will be.</description>
+      <dc:publisher>My Technical blog</dc:publisher>
+      <dc:creator>sabhlok</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 03:37:31 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using dhtmlxScheduler and dhtmlxGantt with TypeScript « DHTMLX &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dhtmlx.com/blog/?p=2072</link>
+      <description>This problem is common not only for DHTMLX but for other &lt;em&gt;JS&lt;/em&gt; components as well. So there is an open source project that helps to fix the gap between &lt;em&gt;JavaScript&lt;/em&gt; libraries and TypeScript – DefinitelyTyped. Now you can install the scheduler&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DHTMLX News &amp; Events</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 13:19:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Node.&lt;b&gt;js&lt;/b&gt; Tools For Visual Studio | techno babble</title>
+      <link>http://techpenguin.blogspot.com/2013/11/microsoft-launches-nodejs-tools-for.html</link>
+      <description>Node.&lt;em&gt;js&lt;/em&gt; allows developers to write their server-side applications in &lt;em&gt;JavaScript&lt;/em&gt; and it looks like Microsoft has kept all the essentials in place. As Microsoft Web Platform Team member Scott Hanselman notes, the team &lt;b&gt;...&lt;/b&gt; to Visual Studio and will work in both the 2012 and 2013 editions of the IDE. If you want to give them a try, Hanselman&amp;#39;s &lt;em&gt;blog&lt;/em&gt; post also features a brief walk-through of editing (and running) the Node.&lt;em&gt;js&lt;/em&gt;-based Ghost &lt;em&gt;blogging&lt;/em&gt; platform&amp;#39;s source code in Visual Studio.</description>
+      <dc:publisher>techno babble</dc:publisher>
+      <dc:creator>shawn callahan</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 18:24:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>japh(r) by Chris Strom: No Joy with Karma with Polymer.dart</title>
+      <link>http://japhr.blogspot.com/2013/11/no-joy-with-karma-with-polymerdart.html</link>
+      <description>I start with the same karma.conf.&lt;em&gt;js&lt;/em&gt; that I have been using for my &lt;em&gt;JavaScript&lt;/em&gt; Polymer, but I change the framework (to dart-unittest) and the list of files to be used: // ... // frameworks to use frameworks: [&amp;#39;dart-unittest&amp;#39;], // list of files / patterns to load in&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>japh(r) by Chris Strom</dc:publisher>
+      <dc:creator>Chris Strom</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 04:59:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;Java Script&lt;/b&gt;: Fw: [Tulisan baru] Handwritten Stories in a &lt;b&gt;...&lt;/b&gt; - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://search-engine-optimz.blogspot.com/2013/11/fw-tulisan-baru-handwritten-stories-in.html</link>
+      <description>Cheri Lucas Rowlands menulis:&amp;quot;In our digital age, we interact with new technologies each day, yet some of us also pine for the past: we cherish handwritten things and value -- even fetishize -- physical objects. Posts like &amp;quot;Diaries and&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Java Script</dc:publisher>
+      <dc:creator>rudi</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 04:18:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Tuesday Tech Links – November 26, 2013 - &lt;b&gt;blog&lt;/b&gt;</title>
+      <link>http://blog.finedesigngroup.com/2013/11/tuesday-tech-links-november-26-2013/</link>
+      <description>One tip we&amp;#39;d like to add: don&amp;#39;t use therubyracer gem for your &lt;em&gt;JS&lt;/em&gt; runtime. http://www.aloop.org/2012/06/03/tips-for-rails-asset-pipelin… Chris Coyier posts about responsive images so frequently that you can basically ignore every other post&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>a FINE blog</dc:publisher>
+      <dc:creator>Nerbonne</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 21:15:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>htaccess - Wordpress in sub directory wp-admin problem &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://wordpress.stackexchange.com/questions/124582/wordpress-in-sub-directory-wp-admin-problem</link>
+      <description>(ico|pdf|jpg|jpeg|png|gif|&lt;em&gt;js&lt;/em&gt;|css)$&amp;quot;&amp;gt; Header set Cache-Control &amp;quot;max-age=31536000, public, must-revalidate&amp;quot; #Header unset Last-Modified &amp;lt;/FilesMatch&amp;gt; # cache html/htm/xml/txt diles for 2 days &amp;lt;FilesMatch &amp;quot;\. &lt;b&gt;...&lt;/b&gt; set Cache-Control &amp;quot;max-age= 7200, must-revalidate&amp;quot; &amp;lt;/FilesMatch&amp;gt; #Gzip &amp;lt;ifmodule mod_deflate.c&amp;gt; AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/&lt;em&gt;javascript&lt;/em&gt; text/css application/x- &lt;em&gt;javascript&lt;/em&gt; application/&lt;em&gt;javascript&lt;/em&gt; image/x-icon &amp;lt;/ifmodule&amp;gt; #End Gzip&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - WordPress Answers</dc:publisher>
+      <dc:creator>OZZIE</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:37:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>AngularJS and Interactives Create Awesome Workouts » Mediafly</title>
+      <link>http://www.mediafly.com/angularjs-and-interactives-create-awesome-workouts</link>
+      <description>Home › Engineering &lt;em&gt;Blog&lt;/em&gt; › AngularJS and Interactives Create Awesome Workouts &lt;b&gt;...&lt;/b&gt; Angular.&lt;em&gt;JS&lt;/em&gt; (or, Angular for short) is an open-source &lt;em&gt;JavaScript&lt;/em&gt; framework that makes building MVC-like web applications simple, testable, and fun.</description>
+      <dc:publisher>Mediafly</dc:publisher>
+      <dc:creator>Jason Shah</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 00:00:23 GMT</dc:date>
+    </item>
+    <item>
+      <title>Three Great 2013 Trends for Web Development and Beyond</title>
+      <link>http://blog.beacontechnologies.com/three-great-2013-trends-for-web-development-and-beyond/</link>
+      <description>Zedric Myers November 26, 2013 Mobile / Responsive Design, Web Development Responsive, responsive sites, retina, retina images, retina &lt;em&gt;js&lt;/em&gt;, sticky, sticky headers. There are many great trends currently out there for web design. These are&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Beacon Technologies, Inc. Web Blog</dc:publisher>
+      <dc:creator>Zedric Myers</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:10:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>Implementing In-App Payments in Your Firefox OS App Mozilla &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://hacks.mozilla.org/2013/11/implementing-in-app-payments-in-your-firefox-os-app/</link>
+      <description>I wrote a game for Firefox OS called Webfighter which uses node.&lt;em&gt;js&lt;/em&gt; as the backend, so I used mozpay-&lt;em&gt;js&lt;/em&gt; on the server-side. Webfighter is &lt;b&gt;.....&lt;/b&gt; He regularly also &lt;em&gt;blogs&lt;/em&gt; at http://robertnyman.com and loves to travel and meet people. robertnyman.</description>
+      <dc:publisher>Mozilla Hacks - the Web developer blog</dc:publisher>
+      <dc:creator>James Long</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 20:29:36 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

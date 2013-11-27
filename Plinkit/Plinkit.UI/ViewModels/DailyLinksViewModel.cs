@@ -123,6 +123,32 @@ namespace Plinkit.UI.ViewModels
             return "";
         }
 
+        #region Unit test-focussed constructor
+        public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, DateTime date,
+                                   IRssReader webDevelopmentReader,
+                                   IRssReader entityFrameworkReader, IRssReader visualStudioReader,
+                                   IRssReader javascriptReader, IRssReader cleanCodeReader,
+                                   IRssReader productivityReader, IRssReader unitTestingReader,
+                                   IRssReader computerScienceReader, IRssReader functionalProgrammingReader,
+                                   IRssReader computingTechnologyReader, IRssReader uncleBobReader)
+        {
+            Date = date;
+            _repository = repository;
+            _webDevelopmentReader = webDevelopmentReader;
+            _entityFrameworkReader = entityFrameworkReader;
+            _visualStudioReader = visualStudioReader;
+            _javascriptReader = javascriptReader;
+            _cleanCodeReader = cleanCodeReader;
+            _productivityReader = productivityReader;
+            _unitTestingReader = unitTestingReader;
+            _computerScienceReader = computerScienceReader;
+            _functionalProgrammingReader = functionalProgrammingReader;
+            _computingTechnologyReader = computingTechnologyReader;
+            _uncleBobReader = uncleBobReader;
+            SetupData();
+        }
+        #endregion
+
         public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, DateTime date)
         {
             Date = date;

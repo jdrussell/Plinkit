@@ -105,7 +105,6 @@ C:\Git\Plinkit\Plinkit.UI\bin\System.Web.WebPages.dll
 C:\Git\Plinkit\Plinkit.UI\bin\System.Web.WebPages.Razor.dll
 C:\Git\Plinkit\Plinkit.UI\bin\WebGrease.dll
 C:\Git\Plinkit\Plinkit.UI\bin\Plinkit.Domain.pdb
-C:\Git\Plinkit\Plinkit.UI\bin\EntityFramework.xml
 C:\Git\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.pdb
 C:\Git\Plinkit\Plinkit.UI\bin\HtmlAgilityPack.xml
 C:\Git\Plinkit\Plinkit.UI\bin\Newtonsoft.Json.pdb

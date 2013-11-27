@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" linq blog -job -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+linq+blog+-job+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 18 results</description>
+    <opensearch:totalResults>18</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>C#: Predicates in &lt;b&gt;LINQ&lt;/b&gt; to Entities | Rodan Sotto&amp;#39;s Tech &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://rodansotto.wordpress.com/2013/11/26/c-predicates-in-linq-to-entities/</link>
+      <description>C#: Predicates in &lt;em&gt;LINQ&lt;/em&gt; to Entities. November 26, 2013 Leave a comment. If you started programming MVC, in particular the &lt;em&gt;Entity Framework&lt;/em&gt; Model, and find yourself filtering your data model using the Where&amp;lt;TSource&amp;gt;() method, you should&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Rodan Sotto's Tech Blog</dc:publisher>
+      <dc:creator>Rodan Sotto</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 23:15:50 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Morning Brew - Chris Alcock » The Morning Brew #1494</title>
+      <link>http://blog.cwa.me.uk/2013/11/27/the-morning-brew-1494/</link>
+      <description>The Visual Studio 2013 RTM ALM Virtual Machine is now available - Brian Keller and Greg Duncan highlight the RTM versions of the Application Lifecycle Virtual Machine images for Visual Studio 2013; EF6.0.2 Beta 1 Available on NuGet - Rowan Miller announces the beta 1 release of &lt;em&gt;Entity Framework&lt;/em&gt; 6.0.2, a patch release addressing some reported issues. &lt;b&gt;...&lt;/b&gt; NET software development link &lt;em&gt;blog&lt;/em&gt; published by Chris Alcock a software developer from the north west of England.</description>
+      <dc:publisher>The Morning Brew</dc:publisher>
+      <dc:creator>Chris Alcock</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 09:39:01 GMT</dc:date>
+    </item>
+    <item>
+      <title>Troy Hunt: Web Directions South Presentation: Hack Yourself First</title>
+      <link>http://www.troyhunt.com/2013/11/web-directions-south-presentation-hack.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; Minute Wonder (3) AppHarbor (4) Apple (1) ASafaWeb (23) Azure (3) Backup (1) Bing (1) &lt;em&gt;Blogger&lt;/em&gt; (3) Career Development (2) China (2) Cloud (4) Code Quality (1) Conference (2) Continuous Integration (12) Corporate (1) Database (5) Design Utopia (1) DotNetNuke (1) elmah (1) Enterprise Software Platform (1) &lt;em&gt;Entity Framework&lt;/em&gt; (1) Facebook (5) FxCop (1) Gootkit (2) IIS (1) &lt;b&gt;....&lt;/b&gt; All original because I&amp;#39;m fussy and you just never quite get exactly what you want from a &lt;em&gt;Blogger&lt;/em&gt; template.</description>
+      <dc:publisher>Troy Hunt's Blog</dc:publisher>
+      <dc:creator>Troy Hunt</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 08:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Modified ASP.NET 4.5 CPU Throttling - .NET Web &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/webdev/archive/2013/11/26/modified-asp-net-4-5-cpu-throttling.aspx</link>
+      <description>NET Web Development and Tools &lt;em&gt;Blog&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Entity Framework&lt;/em&gt; Team &lt;em&gt;blog&lt;/em&gt;. &lt;em&gt;Entity Framework&lt;/em&gt; Team &lt;em&gt;blog&lt;/em&gt; &lt;b&gt;....&lt;/b&gt; Many thanks to Konst Khurin for his work on this feature and &lt;em&gt;blog&lt;/em&gt; review. 0 Comments &amp;middot; Tweet. Delicious Save this on Delicious. Leave a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>.NET Web Development and Tools Blog</dc:publisher>
+      <dc:creator>Christy Henriksson</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 03:18:13 GMT</dc:date>
+    </item>
+    <item>
+      <title>Unit testing OWIN applications using TestServer &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/webdev/archive/2013/11/26/unit-testing-owin-applications-using-testserver.aspx</link>
+      <description>NET Web Development and Tools &lt;em&gt;Blog&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; of the Web Developer Checklist. ASP.NET User Voice. Uservoice for ASP.NET. Related &lt;em&gt;Blogs&lt;/em&gt;. Scott Guthrie&amp;#39;s &lt;em&gt;Blog&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Entity Framework&lt;/em&gt; Team &lt;em&gt;blog&lt;/em&gt;. &lt;em&gt;Entity Framework&lt;/em&gt; Team &lt;em&gt;blog&lt;/em&gt;. Brady Gaster&amp;#39;s &lt;em&gt;Blog&lt;/em&gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>.NET Web Development and Tools Blog</dc:publisher>
+      <dc:creator>Praburaj Thiagarajan</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 00:28:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>PostgreSQL: Don&amp;#39;t Use CHAR or VARCHAR (&lt;b&gt;blog&lt;/b&gt;.jonanin.com)</title>
+      <link>http://blog-of-darius.blogspot.com/2013/11/postgresql-dont-use-char-or-varchar.html</link>
+      <description>PostgreSQL: Don&amp;#39;t Use CHAR or VARCHAR (&lt;em&gt;blog&lt;/em&gt;.jonanin.com). Earlier this week, while browsing some stack overflow questions about postgres&amp;#39; textual data types, I came across a link to a set of benchmarks that compare the performance of&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RANDOM THOUGHTS</dc:publisher>
+      <dc:creator>Darius Kučinskas</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 07:15:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Super Cool Image Hover Effect Using Pure CSS3 : Techumber</title>
+      <link>http://www.techumber.com/2013/11/super-cool-image-hover-effect-using-pure-css3.html</link>
+      <description>Aravind Buddha Student,&lt;em&gt;Blogger&lt;/em&gt;, Developer. &lt;b&gt;...&lt;/b&gt; NET ( 12 ); &lt;em&gt;Blogger&lt;/em&gt; ( 5 ); CSS3 ( 33 ); CSS3-WIDGETS ( 8 ); HTML5 ( 15 ); javaScript ( 22 ); JQuery ( 24 ); Magento ( 3 ); PHP ( 24 ); Pure-CSS3 ( 22 ); Web-Design ( 12 ) &lt;b&gt;...&lt;/b&gt; NET Authentication Beginner &lt;em&gt;Blogger Blogger&lt;/em&gt;-Labs Buttons C# Create CSS css-preprocessors CSS3 CSS3-Tutorials CSS3-WIDGETS Custom Data-Annotation DataBase Demo DotNet Download Drop Down Menu E-Commerce &lt;em&gt;Entity-FrameWork&lt;/em&gt; EntityFrameWork&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Techumber</dc:publisher>
+      <dc:creator>noreply@blogger.com (aravind buddha)</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 11:47:45 GMT</dc:date>
+    </item>
+    <item>
+      <title>How To Convert Dataset To List - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/334987-how-to-convert-dataset-to-list/</link>
+      <description>&lt;em&gt;Linq&lt;/em&gt;; using System.Text; using System.Data; using System.Data.OleDb; using Excel = Microsoft.Office.Interop.Excel; using System.IO; namespace ConsoleApplication31 { class Program { private DataSet GetExcelData(string ExcelPath, string&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 10:31:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jasman se &lt;b&gt;blog&lt;/b&gt;: HTTP client, SSL and CRL check</title>
+      <link>http://jasmanseblog.blogspot.com/2013/11/http-client-ssl-and-crl-check.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; Component Services Concurrency Conficker connectionManagement CRL CSS Dashboards Default html editor &lt;em&gt;Entity Framework&lt;/em&gt; Eventlog FireFox FlatCompress floppy drive Flushmaster Forced Break FreeBSD FreeNAS Functions Generic&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Jasman se blog</dc:publisher>
+      <dc:creator>Nicki de Wet</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 10:44:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Block unwanted Ads in your system - Technologies matter - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://techie-tel.blogspot.com/2013/11/block-unwanted-ads-in-your-system.html</link>
+      <description>Net Azure General &lt;em&gt;LINQ&lt;/em&gt; MVP Resume Format SOA Technology Telerik RadControls open source .Net 4.5 ASP.Net 4.5 Adobe Flash Android games Biztalk Block Ads &lt;em&gt;Entity Framework&lt;/em&gt; Espier Excel Flash Memory Garbage Collection Google HTML IIS6 IIS7 Launcher 7 MEF MS Excel MS Office NAND NOR REST SAX SQL Server 2008 SSIS Scrum Service-Oriented Architecture SharePoint Interview Questions Standards TFS Telerik Tips n Tricks Tools Training UML Visual Studio 2012&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Technologies matter</dc:publisher>
+      <dc:creator>Satish Kumar V</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 08:50:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

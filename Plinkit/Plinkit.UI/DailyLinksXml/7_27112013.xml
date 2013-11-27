@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>7 results</description>
+    <opensearch:totalResults>7</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>7</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;Blog&lt;/b&gt; | Better Than &lt;b&gt;Unit Tests&lt;/b&gt; | Relevance</title>
+      <link>http://thinkrelevance.com/blog/2013/11/26/better-than-unit-tests</link>
+      <description>Don&amp;#39;t get me wrong, I love &lt;em&gt;unit testing&lt;/em&gt;. The practice of &lt;em&gt;unit testing&lt;/em&gt; is probably the most important quality innovation in my whole career. &lt;em&gt;Unit testing&lt;/em&gt; has ... &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Blog&lt;/em&gt;. Nov 26 2013. Better Than &lt;em&gt;Unit Tests&lt;/em&gt;. Tags: testing, simulant, quickcheck, and&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Relevance Blog</dc:publisher>
+      <dc:creator>Michael Nygard</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 19:30:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Captain Debug&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Investigating Memory Leaks Part 1 - Writing &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.captaindebug.com/2013/11/investigating-memory-leaks-part-1.html</link>
+      <description>The first thing to note is that the server passes all it&amp;#39;s &lt;em&gt;unit tests&lt;/em&gt; and a whole bunch of integration tests. It runs well in all test environments using test data, so what&amp;#39;s going wrong in production? It&amp;#39;s easy to guess that in production it&amp;#39;s probably&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Captain Debug's Blog</dc:publisher>
+      <dc:creator>Roger Hughes</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 09:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Chop onions instead of layers | - planetgeek.ch</title>
+      <link>http://www.planetgeek.ch/2013/11/26/chop-onions-instead-of-layers/</link>
+      <description>If a process or domain layer couples itself with infrastructure concerns, it is doing too much and becomes difficult to &lt;em&gt;test&lt;/em&gt;. Especially this layer should know close to nothing about infrastructure. Infrastructure is &lt;b&gt;...&lt;/b&gt; Jeffrey Palermo proposed this approach called Onion Architecture on his &lt;em&gt;blog&lt;/em&gt; 2008. The approach is nothing new. However, Jeffrey liked to have an easy to &lt;b&gt;....&lt;/b&gt; Clean Code and Clean &lt;em&gt;TDD&lt;/em&gt; Cheat Sheets. standard. | January 4, 2011 by Urs Enzler |. 35 Comments. Updated: new&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>planetgeek.ch</dc:publisher>
+      <dc:creator>Daniel Marbach</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 21:35:21 GMT</dc:date>
+    </item>
+    <item>
+      <title>Cannot add new item to term set even when term set is opened &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://bernado-nguyen-hoan.com/2013/11/27/cannot-add-new-item-to-term-set-even-when-term-set-is-opened/</link>
+      <description>Bernado Nguyen-Hoan&amp;#39;s &lt;em&gt;Blog&lt;/em&gt; – Coding Stories from an IT Mercenary. Capturing Bernado&amp;#39;s interesting findings and thoughts (on C#, SharePoint, troubleshootings, practices, patterns, stuffs) as he progresses through his journey as a software&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Bernado Nguyen-Hoan's Blog - Coding Stories from an IT Mercenary</dc:publisher>
+      <dc:creator>Bernado</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 04:24:13 GMT</dc:date>
+    </item>
+    <item>
+      <title>I&amp;#39;m Ukrainian. I live in Austria. And I support Euromaidan! Here is why.</title>
+      <link>http://www.andriybuday.com/2013/11/im-ukrainian-i-live-in-austria-and-i.html</link>
+      <description>I&amp;#39;m Ukrainian. I live in Austria. And I support Euromaidan! Here is why. My &lt;em&gt;blog&lt;/em&gt; is mostly technical, but time-to-time I write about the life. I write this post to support people who fight for the future of my country. Currently I live in Europe, Austria.</description>
+      <dc:publisher>Developer's RoadMap To Success</dc:publisher>
+      <dc:creator>Andriy Buday</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 00:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;Unit&lt;/b&gt; &amp;amp; Integration &lt;b&gt;Testing&lt;/b&gt; REST Services | Nigel Eke</title>
+      <link>http://nigel-eke.com/unit-integration-testing-rest-services/</link>
+      <description>It focuses on the ability to automatically build, &lt;em&gt;unit&lt;/em&gt; and integration &lt;em&gt;test&lt;/em&gt; the application&amp;#39;s REST services. I have developed desktop utilities previously, where I&amp;#39;ve used the combination of &lt;em&gt;TDD&lt;/em&gt; and Presenter-First to write and &lt;em&gt;test&lt;/em&gt; them. I wasn&amp;#39;t&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Nigel Eke</dc:publisher>
+      <dc:creator>nigel</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 11:43:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>Recent &lt;b&gt;Blog&lt;/b&gt; Posts - - Wired Sussex</title>
+      <link>http://www.wiredsussex.com/jobs/vacancy.asp?item=12681</link>
+      <description>NET Developers (MVC, C#, &lt;em&gt;TDD&lt;/em&gt;) Makemedia Ltd &lt;b&gt;...&lt;/b&gt; 21/11/2013. Creative web developer. The &lt;em&gt;Unit&lt;/em&gt;, Brighton and Hove We are looking for a talented creative developer to join our team. Working with project managers, design and programming teams you will help guide our projects and keep us at ... 14/11/ &lt;b&gt;...&lt;/b&gt; Key responsibilities: ○ Gathering requirements from customers and key stakeholders through user &lt;em&gt;testing&lt;/em&gt;, feedback sessions, customer interviews and web analytics○ ... 30/10/&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Digital Media Jobs from WiredSussex.com</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 26 Nov 2013 11:29:43 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
