@@ -159,7 +159,7 @@ $.fn.bic_calendar = function(options) {
 
         //funció mostra literals setmana
         function llistar_literals_setmana(){
-            if ( show_days != false ){
+            if (show_days != false) {                
                 var capaDiasSemana = $('<tr class="dias_semana" >');
                 var codigoInsertar = '';
                 $(dias).each(function(indice, valor){
@@ -196,14 +196,17 @@ $.fn.bic_calendar = function(options) {
             
             var capaDiasMes_string = "";
                         
+            var todayClass = "";
+            
             //escribo la primera fila de la semana
-            for (var i=0; i<7; i++){
+            for (var i = 0; i < 7; i++) {
+                todayClass = getTodayStyleClass(contadorDias, n_mes, ano);
                 if (i < primerDia){
                     var codigoDia = "";
                     if (i == 0)
                         codigoDia += "<tr>";
                     //si el dia de la semana i es menor que el numero del primer dia de la semana no pongo nada en la celda
-                    codigoDia += '<td class="diainvalido';
+                    codigoDia += '<td class="diainvalido' + todayClass;
                     if (i == 0)
                         codigoDia += " primero";
                     codigoDia += '"></td>';
@@ -213,38 +216,44 @@ $.fn.bic_calendar = function(options) {
                         codigoDia += '<tr>';
                     codigoDia += '<td id="' + id_calendari + '_' + contadorDias + "_" + n_mes + "_" + ano + '" ';
                     if (i == 0)
-                        codigoDia += ' class="primero"';
-                    if (i == 6)
-                        codigoDia += ' class="ultimo domingo"';
+                        codigoDia += ' class="primero' + todayClass + '"';
+                    else if (i == 6)
+                        codigoDia += ' class="ultimo domingo' + todayClass + '"';
+                    else
+                        codigoDia += ' class="' + todayClass + '"';
                     //codigoDia += '><a>' + contadorDias + '</a></span>';
                     codigoDia += "><a href='/Links/" + contadorDias + "-" + n_mes + "-" + ano + "/web-development'>" + contadorDias + "</a></span>";
                     if (i == 6)
                         codigoDia += '</tr>';
                     contadorDias++;
                 }
-                capaDiasMes_string += codigoDia
+                capaDiasMes_string += codigoDia;
             }
                         
             //recorro todos los demás días hasta el final del mes
             var diaActualSemana = 1;
-            while (contadorDias <= ultimoDiaMes){
+            while (contadorDias <= ultimoDiaMes) {
+                todayClass = getTodayStyleClass(contadorDias, n_mes, ano);
                 var codigoDia = "";
                 if (diaActualSemana % 7 == 1)
                     codigoDia += "<tr>";
                 codigoDia += '<td id="' + id_calendari + '_' + contadorDias + "_" + n_mes + "_" + ano + '" ';
                 //si estamos a principio de la semana escribo la clase primero
                 if (diaActualSemana % 7 == 1)
-                    codigoDia += ' class="primero"';
+                    codigoDia += ' class="primero' + todayClass + '"';
                 //si estamos al final de la semana es domingo y ultimo dia
-                if (diaActualSemana % 7 == 0)
-                    codigoDia += ' class="domingo ultimo"';
+                else if (diaActualSemana % 7 == 0)
+                    codigoDia += ' class="domingo ultimo' + todayClass + '"';
+                else 
+                    codigoDia += ' class="' + todayClass + '"';
+                
                 //codigoDia += '><a>' + contadorDias + '</a></td>';
                 codigoDia += "><a href='/Links/" + contadorDias + "-" + n_mes + "-" + ano + "/web-development'>" + contadorDias + "</a></span>";
                 if (diaActualSemana % 7 == 0)
                     codigoDia += "</tr>";
                 contadorDias++;
                 diaActualSemana++;
-                capaDiasMes_string += codigoDia
+                capaDiasMes_string += codigoDia;
             }
                         
             //compruebo que celdas me faltan por escribir vacias de la última semana del mes
@@ -265,6 +274,18 @@ $.fn.bic_calendar = function(options) {
             
             capaDiasMes.append( capaDiasMes_string );
         }
+        
+        function getTodayStyleClass(currentDay, currentMonth, currentYear) {
+            var today = new Date();
+            var dayToday = today.getUTCDate();
+            var monthToday = today.getUTCMonth() + 1;
+            var yearToday = today.getUTCFullYear();
+            if (currentDay == dayToday && currentMonth == monthToday && currentYear == yearToday)
+                return " today";                
+             else
+                return "";
+        }
+
         //función para calcular el número de un día de la semana
         function calculaNumeroDiaSemana(dia,mes,ano){
             var objFecha = new Date(ano, mes, dia);

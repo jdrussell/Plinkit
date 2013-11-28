@@ -112,6 +112,12 @@ namespace Plinkit.UI.ViewModels
         {
             get
             {
+                _container.Links.Add(new UncleBobLink
+                    {
+                        Title = "Uncle Bob Blog Archive",
+                        Description = "A listing of Uncle Bob's blog posts at 8th light",
+                        Link = "http://blog.8thlight.com/uncle-bob/archive.html"
+                    });
                 return _container.Links.OfType<UncleBobLink>();
             }
         }
@@ -124,6 +130,8 @@ namespace Plinkit.UI.ViewModels
         }
 
         #region Unit test-focussed constructor
+        public DailyLinksViewModel(){ }
+
         public DailyLinksViewModel(IRepository<DailyLinksContainer> repository, DateTime date,
                                    IRssReader webDevelopmentReader,
                                    IRssReader entityFrameworkReader, IRssReader visualStudioReader,

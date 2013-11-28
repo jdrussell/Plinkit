@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 336 results</description>
+    <opensearch:totalResults>336</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>0 Comments - JWT.com</title>
+      <link>http://www.jwt.com/blog/people/worldmade-gallery-artist-spotlight-ade-harnusa/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; Ade Harnusa Comments Feed&amp;quot; href=&amp;quot;http://www.jwt.com/&lt;em&gt;blog&lt;/em&gt;/people/worldmade-gallery-artist-spotlight-ade-harnusa/feed/&amp;quot; /&amp;gt; &amp;lt;script type=&amp;#39;text/&lt;em&gt;javascript&lt;/em&gt;&amp;#39; src=&amp;#39;http://www.jwt.com/&lt;em&gt;blog&lt;/em&gt;/wp-includes/&lt;em&gt;js&lt;/em&gt;/comment-reply.&lt;em&gt;js&lt;/em&gt;?ver=3.4.2&amp;#39;&amp;gt;&amp;lt;/script&amp;gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>JWT Blog</dc:publisher>
+      <dc:creator>JWT</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 15:00:07 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Lightstreamer &lt;b&gt;Blog&lt;/b&gt;: Visual Layer of the &lt;b&gt;JavaScript&lt;/b&gt; Client Library &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.lightstreamer.com/2013/11/visual-layer-of-javascript-client.html</link>
+      <description>A few weeks ago, we released part of our Lightstreamer &lt;em&gt;JavaScript&lt;/em&gt; Client library as an open source project on GitHub (actually, four projects). The initial idea was to release our visual layer as an open source addon to our client library.</description>
+      <dc:publisher>The Lightstreamer Blog</dc:publisher>
+      <dc:creator>Simone Fabiano</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 17:11:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>mir.aculo.us &lt;b&gt;JavaScript&lt;/b&gt; with Thomas Fuchs » &lt;b&gt;Blog&lt;/b&gt; Archive » 5 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://mir.aculo.us/2013/11/27/5-things-ive-learned-in-5-years-of-running-a-saas/</link>
+      <description>That you need to scale to millions of users, and you&amp;#39;re doomed if you don&amp;#39;t plan for that. That generating HTML on the server is so 1994. That node.&lt;em&gt;js&lt;/em&gt; will cure cancer. The fact is that you need to be pragmatic—your goal is to run a business.</description>
+      <dc:publisher>mir.aculo.us</dc:publisher>
+      <dc:creator>miraculous1</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 15:01:21 GMT</dc:date>
+    </item>
+    <item>
+      <title>Digital Skateboarding » &lt;b&gt;Blog&lt;/b&gt; Archive » RED BULL – SKATE &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://digitalskateboarding.com/2013/11/red-bull-skate-escape-adventure-in-nicaragua-part-1/</link>
+      <description>Browse More Videos. &lt;em&gt;Blog&lt;/em&gt; &amp;middot; Interviews &amp;middot; Word Up! Photo Features &amp;middot; Polls &amp;middot; Featured &amp;middot; Video &amp;middot; A Digital Exclusive &amp;middot; A Digital Shout Out &amp;middot; Back In The Day &amp;middot; Blast From The Past &amp;middot; Coming Soon &amp;middot; Commercials &amp;middot; Contests &amp;middot; Digital Approved &amp;middot; Digital&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Digital Skateboarding</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 17:02:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jeremy Keith: The Long Web | &lt;b&gt;Blog&lt;/b&gt; | Decade City</title>
+      <link>http://decadecity.net/blog/2013/11/28/jeremy-keith-long-web</link>
+      <description>&lt;em&gt;JavaScript&lt;/em&gt;. Created a sparkline &lt;em&gt;JS&lt;/em&gt; renderer in canvass then someone else came along and made it from SVG which is more appropriate. It&amp;#39;s the same SVG file but with parameters - this works because SVG is a markup document that can&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Decade City</dc:publisher>
+      <dc:creator>Orde Saunders</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 00:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>What to Choose between XAML and &lt;b&gt;JavaScript&lt;/b&gt; for Windows Store &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://raviranjankr.wordpress.com/2013/11/28/what-to-choose-between-xaml-and-javascript-for-windows-store-apps-development/</link>
+      <description>As developers new to Windows 8, we&amp;#39;re having a hard time choosing between C#/XAML and &lt;em&gt;JS&lt;/em&gt;/HTML for our upcoming app development. I still remember the day when I started to learn coding in .Net framework 2.0 and an overarching&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RranjanK's Blogs</dc:publisher>
+      <dc:creator>Ravi Ranjan Kumar</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 08:23:39 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dirty Motherfucking &lt;b&gt;Blog&lt;/b&gt; » &lt;b&gt;Blog&lt;/b&gt; Archive » Some Processing.&lt;b&gt;JS&lt;/b&gt; fun</title>
+      <link>http://dirty-motherfucker.org/blog/2013/11/28/some-processing-js-fun/</link>
+      <description>The sketch itself can be found at http://dirty-motherfucker.org/imageslices.&lt;em&gt;js&lt;/em&gt;/imageslices.pde (yes, the style is intentionally messed up). This entry was posted on Thursday, November 28th, 2013 at 10:47 and is filed under &lt;em&gt;javascript&lt;/em&gt;, processing&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dirty Motherfucking Blog</dc:publisher>
+      <dc:creator>gencha</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 09:47:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>HCL – UI Developer – HTML5/CSS3/&lt;b&gt;JS&lt;/b&gt;/Jquery interview questions &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sharag.wordpress.com/2013/11/28/hcl-ui-developer-html5css3jsjquery-interview-questions-and-answer/</link>
+      <description>&lt;em&gt;JavaScript&lt;/em&gt; doesn&amp;#39;t builtin support of namespacing but using objects and closures we can achieve a similar effect. &lt;em&gt;javascript&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; for more details on namespace read http://addyosmani.com/&lt;em&gt;blog&lt;/em&gt;/essential-&lt;em&gt;js&lt;/em&gt;-namespacing/ 7) explain Jquery live&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sharag's Tech Interview HELP</dc:publisher>
+      <dc:creator>sharag</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 10:12:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Install node.&lt;b&gt;js&lt;/b&gt; on Linux Mint 15 | .Kai &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://braindrivendevelopment.com/2013/11/27/install-node-js-on-linux-mint-15/</link>
+      <description>The node.&lt;em&gt;js&lt;/em&gt; website offers an installation with the well known package manager apt. Unfortunately that didn&amp;#39;t &lt;b&gt;...&lt;/b&gt; This entry was posted in Development, &lt;em&gt;JavaScript&lt;/em&gt;, Linux, Technology and tagged Linux, Mint, SublimeText by Kai. Bookmark the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>.Kai Blog</dc:publisher>
+      <dc:creator>Kai</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 18:58:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>Firefox and FireCAT as a Platform for Ethical Hacking Mozilla Hacks &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://hacks.mozilla.org/2013/11/firefox-and-firecat-as-a-platform-for-ethical-hacking/</link>
+      <description>Editors. From the ubiquitous FireBug to different &lt;em&gt;JavaScript&lt;/em&gt; or XML editors, the available editors can help us to visualize and modify content as required. &lt;b&gt;...&lt;/b&gt; He regularly also &lt;em&gt;blogs&lt;/em&gt; at http://robertnyman.com and loves to travel and meet people.</description>
+      <dc:publisher>Mozilla Hacks - the Web developer blog</dc:publisher>
+      <dc:creator>Maximiliano Soler</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 09:19:46 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

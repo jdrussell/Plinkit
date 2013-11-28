@@ -4,11 +4,11 @@ namespace Plinkit.Domain.Configuration
 {
     public class RssFeeds
     {
-        private const string WebDevelopmentFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=asp+net+mvc+developer+blog+-jobs+-newslawonline+-%22experience+with%22+-stackoverflow&lr=lang_en&hl=en&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";                                                  
-        private const string EntityFrameworkFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=%22entity+framework%22+linq+blog+-job+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
+        private const string WebDevelopmentFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=asp.net+AND+mvc+OR+%22web+development%22+OR+html5+blog+-jobs+-newslawonline+-%22experience+with%22+-stackoverflow+-blogspot.com+-freelancer.com&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
+        private const string EntityFrameworkFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=%22entity+framework%22+OR+EF6+OR+linq+blog+-job+-marketing&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string VisualStudioFeed = "https://www.google.co.uk/search?lr=lang_en&q=%22visual+studio%22+tools+blog+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string JavascriptFeed = "https://www.google.co.uk/search?lr=lang_en&hl=en&q=javascript+js+blog+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
-        private const string CleanCodeFeed = "https://www.google.co.uk/search?client=firefox-a&hs=EbG&rls=org.mozilla:en-US:official&q=software+best+practice+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
+        private const string CleanCodeFeed = "https://www.google.co.uk/search?client=firefox-a&hs=EbG&rls=org.mozilla:en-US:official&q=c%23+%22best+practice%22+-job&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string ProductivityFeed = "https://www.google.co.uk/search?q=developer+productivity+blog+-stackoverflow+-%22real estate%22&client=firefox-a&hs=PdG&rls=org.mozilla:en-US:official&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string UnitTestingFeed = "https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&client=firefox-a&hs=myv&rls=org.mozilla:en-US:official&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";
         private const string ComputerScienceFeed = "https://www.google.co.uk/search?client=firefox-a&hs=RkG&rls=org.mozilla:en-US:official&q=%22computer+science%22+algorithms+blog+-stackoverflow&tbm=blg&output=rss&tbs=qdr:d,lr:lang_1en";

@@ -137,7 +137,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ErrorController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Extensions\UiExtensions.cs" />
@@ -190,6 +189,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Images\grid.png" />
+    <Content Include="Images\hero-bg.png" />
+    <Content Include="Images\plinkit-header.png" />
     <Content Include="Images\plinkit-hero.gif" />
     <Content Include="Images\plinkit-small.gif" />
     <Content Include="Scripts\bootstrap.bic-calendar.js" />

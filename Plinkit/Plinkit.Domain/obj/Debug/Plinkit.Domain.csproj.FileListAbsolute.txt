@@ -21,3 +21,4 @@ C:\Git\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.dll
 C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.csprojResolveAssemblyReference.cache
 C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.dll
 C:\Git\Plinkit\Plinkit.Domain\obj\Debug\Plinkit.Domain.pdb
+C:\git\Plinkit\Plinkit.Domain\bin\Debug\EntityFramework.xml

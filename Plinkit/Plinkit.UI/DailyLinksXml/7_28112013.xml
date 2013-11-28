@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>unit testing tdd blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=unit+testing+tdd+blog+-stackoverflow&amp;client=firefox-a&amp;hs=myv&amp;rls=org.mozilla:en-US:official&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>4 results</description>
+    <opensearch:totalResults>4</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>4</opensearch:itemsPerPage>
+    <item>
+      <title>Alexander Kuznetsov : Learning PostgreSql: different behavior with &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sqlblog.com/blogs/alexander_kuznetsov/archive/2013/11/27/learning-postgresql-different-behavior-with-read-uncommitted-committed.aspx</link>
+      <description>THE SQL Server &lt;em&gt;Blog&lt;/em&gt; Spot on the Web. Welcome to &lt;b&gt;....&lt;/b&gt; Currently he works at DRW Trading Group in Chicago, where he leads a team of developers, practicing agile development, defensive programming, &lt;em&gt;TDD&lt;/em&gt;, and database &lt;em&gt;unit testing&lt;/em&gt;.</description>
+      <dc:publisher>SQLblog.com - The SQL Server blog spot on the web</dc:publisher>
+      <dc:creator>Alexander Kuznetsov</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 20:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Programming.Math.Software Architect.AI: Java regular expression &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://mydov.blogspot.com/2013/11/java-regular-expression-string-match.html</link>
+      <description>Search within &lt;em&gt;Blog&lt;/em&gt; &lt;b&gt;....&lt;/b&gt; boost &lt;em&gt;unit test&lt;/em&gt; - multiple &lt;em&gt;unit test&lt;/em&gt; cpp files in one program(original post). For the single &lt;em&gt;unit test&lt;/em&gt; cpp file program I have already covered in the previous post &amp;lt;Getting started with boost &lt;em&gt;unit test&lt;/em&gt; along with vi... Corporation&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming.Math.Software Architect.AI</dc:publisher>
+      <dc:creator>Albert</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 13:01:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>How to use a sensitive data(cannot be stored) as key in database</title>
+      <link>http://mydov.blogspot.com/2013/11/how-to-use-sensitive-datacannot-be.html</link>
+      <description>Search within &lt;em&gt;Blog&lt;/em&gt; &lt;b&gt;....&lt;/b&gt; boost &lt;em&gt;unit test&lt;/em&gt; - multiple &lt;em&gt;unit test&lt;/em&gt; cpp files in one program(original post). For the single &lt;em&gt;unit test&lt;/em&gt; cpp file program I have already covered in the previous post &amp;lt;Getting started with boost &lt;em&gt;unit test&lt;/em&gt; along with vi... Corporation&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming.Math.Software Architect.AI</dc:publisher>
+      <dc:creator>Albert</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 18:54:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Fixed Wimax Performance In Uganda Deployment Information &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.ukessays.com/essays/information-technology/fixed-wimax-performance-in-uganda-deployment-information-technology-essay.php</link>
+      <description>&lt;em&gt;TDD&lt;/em&gt; – Time Division Duplexing. &lt;em&gt;FDD&lt;/em&gt; – Frequency Division Duplexing. GPC – Grant per connection. GPSS – Grant per subscriber Station. TABLE OF CONTENTS. DECLARATION ii. APPROVAL iii. ABSTRACT iv. ACKNOWLEDGEMENT 1 &lt;b&gt;.....&lt;/b&gt; Indoor &lt;em&gt;unit&lt;/em&gt; (IDU). 100BaseT switching Hub. Notebook computer. PC server (linux loaded) at the Base station. Software tools: I-perf (version 1.7.0 or higher)- used to &lt;em&gt;test&lt;/em&gt; local end-to-end &lt;em&gt;tests&lt;/em&gt;. Speedtest.net – used to &lt;em&gt;test&lt;/em&gt; international traffic&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RSS Feed for UK Essays</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 14:38:04 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

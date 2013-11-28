@@ -39,8 +39,7 @@ namespace Plinkit.UI.Controllers
         }
 
         public ActionResult About()
-        {
-            ViewBag.Message = "pLinkIt.";            
+        {                     
             return View();
         }
 

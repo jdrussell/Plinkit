@@ -131,7 +131,7 @@ namespace Plinkit.UI.Services
         private void ParseRssItems(XmlDocument xmlDoc)
         {
             _rssItems.Clear();
-            var nodes = xmlDoc.SelectNodes("rss/channel/item");
+            var nodes = xmlDoc.SelectNodes("rss/channel/item");            
 
             foreach (XmlNode node in nodes)
             {

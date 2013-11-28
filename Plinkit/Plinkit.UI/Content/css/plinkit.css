@@ -7,21 +7,27 @@ body
 
 .brand
 {
-    background: url(../../Images/plinkit-small.gif) no-repeat top left;
+    background: url(../../Images/plinkit-header.png) no-repeat top left;
     display: block;
     width: 150px;
     height: 30px;
-    text-indent: -9999px;
+    text-indent: -9999px;    
+}
+
+#pLinkItHeading {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
 }
 
 .hero-unit {
-   /*background: url(../../Images/grid.png) repeat top left; */
+   background: url(../../Images/hero-bg.png) repeat top left; 
 }
 
 .clear { margin-bottom: 1em; }
 
 .pop { margin: 0; }
 
-.navbar .brand {
+/*.navbar .brand {
     margin-top: 5px;
-}
+}*/

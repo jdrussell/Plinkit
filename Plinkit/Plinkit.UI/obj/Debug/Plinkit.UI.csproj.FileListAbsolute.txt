@@ -125,3 +125,4 @@ C:\Git\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.dll
 C:\Git\Plinkit\Plinkit.UI\obj\Debug\Plinkit.UI.pdb
 C:\Git\Plinkit\Plinkit.UI\bin\Elmah.dll
 C:\Git\Plinkit\Plinkit.UI\bin\Elmah.Mvc.dll
+C:\git\Plinkit\Plinkit.UI\bin\EntityFramework.xml

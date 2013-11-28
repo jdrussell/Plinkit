@@ -60,3 +60,7 @@
     color: #ffffff;
     font-weight: bold;
 }
+
+.bic_calendar .table td.today {
+    background-color: #BCBCBC;
+}

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" -job - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=EbG&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+-job&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>5 results</description>
+    <opensearch:totalResults>5</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+    <item>
+      <title>Can you compare String.IsNullOrEmpty vs String &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/11/28/can-you-compare-string-isnullorempty-vs-string-isnullorwhitespace-net-interview-questions-with-answers/</link>
+      <description>Lets discuss the most asked &lt;em&gt;c#&lt;/em&gt; ,.NET and SQL &lt;b&gt;...&lt;/b&gt; NET and &lt;em&gt;C#&lt;/em&gt; interview question videos. Buy Interview &lt;b&gt;...&lt;/b&gt; Posted on November 28, 2013 by &lt;em&gt;c#&lt;/em&gt; and .NET Interview &lt;b&gt;.....&lt;/b&gt; &lt;em&gt;Best Practice&lt;/em&gt; No 4:- Improve bandwidth performance of ASP.NET sites using&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 06:26:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Detecting and Upleveling ASP.NET Pages for IE11 « Justin Cooney</title>
+      <link>http://jwcooney.com/2013/11/27/detecting-and-upleveling-asp-net-pages-for-ie11/</link>
+      <description>It&amp;#39;s considered &lt;em&gt;best-practice&lt;/em&gt; to do browser detection based on features rather than the more error-prone detection based on the user-agent. For example, see this &lt;b&gt;...&lt;/b&gt; A Simple &lt;em&gt;C#&lt;/em&gt; Web Form Listing the Browser Features. Here is an example&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Justin Cooney</dc:publisher>
+      <dc:creator>Justin Cooney</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 02:19:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>MVVM – Windows 8 Store App using HTML5/WinJS Primer</title>
+      <link>http://ax2012aifintegration.blogspot.com/2013/11/mvvm-windows-8-store-app-using.html</link>
+      <description>Windows Runtime JavaScript, &lt;em&gt;C#&lt;/em&gt;, Visual Basic, and C++ APIs provide access to all core platform features. WinJS JavaScript APIs provide controls, CSS styles, and helper functions that help &lt;b&gt;....&lt;/b&gt; In case you are developing a mobile application for production please review the &lt;em&gt;best practice&lt;/em&gt; guidance on Developing Mobile apps for Microsoft Dynamics AX 2012 here: http://www.microsoft.com/en-us/download/details.aspx?id=38413. Summary: This document describes how to apply MVVM&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dynamics AX 2012 Integration using AIF</dc:publisher>
+      <dc:creator>Alex Anikiev</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 02:12:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>World of Whatever: SSIS Copy all tables - Bill Fellows</title>
+      <link>http://billfellows.blogspot.com/2013/11/ssis-copy-all-tables.html</link>
+      <description>World of Whatever. A blog about SQL Server, SSIS, &lt;em&gt;C#&lt;/em&gt; and whatever else I happen to be dealing with in my professional life. &lt;b&gt;...&lt;/b&gt; Today was that day, courtesy of this SO question: ssis &lt;em&gt;best practice&lt;/em&gt; to load N tables from Source to Target Server.</description>
+      <dc:publisher>World of Whatever</dc:publisher>
+      <dc:creator>Bill Fellows</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 14:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Gesundheitsmanagement in Unternehmen: Arbeitspsychologische &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://kenitra.biz/gesundheitsmanagement-in-unternehmen-arbeitspsychologische-perspektiven-auflage-3/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; werden anhand verschiedener arbeitswissenschaftlicher Modelle dargestellt, geeignete Instrumente und Methoden zur langfristigen Einbettung des Themas Gesundheit in den betrieblichen Alltag werden vorgestellt. &lt;em&gt;Best-Practice&lt;/em&gt;-Beispiele&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Kenitra</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 14:48:55 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
