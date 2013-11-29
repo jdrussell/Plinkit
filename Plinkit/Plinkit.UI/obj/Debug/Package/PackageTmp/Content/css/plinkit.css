@@ -1,0 +1,33 @@
+body 
+{    
+    padding-bottom: 40px;
+    padding-top: 60px;
+    margin: 0;
+}
+
+.brand
+{
+    background: url(../../Images/plinkit-header.png) no-repeat top left;
+    display: block;
+    width: 150px;
+    height: 30px;
+    text-indent: -9999px;    
+}
+
+#pLinkItHeading {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.hero-unit {
+   background: url(../../Images/hero-bg.png) repeat top left; 
+}
+
+.clear { margin-bottom: 1em; }
+
+.pop { margin: 0; }
+
+/*.navbar .brand {
+    margin-top: 5px;
+}*/

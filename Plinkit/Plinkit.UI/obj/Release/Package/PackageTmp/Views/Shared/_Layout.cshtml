@@ -1,0 +1,77 @@
+﻿@using Plinkit.UI.Extensions
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>pLinkIt | Daily .net links for programmers and geeks</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />    
+    @Styles.Render("~/Content/css")    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            var days = ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"];
+
+            $('#linksArchive').bic_calendar({
+                nombresMes: months,
+                dias: days,
+                req_ajax: {}
+            });
+
+            $.fn.popover.defaults.html = true;
+            $.fn.popover.defaults.trigger = 'hover';
+            $(".pop")
+                .popover();
+        });
+        
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-46074743-1', 'plinkit.co.uk');
+        ga('send', 'pageview');
+    </script>
+    
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span
+                    class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                </a>
+                @Html.ActionLink("pLinkIt", "Index", "Home", null, new { @class = "brand" })
+                @*Html.Partial("_LoginPartial")*@
+                <div class="nav-collapse">
+                    <ul class="nav">
+                        @Html.Raw(Html.MenuItem("<span class=\"icon-white icon-home\"> </span> Home", "Index", "Home"))
+                        @Html.Raw(Html.MenuItem("<span class=\"icon-white icon-info-sign\"> </span> About", "About", "Home"))
+                        @Html.Raw(Html.MenuItem("<span class=\"icon-white icon-pencil\"> </span> Contact", "Contact", "Home"))
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row-fluid">
+            @RenderBody()
+        </div>
+        <hr>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>
+                        &copy; @DateTime.Now.Year - pLinkIt</p>
+                </div>                
+            </div>
+        </footer>
+    </div>        
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿@model Plinkit.UI.ViewModels.DailyLinksViewModel
+
+@{
+    ViewBag.Title = "pLinkIt";
+}
+<div class="hero-unit">
+    <hgroup class="title">        
+        <h4>@ViewBag.Message</h4>
+    </hgroup>
+    <p>.net Developer? Need to stay on top of Technology, Tools and Techniques?</p>        
+    <p><img src="~/Images/plinkit-small.gif" alt="pLinkIt" /></p>
+</div>
+
+<div class="row-fluid">    
+    <div class="span12">
+        <h3 class="clear">@Model.Date.ToString("dd MMMM yyyy")</h3>
+    </div>        
+</div>
+<div class="row-fluid">    
+    <div class="span2">
+        @{ Html.RenderPartial("_CategorySelector", Model); }  
+    </div> 
+    <div class="span6">         
+        <div class="tab-content">
+            <div class="tab-pane fade in active" id="webDevelopment">
+                @{ Html.RenderPartial("_LinksDisplay", Model.WebDevelopmentLinks); }
+            </div>
+            <div class="tab-pane fade" id="entityFramework">
+                @{ Html.RenderPartial("_LinksDisplay", Model.EntityFrameworkLinks); }
+            </div>
+            <div class="tab-pane fade" id="visualStudio">
+                @{ Html.RenderPartial("_LinksDisplay", Model.VisualStudioLinks); }                
+            </div>            
+            <div class="tab-pane fade" id="javascript">
+                @{ Html.RenderPartial("_LinksDisplay", Model.JavascriptLinks); }                
+            </div>  
+            <div class="tab-pane fade" id="cleanCode">
+                @{ Html.RenderPartial("_LinksDisplay", Model.CleanCodeLinks); }                
+            </div>
+            <div class="tab-pane fade" id="productivity">
+                @{ Html.RenderPartial("_LinksDisplay", Model.ProductivityLinks); }                
+            </div>
+            <div class="tab-pane fade" id="unitTesting">
+                @{ Html.RenderPartial("_LinksDisplay", Model.UnitTestingLinks); }                
+            </div>
+            <div class="tab-pane fade" id="computerScience">
+                @{ Html.RenderPartial("_LinksDisplay", Model.ComputerScienceLinks); }                
+            </div>
+            <div class="tab-pane fade" id="functionalProgrammingAndFSharp">
+                @{ Html.RenderPartial("_LinksDisplay", Model.FunctionalProgrammingAndFSharpLinks); }                
+            </div>
+            <div class="tab-pane fade" id="computingTechnology">
+                @{ Html.RenderPartial("_LinksDisplay", Model.ComputingTechnologyLinks); }                
+            </div>
+            <div class="tab-pane fade" id="uncleBob">
+                @{ Html.RenderPartial("_LinksDisplay", Model.UncleBobLinks); }                
+            </div>          
+        </div>
+    </div>    
+    <div class="span4">
+        <h4>Archive</h4>
+        <div id="linksArchive"></div>
+    </div>
+</div>
