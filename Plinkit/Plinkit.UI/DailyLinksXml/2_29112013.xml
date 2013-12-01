@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" OR "EF5" OR "EF6" OR linq -job -marketing -blogspot.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+OR+%22EF5%22+OR+%22EF6%22+OR+linq+-job+-marketing+-blogspot.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>6 results</description>
+    <opensearch:totalResults>6</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>6</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;LINQ&lt;/b&gt;: Getting the latest status from recursive table</title>
+      <link>http://www.vhortex.com/2013/11/29/linq-latest-status-recursive-table/</link>
+      <description>public struct scrapedata { public int recordid { get; set;} public string date { get; set;} public int? parentid { get; set;} } void Main() { List&amp;lt;scrapedata&amp;gt; temp = new List&amp;lt;scrapedata&amp;gt;(); scrapedata com = new scrapedata() { recordid = 1,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Little Digital Journey</dc:publisher>
+      <dc:creator>vhortex</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 08:39:27 GMT</dc:date>
+    </item>
+    <item>
+      <title>Tree Structures and Navigation | Nick Polyak&amp;#39;s Software Blog</title>
+      <link>http://nickssoftwareblog.com/2013/11/29/tree-structures-and-navigation/</link>
+      <description>In his great &lt;em&gt;LINQ&lt;/em&gt; TO VISUAL TREE and &lt;em&gt;LINQ&lt;/em&gt; to Tree – A Generic Technique for Querying Tree-like Structures articles, Colin Eberhardt talks about queries various. Tree structures using &lt;em&gt;LINQ&lt;/em&gt;. In order to fit the Tree structure into his framework&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Nick Polyak's Software Blog</dc:publisher>
+      <dc:creator>npolyak</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 02:28:10 GMT</dc:date>
+    </item>
+    <item>
+      <title>Geekswithblogs.net</title>
+      <link>http://www.geekswithblogs.net/</link>
+      <description>Joe Mayo, November 26, 2013. In previous versions of &lt;em&gt;LINQ&lt;/em&gt; to Twitter, I used XUnit, which has a nice Assert.Throws method that I used a lot. When I started the PCL version of &lt;em&gt;LINQ&lt;/em&gt; to Twitter, I started using MSTest and missed Assert.Throws .</description>
+      <dc:publisher>Martin Hinshelwood (MrHinsh) on Visual Studio ALM</dc:publisher>
+      <dc:creator>Martin Hinshelwood</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 11:39:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;LINQ&lt;/b&gt; for Visual C# 2008 - Downloading</title>
+      <link>http://www.downloading.ws/linq-visual-c-2008/</link>
+      <description>free download &lt;em&gt;LINQ&lt;/em&gt; for Visual C# 2008 maybe hosted links on Rapidgator, Uploaded, Netload, PutLocker, Depositfiles, Turbobit, Bitshare and torrent downloading.</description>
+      <dc:publisher />
+      <dc:creator>NeverMore</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 16:15:50 GMT</dc:date>
+    </item>
+    <item>
+      <title>Professional &lt;b&gt;LINQ&lt;/b&gt; at ShareBookFree.com – Free eBooks Download</title>
+      <link>http://sharebookfree.com/professional-linq/</link>
+      <description>Professional &lt;em&gt;LINQ&lt;/em&gt; By Scott Klein 2008 | 408 Pages | ISBN: 0470041811 | PDF | 7 MB Professional &lt;em&gt;LINQ&lt;/em&gt; introduces experienced programmers and database.</description>
+      <dc:publisher>ShareBookFree.com – Free eBooks Download</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 00:29:15 GMT</dc:date>
+    </item>
+    <item>
+      <title>BUILDING INTERACTIVE QUERIES WITH LINQPAD-PACKT epub-ke</title>
+      <link>http://www.downloadpile.com/181036-building-interactive-queries-with-linqpad-packt-epub-ke.html</link>
+      <description>Leverage the power of LINQPad to learn &lt;em&gt;LINQ&lt;/em&gt; * Discover LINQPad&amp;#39;s key features and options * Learn about the cool applications of LINQPad such as testing, code snippet generation, and so on. In Detail If you need to interact with databases,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DownloadPile.com | Scene and p2p Release</dc:publisher>
+      <dc:creator>rock</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 02:06:29 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

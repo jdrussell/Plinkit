@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" -job - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;hs=EbG&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+-job&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>1 result</description>
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <item>
+      <title>Can you explain the complete WPF object hierarchy?(WPF Interview &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/11/29/can-you-explain-the-complete-wpf-object-hierarchywpf-interview-questions-with-answers/</link>
+      <description>Home &amp;middot; Buy 600 .NET and &lt;em&gt;C#&lt;/em&gt; interview question videos. &lt;b&gt;...&lt;/b&gt; Posted on November 29, 2013 by &lt;em&gt;c#&lt;/em&gt; and . &lt;b&gt;...&lt;/b&gt; Buy our 600+ interview questions videos package on &lt;em&gt;C#&lt;/em&gt;, .NET, ASP.NET &lt;b&gt;.....&lt;/b&gt; &lt;em&gt;Best Practice&lt;/em&gt; No 4:- Improve bandwidth performance of ASP.</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 05:10:45 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

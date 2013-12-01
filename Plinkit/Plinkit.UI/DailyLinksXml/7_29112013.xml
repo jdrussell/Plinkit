@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"unit test" OR nunit OR "integration test" OR  "tdd" -blogspot.com -lte - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=%22unit+test%22+OR+nunit+OR+%22integration+test%22+OR++%22tdd%22+-blogspot.com+-lte&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>8 results</description>
+    <opensearch:totalResults>8</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+    <item>
+      <title>What does Lego and building high quality software have in common?</title>
+      <link>http://www.boost.co.nz/blog/random-thoughts/what-does-lego-and-building-high-quality-software-have-in-common/</link>
+      <description>We&amp;#39;ll facilitate a hands on demonstration of the Agile concepts of Test Driven Development (&lt;em&gt;TDD&lt;/em&gt;), Refactoring and Continuous Integration (CI). Our aim will be to facilitate your understanding of why these concepts are so important to building&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Boost Blog</dc:publisher>
+      <dc:creator>paul</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 00:10:42 GMT</dc:date>
+    </item>
+    <item>
+      <title>Getting your frontend code quality in order | Mischa Dasberg</title>
+      <link>http://blog.dasberg.nl/getting-your-frontend-code-quality-in-order/</link>
+      <description>Generating &lt;em&gt;Unit test&lt;/em&gt; reports. To generate reports using karma you need to tell karma to run reporters. In this case we need to do the following. reporters: [&amp;#39;junit&amp;#39;],. To generate a junit report you need to tell karma the following: junitReporter: {</description>
+      <dc:publisher>Mischa Dasberg</dc:publisher>
+      <dc:creator>mischa</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 15:11:26 GMT</dc:date>
+    </item>
+    <item>
+      <title>Samsung patent applications published on 28 November 2013 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.latestpatents.com/samsung-patent-applications-published-on-28-november-2013/</link>
+      <description>107 US patent applications published on 28 November 2013 and assigned to Samsung 1 20130318556 BROADCAST SIGNAL RECEIVING APPARATUS AND CONTROL METHOD.</description>
+      <dc:publisher>Latest Patents</dc:publisher>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 01:50:52 GMT</dc:date>
+    </item>
+    <item>
+      <title>LISQUIZ.COM: Unit-6: Library Management-Basics</title>
+      <link>http://www.lisquiz.com/2013/11/unit-6-library-management-basics.html</link>
+      <description>Read IGNOU material or any other university books. Read any recommended books for UGC NET or any other material you have. Strictly follow the schedule[click here]. &lt;em&gt;Unit Test&lt;/em&gt; will be conducted at final day of the unit. Important notes will be&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>LISQUIZ.COM</dc:publisher>
+      <dc:creator>Thirunavukkarasu T C</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 05:16:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Vector Software Announces Support for Microsoft Visual Studio 2012</title>
+      <link>http://www.softdevtools.com/modules/news/article.php?storyid=3187</link>
+      <description>This allows unit and &lt;em&gt;integration test&lt;/em&gt; environments to be built using the same compiler environment that is used during development. “With our continued support for Microsoft Visual Studio, the VectorCAST test suite maintains its position as a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Software Development Tools Directory</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 13:53:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>Geekswithblogs.net</title>
+      <link>http://www.geekswithblogs.net/</link>
+      <description>Unit tests for HttpClient using HttpMessageHandler. Abhishek Anand, November 20, 2013 .net unit testing c# moq httpclient. You can &lt;em&gt;unit test&lt;/em&gt; a class that uses HttpClient by giving that HttpClient a mock HttpMessageHandler. This way, you can&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Martin Hinshelwood (MrHinsh) on Visual Studio ALM</dc:publisher>
+      <dc:creator>Martin Hinshelwood</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 11:39:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dividing Polynomials | Math 9</title>
+      <link>http://math9wagner.wordpress.com/2013/11/28/dividing-polynomials/</link>
+      <description>Your homework is page 247 # 13, 16 and page 255 # 10, 16. Next day you will have a quiz on Learning Outcome 11. You will also have a homework check (so bring all your homework from Term 1). Your &lt;em&gt;unit test&lt;/em&gt; for Polynomials…</description>
+      <dc:publisher>Math 9</dc:publisher>
+      <dc:creator>Ms. Wagner</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 19:02:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Lynda com Up and Running with iOS SDK-ELOHiM » DownloadPile &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.downloadpile.com/180625-lynda-com-up-and-running-with-ios-sdk-elohim.html</link>
+      <description>Implement the Objective-C code using &lt;em&gt;TDD&lt;/em&gt; * Adding an icon and launch image for the app * Submitting to the App Store * Debugging. Lynda com Up and Running with iOS SDK-ELOHiM. Download this in Super Speed &amp;amp; Resume Support&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DownloadPile.com | Scene and p2p Release</dc:publisher>
+      <dc:creator>rock</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 13:41:50 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

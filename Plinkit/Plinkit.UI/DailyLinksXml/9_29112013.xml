@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>7 results</description>
+    <opensearch:totalResults>7</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>7</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; in Finance in London - Three Days and Counting &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/22/f-in-finance-in-london-three-days-and-counting.aspx</link>
+      <description>If you are interested in &lt;em&gt;functional&lt;/em&gt; programming as it applies to finance (and also insurance too), this event is for you. With a great line up of speakers you will see how &lt;em&gt;F#&lt;/em&gt; and the &lt;em&gt;functional&lt;/em&gt; way of programming are being used in finance, and&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Visual F# Tools Team Blog</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 17:46:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #47, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/11/25/f-weekly-47-2013/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; from this past week: News FAKE 2.2 is finally released! LinqOptimizer.&lt;em&gt;FSharp&lt;/em&gt; was released on NuGet. &lt;em&gt;F#&lt;/em&gt; formatting with inline LaTeX for typesetting math was released. The best quantum computer simulator in the world is written in &lt;em&gt;F#&lt;/em&gt;. Nice to remember that &lt;em&gt;F#&lt;/em&gt; has Statically Resolved Type Parameters.… &lt;b&gt;...&lt;/b&gt; lazyList workflow, and simple futures. Resources for &lt;em&gt;F#&lt;/em&gt; on Curah. MEAP Update: “Succeeding with &lt;em&gt;functional&lt;/em&gt;-first languages in the industry” new to &lt;em&gt;F#&lt;/em&gt; Deep Dives; &lt;em&gt;FSharp&lt;/em&gt;.</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 21:01:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>FAKE 2.2 released » Rash thoughts about .NET, C#, &lt;b&gt;F#&lt;/b&gt; and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.navision-blog.de/blog/2013/11/22/fake_2_released/</link>
+      <description>This &lt;em&gt;Blog&lt;/em&gt; is about Microsoft Dynamics NAV (f.k.a Navision incl. C/SIDE and C/AL), C#, &lt;em&gt;F#&lt;/em&gt; and .NET in general. &lt;b&gt;...&lt;/b&gt; are marked as obsolete. The file patterns implement IEnumerable, so you don&amp;#39;t need to use the “Scan” &lt;em&gt;function&lt;/em&gt; any more.</description>
+      <dc:publisher>Rash thoughts about .NET, C#, F# and Dynamics NAV.</dc:publisher>
+      <dc:creator>Steffen Forkmann</dc:creator>
+      <dc:date>Fri, 22 Nov 2013 17:06:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>From C# To &lt;b&gt;F#&lt;/b&gt; And Back Again: Lambdas And More. - Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/334808-from-c%23-to-f%23-and-back-again-lambdas-and-more/</link>
+      <description>View &lt;em&gt;blog&lt;/em&gt;. Posts: 11,844; Joined: 16-October 07. Posted 16 minutes ago. As a language standard, C# has come a very long way since its creation, when it was little more than Java for .NET. In the spanning years, it has thrown off Java&amp;#39;s OO &lt;b&gt;...&lt;/b&gt; What is &lt;em&gt;F#&lt;/em&gt;? Isn&amp;#39;t it that thing frustrated Scala programmers use in .NET? Isn&amp;#39;t it only useful for math stuff? To quote: Quote. &lt;em&gt;F#&lt;/em&gt; is a succinct, expressive, and efficient &lt;em&gt;functional&lt;/em&gt; and object-oriented language for Microsoft .NET that helps you write&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 23:37:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>Reasonable Code with &lt;b&gt;F#&lt;/b&gt; - InfoQ</title>
+      <link>http://www.infoq.com/presentations/readable-code-f-sharp</link>
+      <description>Mike co-founded the Cleveland &lt;em&gt;F#&lt;/em&gt; User Group, spoke at the first Northeast Ohio Agile Leadership Conference, sometimes speaks at local user groups, and has a &lt;em&gt;blog&lt;/em&gt; which he needs to contribute to on a regular basis. Code PaLOUsa is a conference designed to cover all aspects of software development &lt;b&gt;....&lt;/b&gt; &lt;em&gt;Functional&lt;/em&gt; Programming for Optimization Problems with City of Palo Alto Open Data. Development. Architecture &amp;amp; Design. Process &amp;amp; Practices. Operations &amp;amp; Infrastructure.</description>
+      <dc:publisher>InfoQ Personalized Feed for Fergus Neff</dc:publisher>
+      <dc:creator>Mike Falanga</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 00:05:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Running Session Scripts with &lt;b&gt;F#&lt;/b&gt; - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/Captain.Kernel/archive/2013/11/24/running-session-scripts-with-f.aspx</link>
+      <description>I&amp;#39;m beginning to explore the &lt;em&gt;F#&lt;/em&gt; language – some years ago I spent quite a bit of time working with a language named “APL” which was a very influential early &lt;em&gt;functional&lt;/em&gt; language, wonderful to use partly because it had it&amp;#39;s own symbolic notation like mathematics does, more of &lt;b&gt;...&lt;/b&gt; Anyway I&amp;#39;ve recently discovered (thanks to Vasily Kirichenko – here&amp;#39;s his &lt;em&gt;blog&lt;/em&gt;) that I can dynamically monitor the state of an &lt;em&gt;F#&lt;/em&gt; Interactive session within Visual Studio 2013 (I havent tried earlier version of VS).</description>
+      <dc:publisher>The Adventures Of Captain Kernel</dc:publisher>
+      <dc:creator>Hugh Gleaves</dc:creator>
+      <dc:date>Sun, 24 Nov 2013 16:28:05 GMT</dc:date>
+    </item>
+    <item>
+      <title>MSDN &lt;b&gt;Blogs&lt;/b&gt; | RSS Orange</title>
+      <link>http://rssorange.com/22654/</link>
+      <description>The Visual &lt;em&gt;F#&lt;/em&gt; Tools team at Microsoft contribute to &lt;em&gt;F#&lt;/em&gt; through enterprise-ready tooling in Visual Studio 2013. We recommend the Visual &lt;em&gt;F#&lt;/em&gt; Tools as the best, most productive and highly stable route for &lt;em&gt;functional&lt;/em&gt;-first programming in the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Most Popular Feeds at RSS Orange</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 09:16:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

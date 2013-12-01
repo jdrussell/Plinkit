@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 122 results</description>
+    <opensearch:totalResults>122</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Shall We Learn » 30-minutes experiment with Node.&lt;b&gt;js&lt;/b&gt;</title>
+      <link>http://shallwelearn.com/blog/testing-node-js/</link>
+      <description>This &lt;em&gt;blog&lt;/em&gt; documents my short experiment with Node.&lt;em&gt;js&lt;/em&gt;. Node.&lt;em&gt;js&lt;/em&gt; is a runtime as as well as a library. It is based on Google V8 Engine and is what Chrome uses to run &lt;em&gt;JavaScript&lt;/em&gt;. Node.&lt;em&gt;js&lt;/em&gt; allows one to create back-end app with &lt;em&gt;JavaScript&lt;/em&gt;. 1.</description>
+      <dc:publisher>Shall We LearnShall We Learn</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 18:17:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Programmer &lt;b&gt;blog&lt;/b&gt;: AJAX form in Django with jQuery.form plugin</title>
+      <link>http://garmoncheg.blogspot.com/2013/11/ajax-form-in-django-with-jqueryform.html</link>
+      <description>DOCTYPE html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Contact&amp;lt;/title&amp;gt; &amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot; src=&amp;quot;http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.&lt;em&gt;js&lt;/em&gt;&amp;quot;&amp;gt; &amp;lt;/script&amp;gt; &amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot; src=&amp;quot;http://malsup.github.com/min/jquery.form.min.&lt;em&gt;js&lt;/em&gt;&amp;quot;&amp;gt;&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programmer blog</dc:publisher>
+      <dc:creator>Iurii Garmash</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 07:18:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dirty Motherfucking &lt;b&gt;Blog&lt;/b&gt; » &lt;b&gt;Blog&lt;/b&gt; Archive » Some Processing.&lt;b&gt;JS&lt;/b&gt; fun</title>
+      <link>http://dirty-motherfucker.org/blog/2013/11/28/some-processing-js-fun/</link>
+      <description>The sketch itself can be found at http://dirty-motherfucker.org/imageslices.&lt;em&gt;js&lt;/em&gt;/imageslices.pde (yes, the style is intentionally messed up). This entry was posted on Thursday, November 28th, 2013 at 10:47 and is filed under &lt;em&gt;javascript&lt;/em&gt;, processing&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dirty Motherfucking Blog</dc:publisher>
+      <dc:creator>gencha</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 09:47:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>Metode Usang SEO &lt;b&gt;Blogger&lt;/b&gt; yang Harus Dihentikan ~ Jasa Install &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://muvanessa.blogspot.com/2013/11/metode-usang-seo-blogger-yang-harus.html</link>
+      <description>So , for those of you who want to do SEO &lt;em&gt;Blog&lt;/em&gt; Optimization using jQuery , you can use the code below and place it into the template how . &lt;b&gt;...&lt;/b&gt; &amp;lt;script src=&amp;#39;http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.&lt;em&gt;js&lt;/em&gt;&amp;#39; type=&amp;#39;text/&lt;em&gt;javascript&lt;/em&gt;&amp;#39;/&amp;gt;</description>
+      <dc:publisher>Jasa Install Web Iklan Baris CMS</dc:publisher>
+      <dc:creator>KoKosim</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 23:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>HCL – UI Developer – HTML5/CSS3/&lt;b&gt;JS&lt;/b&gt;/Jquery interview questions &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://sharag.wordpress.com/2013/11/28/hcl-ui-developer-html5css3jsjquery-interview-questions-and-answer/</link>
+      <description>&lt;em&gt;JavaScript&lt;/em&gt; doesn&amp;#39;t builtin support of namespacing but using objects and closures we can achieve a similar effect. &lt;em&gt;javascript&lt;/em&gt; &lt;b&gt;...&lt;/b&gt; for more details on namespace read http://addyosmani.com/&lt;em&gt;blog&lt;/em&gt;/essential-&lt;em&gt;js&lt;/em&gt;-namespacing/ 7) explain Jquery live&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sharag's Tech Interview HELP</dc:publisher>
+      <dc:creator>sharag</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 10:12:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Analysing Performance of AngularJS Screens | Small Improvements &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://tech.small-improvements.com/2013/11/28/analysing-performance-of-angularjs-screens/</link>
+      <description>When you build complex angular.&lt;em&gt;js&lt;/em&gt; apps, your user interface might start to feel sluggish: You experience an uncomfortable delay whenever you click a button, the screen flickers when you scroll and some actions freeze your browser completely. This guide will help you to identify and &lt;b&gt;...&lt;/b&gt; Small Improvements Tech &lt;em&gt;Blog&lt;/em&gt; &amp;middot; Performance feedback software made in Berlin. Yes, we&amp;#39;re hiring! :) &lt;b&gt;...&lt;/b&gt; It tracks resource loading, &lt;em&gt;javascript&lt;/em&gt; parsing, style calculation, and repainting. It helps to identify&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Small Improvements Tech Blog</dc:publisher>
+      <dc:creator>Sebastian Fröstl</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 17:51:58 GMT</dc:date>
+    </item>
+    <item>
+      <title>Firefox and FireCAT as a Platform for Ethical Hacking Mozilla Hacks &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://hacks.mozilla.org/2013/11/firefox-and-firecat-as-a-platform-for-ethical-hacking/</link>
+      <description>Editors. From the ubiquitous FireBug to different &lt;em&gt;JavaScript&lt;/em&gt; or XML editors, the available editors can help us to visualize and modify content as required. &lt;b&gt;...&lt;/b&gt; He regularly also &lt;em&gt;blogs&lt;/em&gt; at http://robertnyman.com and loves to travel and meet people.</description>
+      <dc:publisher>Mozilla Hacks - the Web developer blog</dc:publisher>
+      <dc:creator>Maximiliano Soler</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 09:19:46 GMT</dc:date>
+    </item>
+    <item>
+      <title>japh(r) by Chris Strom</title>
+      <link>http://japhr.blogspot.com/2013/11/when-i-think-of-web-components-i.html</link>
+      <description>Instead of creating &lt;em&gt;JavaScript&lt;/em&gt; objects that receive AJAX responses, create a Polymer element that does and then bubbles events in the document like an HTML element. To explore the idea, &lt;b&gt;...&lt;/b&gt; Buy the best Backbone.&lt;em&gt;js&lt;/em&gt; book ever! Co-authored&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>japh(r) by Chris Strom</dc:publisher>
+      <dc:creator>Chris Strom</dc:creator>
+      <dc:date>Fri, 29 Nov 2013 04:59:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Create a Rich-Text textarea in Microsoft CRM 2013 forms - SoHo &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://community.dynamics.com/crm/b/sohodynamicscrmworld/archive/2013/11/28/create-a-rich-text-textarea-in-microsoft-crm-2013-forms.aspx</link>
+      <description>SoHo - Dynamics CRM World &lt;em&gt;blog&lt;/em&gt; provides information about microsoft crm. Kick-ass gadgets &amp;amp; widgets, solutions to “not-every-day” problems and pieces of code for &lt;b&gt;...&lt;/b&gt; ckeditor_/ckeditor/ckeditor.&lt;em&gt;js&lt;/em&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script src=&amp;quot;http://ajax.googleapis. com/ajax/libs/jquery/1.10.2/jquery.min.&lt;em&gt;js&lt;/em&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot;&amp;gt; CKEDITOR.timestamp = null; var Xrm; $(document).ready(function () { var Xrm = parent.Xrm; var voeb_eckdaten = Xrm.Page.getAttribute(&amp;quot;description&amp;quot;).getValue()&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Microsoft Dynamics CRM</dc:publisher>
+      <dc:creator>Thomas Unzeitig</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 20:06:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jones, Belue expected to start | The Daily Bama &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blogs.tennesseevalleynow.com/bamablog/2013/11/28/jones-belue-expected-to-start/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jones-belue-expected-to-start</link>
+      <description>I&amp;#39;m sure readers of this &lt;em&gt;blog&lt;/em&gt; already have their minds made up on this question. Check out the below video of &lt;b&gt;.....&lt;/b&gt; &amp;quot;https://secure&amp;quot; : &amp;quot;http://edge&amp;quot;) + &amp;quot;.quantserve.com/quant.&lt;em&gt;js&lt;/em&gt;&amp;quot;; elem.async = true; elem.type = &amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot;; var scpt = document.</description>
+      <dc:publisher>The Daily Bama Blog</dc:publisher>
+      <dc:creator>Cliff Kirkpatrick</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 20:00:04 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
