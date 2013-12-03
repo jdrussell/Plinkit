@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>6 results</description>
+    <opensearch:totalResults>6</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>6</opensearch:itemsPerPage>
+    <item>
+      <title>Announcing the &lt;b&gt;F#&lt;/b&gt; 3.1 Compiler/Library Code Drop &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/28/announcing-the-f-3-1-compiler-library-code-drop-from-the-visual-f-tools-team-at-microsoft.aspx</link>
+      <description>The Visual &lt;em&gt;F#&lt;/em&gt; Tools team at Microsoft contribute to &lt;em&gt;F#&lt;/em&gt; through enterprise-ready tooling in Visual Studio 2013. We recommend the Visual &lt;em&gt;F#&lt;/em&gt; Tools as the best, most productive and highly stable route for &lt;em&gt;functional&lt;/em&gt;-first programming in the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 16:16:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Putting the &lt;b&gt;F#&lt;/b&gt; in Finance with Xenomorph TimeScape - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/27/putting-the-f-in-finance-with-timescape-a-world-of-financial-data-at-your-fingertips-strongly-tooled-and-strongly-typed.aspx</link>
+      <description>We recommend the Visual &lt;em&gt;F#&lt;/em&gt; Tools as the best, most productive and highly stable route for &lt;em&gt;functional&lt;/em&gt;-first programming in the Windows ecosystem. You can find out more about &lt;em&gt;functional&lt;/em&gt;-first programming in industry in the recent talk&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 13:57:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Microsoft&amp;#39;s &amp;quot;&lt;b&gt;F#&lt;/b&gt; in Finance&amp;quot; in London - Initial Report &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/27/microsoft-s-quot-f-in-finance-quot-in-london-initial-report.aspx</link>
+      <description>Don discussed the rising importance of &lt;em&gt;functional&lt;/em&gt;-first programming (Clojure, Scala, &lt;em&gt;F#&lt;/em&gt;, etc.) and the characteristics of the significant number of successful projects being reported, for example at &lt;em&gt;fsharp&lt;/em&gt;.org/testimonials. The business reasons&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 13:48:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Xenomorph &lt;b&gt;Blog&lt;/b&gt;: Putting the &lt;b&gt;F#&lt;/b&gt; in Finance with TimeScape</title>
+      <link>http://xenomorph.typepad.com/xenomorph/2013/11/putting-the-f-in-finance-with-timescape.html</link>
+      <description>Quick thank you to Don Syme of Microsoft Research for including a demonstration of &lt;em&gt;F#&lt;/em&gt; connecting to TimeScape running on the Windows Azure cloud in the &lt;em&gt;F#&lt;/em&gt; in Finance event this week in London. &lt;em&gt;F#&lt;/em&gt; is &lt;em&gt;functional&lt;/em&gt; language that is&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Xenomorph Blog</dc:publisher>
+      <dc:creator>Brian Sentance</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 13:28:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>On Excel Interoperation with &lt;b&gt;F&lt;/b&gt; - fbmnds.clojure.&lt;b&gt;blog&lt;/b&gt; - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://fbmnds.blogspot.com/2013/11/on-excel-interoperation-with-f.html</link>
+      <description>Digging into the Excel interoperation facilities of &lt;em&gt;F#&lt;/em&gt;, example code like &lt;em&gt;F#&lt;/em&gt; 3.0 Sample Pack, FSSnip.net and projects like Excel &lt;em&gt;F#&lt;/em&gt; Type Provider and Excel-DNA are first entry points for the topic. &lt;b&gt;....&lt;/b&gt; Porting &lt;em&gt;Functional&lt;/em&gt; Code from Clojure to &lt;em&gt;F#&lt;/em&gt;.</description>
+      <dc:publisher>Some ( Posts )</dc:publisher>
+      <dc:creator>Friedrich Boeckh</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 10:09:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>NDC London - are you ready? - MSDN UK Team &lt;b&gt;blog&lt;/b&gt; - Site Home &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/ukmsdn/archive/2013/11/28/ndc-london-are-you-ready.aspx</link>
+      <description>The MSDN UK &lt;em&gt;Blog&lt;/em&gt; is your central resource for Microsoft developer tools, news, downloads, trials, tutorials and events including windows phone, cloud, azure, desktop development and much more. &lt;b&gt;...&lt;/b&gt; Don is a Principal Researcher at Microsoft and an &lt;em&gt;F#&lt;/em&gt; community contributor. He is an advocate of &amp;quot;data–rich, &lt;em&gt;functional&lt;/em&gt;–first programming&amp;quot; with a focus on simplicity, correctness and robustness of code. Talk: Making Magic: Combining Data, Information, Services and Programming,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>saraallison</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 13:56:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

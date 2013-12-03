@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 211 results</description>
+    <opensearch:totalResults>211</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;JavaScript&lt;/b&gt; template engine in just 20 lines - Krasimir Tsonev</title>
+      <link>http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line</link>
+      <description>Shortly, it allows &lt;em&gt;JavaScript&lt;/em&gt; to CSS/HTML conversion. Of course, because it &lt;b&gt;...&lt;/b&gt; &lt;em&gt;blog&lt;/em&gt; of Krasimir Tsonev - front and back-end developer who writes for web technologies. &lt;b&gt;...&lt;/b&gt; g, code = &amp;#39;var r=[];\n&amp;#39;, cursor = 0; var add = function(line, &lt;em&gt;js&lt;/em&gt;) { &lt;em&gt;js&lt;/em&gt;? (code +=&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Krasimir Tsonev - blog</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 22:46:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>Sketchymoose&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Quick Post - Shell Scripting PDFiD</title>
+      <link>http://sketchymoose.blogspot.com/2013/12/quick-post-shell-scripting-pdfid.html</link>
+      <description>do pdfid $i |grep &amp;#39;PDFiD\|AA\|OpenAction\|&lt;em&gt;JS&lt;/em&gt;\|&lt;em&gt;JavaScript&lt;/em&gt;\|EmbeddedFile&amp;#39; &amp;gt;&amp;gt; ~/PDFiD_Output.txt; done. As you can see, I am in RemNux (again.. such a great tool). The above script iterates through a directory of PDF Files, runs PDFiD on all of&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sketchymoose's Blog</dc:publisher>
+      <dc:creator>-Sketchymoose</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 21:59:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>SEO essentials for web developers: Website &lt;b&gt;...&lt;/b&gt; - Pluralsight &lt;b&gt;blog&lt;/b&gt;</title>
+      <link>http://blog.pluralsight.com/seo-essentials-website-structure</link>
+      <description>Keep &lt;em&gt;JS&lt;/em&gt; simple; Put heavy &lt;em&gt;JS&lt;/em&gt; sections in a separate file from the page; Replace &lt;em&gt;JS&lt;/em&gt; menus with CSS menus whenever possible; Turn off &lt;em&gt;JS&lt;/em&gt; when testing pages for a better understanding of what search engines (and not just users) will see. Be careful with AJAX, especially as these pertain to AJAX. For starters, though search engines are getting better at understanding and indexing content that utilizes AJAX/&lt;em&gt;Javascript&lt;/em&gt;, they still struggle. If you need more detail, here&amp;#39;s a great guide to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Pluralsight blog</dc:publisher>
+      <dc:creator>Joel Klettke</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 16:00:44 GMT</dc:date>
+    </item>
+    <item>
+      <title>Joyent rolls out commercial-grade support for the Node.&lt;b&gt;js&lt;/b&gt; core &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://venturebeat.com/2013/12/03/joyent-rolls-out-commercial-grade-support-for-the-node-js-core/</link>
+      <description>In case you&amp;#39;ve been living under the world&amp;#39;s largest and heaviest rock, Node.&lt;em&gt;js&lt;/em&gt; is server-side &lt;em&gt;JavaScript&lt;/em&gt; featuring non-blocking I/O and a single-threaded event loop. Joyent&amp;#39;s new offering &lt;b&gt;...&lt;/b&gt; &lt;em&gt;blog&lt;/em&gt; comments powered by Disqus &amp;middot; Advertise on&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>VentureBeat</dc:publisher>
+      <dc:creator>J. O'Dell</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 17:38:39 GMT</dc:date>
+    </item>
+    <item>
+      <title>Supun Nakandala&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Clean Code: Writing Code for Humans</title>
+      <link>http://scnakandala.blogspot.com/2013/12/clean-code-writing-code-for-humans.html</link>
+      <description>Supun Nakandala&amp;#39;s &lt;em&gt;Blog&lt;/em&gt;. Things that I found interesting &lt;b&gt;...&lt;/b&gt; Embed &lt;em&gt;Javascript&lt;/em&gt; in html or generate HTML from &lt;em&gt;javascript&lt;/em&gt; without having separate &lt;em&gt;Js&lt;/em&gt; and HTML files. Generate &lt;em&gt;Javascript&lt;/em&gt; from server side programming language such as C#, PHP.</description>
+      <dc:publisher>Supun Nakandala's Blog</dc:publisher>
+      <dc:creator>Supun Nakandala</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 10:13:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>How the Manana app was built Mozilla Hacks – the Web developer &lt;b&gt;...&lt;/b&gt;</title>
+      <link>https://hacks.mozilla.org/2013/12/how-the-manana-app-was-built/</link>
+      <description>With some clever CSS properties and a few lines of &lt;em&gt;JavaScript&lt;/em&gt; (to handle the visibility of the Views) the whole thing was quite easy to set up. Basically, we have each View arranged like cards in a &lt;b&gt;....&lt;/b&gt; To support markdown we added some glue between the l10n.&lt;em&gt;js&lt;/em&gt; library and marked.&lt;em&gt;js&lt;/em&gt;. To load the help resources, Manana first does a lookup &lt;b&gt;....&lt;/b&gt; York City. He regularly also &lt;em&gt;blogs&lt;/em&gt; at http://robertnyman.com and loves to travel and meet people. robertnyman.com &amp;middot; @robertnyman &amp;middot; Google+.</description>
+      <dc:publisher>Mozilla Hacks - the Web developer blog</dc:publisher>
+      <dc:creator>Alberto Granzotto</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 09:40:23 GMT</dc:date>
+    </item>
+    <item>
+      <title>mir.aculo.us &lt;b&gt;JavaScript&lt;/b&gt; with Thomas Fuchs » &lt;b&gt;Blog&lt;/b&gt; Archive » 10 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://mir.aculo.us/2013/12/03/10-reasons-why-its-good-for-you-not-to-be-a-dick-in-open-source-projects/</link>
+      <description>Zepto.&lt;em&gt;js&lt;/em&gt;. The aerogel-weight mobile &lt;em&gt;JavaScript&lt;/em&gt; framework, which also works great for Safari and Chrome extensions. The jQuery-compatible API makes it easy to pick up, and it&amp;#39;s just 5k to 7k in size! Why not try Freckle, the best time tracking&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>mir.aculo.us</dc:publisher>
+      <dc:creator>miraculous1</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 18:28:38 GMT</dc:date>
+    </item>
+    <item>
+      <title>This Week in #GruntJS (2013-11-29) | Node.&lt;b&gt;js&lt;/b&gt; Examples</title>
+      <link>http://nodeexamples.com/2013/12/02/this-week-in-gruntjs-2013-11-29/</link>
+      <description>Node.&lt;em&gt;js&lt;/em&gt; Examples. Just a bunch of Node.&lt;em&gt;js&lt;/em&gt; examples &lt;b&gt;...&lt;/b&gt; @NodeJS Updates. “Node.&lt;em&gt;js&lt;/em&gt; is more debuggable and more robust on the server side than Java is.” Bryan Cantrill, ex-Sun, now Joyent.</description>
+      <dc:publisher>Node.js Examples</dc:publisher>
+      <dc:creator>Peter deHaan (Mozilla)</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 01:58:15 GMT</dc:date>
+    </item>
+    <item>
+      <title>Responsive Web Site Design Anyone? | Sacha&amp;#39;s &lt;b&gt;blog&lt;/b&gt;</title>
+      <link>https://sachabarbs.wordpress.com/2013/12/02/responsive-web-site-design-anyone/</link>
+      <description>We have pretty much embraced MVxx frameworks for &lt;em&gt;JavaScript&lt;/em&gt; such as Knockout.&lt;em&gt;js&lt;/em&gt; and Angular.&lt;em&gt;js&lt;/em&gt;, but we recently had to do some truly responsive design web work, which needed to target loads of different form factors. We have good&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sacha's blog</dc:publisher>
+      <dc:creator>sachabarber</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 20:19:41 GMT</dc:date>
+    </item>
+    <item>
+      <title>CocoonJS 1.4.6 | Ludei</title>
+      <link>http://blog.ludei.com/cocoonjs-1-4-6/</link>
+      <description>Home &amp;middot; Visit Ludei&amp;#39;s Website &amp;middot; &lt;em&gt;Blog&lt;/em&gt; RSS &amp;middot; Contact us! CocoonJS 1.4.6. posted inCocoonJS on 3 December, 2013 &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Javascript&lt;/em&gt;. Improved &lt;em&gt;JS&lt;/em&gt; Context initialization and shutdown behaviour. Extensions. Multiplayer and Social. Added support for&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Ludei</dc:publisher>
+      <dc:creator>Urtzi Jaureguibeitia</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 10:15:03 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

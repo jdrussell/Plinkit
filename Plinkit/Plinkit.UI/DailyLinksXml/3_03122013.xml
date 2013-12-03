@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 74 results</description>
+    <opensearch:totalResults>74</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Developer Productivity and Cost of &lt;b&gt;Tools&lt;/b&gt; | Sven&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://svenerikmatzen.wordpress.com/2013/12/03/developer-productivity-and-cost-of-tools/</link>
+      <description>Often the software already installed on such a machine is an out dated Windows Server 2008 (sometimes even Server 2003), Office, &lt;em&gt;Visual Studio&lt;/em&gt; 2010 (very rare: VS2012). The hardware is managed by a provider like HP, IBM,…</description>
+      <dc:publisher>Sven's Blog</dc:publisher>
+      <dc:creator>svenerikmatzen</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 07:38:05 GMT</dc:date>
+    </item>
+    <item>
+      <title>Use Chrome&amp;#39;s developer &lt;b&gt;tools&lt;/b&gt; to audit your site - Pluralsight &lt;b&gt;blog&lt;/b&gt;</title>
+      <link>http://blog.pluralsight.com/videos/chrome-developer-tools-site-audit</link>
+      <description>Find the weaknesses in your website before hackers do in our course, Hack Yourself First: How to go on the Cyber-Offense. In this free clip, see how the &lt;em&gt;tools&lt;/em&gt; in Google Chrome can help you dissect each page.</description>
+      <dc:publisher>Pluralsight blog</dc:publisher>
+      <dc:creator>Manya Susoev</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 18:00:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>qa &lt;b&gt;blog&lt;/b&gt; - apex online it training: software testing &lt;b&gt;tools&lt;/b&gt; online training</title>
+      <link>http://apex-online-it-training-qa-qtp-seleni.blogspot.com/2013/12/software-testing-tools-online-training_2.html</link>
+      <description>SOFTWARE TESTING &lt;em&gt;TOOLS&lt;/em&gt; ONLINE TRAINING. SOFTWARE &lt;b&gt;...&lt;/b&gt; Coded UI / Unit Test / Load Test from Microsoft &lt;em&gt;Visual Studio&lt;/em&gt; 2010; TestComplete from SmartBear; Performance Testing - Load Runner from HP, Load Test from. Microsoft&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>QA BLOG - APEX ONLINE IT TRAINING</dc:publisher>
+      <dc:creator>www.apex-online-it-training.com</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 07:19:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>jjerome.com: &lt;b&gt;Visual Studio&lt;/b&gt; Time-Stamp</title>
+      <link>http://blog.jjerome.com/2013/12/visual-studio-time-stamp.html</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; Time-Stamp. Earlier this year I wrote a post about how to insert a time stamp in Notepad++ (link). I thought it might be helpful to share how I did the same thing in &lt;em&gt;Visual Studio&lt;/em&gt; using a Macro. I recently upgraded my hard drive, and had to stumble through setting everything up again, so I &lt;b&gt;...&lt;/b&gt; Under &lt;em&gt;Visual Studio&lt;/em&gt; options (&lt;em&gt;Tools&lt;/em&gt; &amp;gt; Options), choose Environment-&amp;gt;Keyboard; This just maps a keyboard shortcut to a chosen command: &lt;b&gt;...&lt;/b&gt; Simple template. Powered by &lt;em&gt;Blogger&lt;/em&gt;.</description>
+      <dc:publisher>jjerome.com</dc:publisher>
+      <dc:creator>Jason Jerome</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 16:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Using WordPress for Web Application Development: Rethinking &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://techsmashed.com/using-wordpress-for-web-application-development-rethinking-architecture/</link>
+      <description>Building a Node.js Web Site on Windows Azure using Node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt;. In this &lt;em&gt;blog&lt;/em&gt; post, I will take a look at Node.js &lt;em&gt;Tools&lt;/em&gt; for &lt;em&gt;Visual Studio&lt;/em&gt; and will demonstrate how to... You can find further on this from the source... here&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Techsmashed</dc:publisher>
+      <dc:creator>Techsmashedadmin</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 21:20:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>Telliant Systems, November 2013 Newsletter | Telliant &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.telliant.com/telliant-systems-november-2013-newsletter/</link>
+      <description>Tips &amp;amp; Tricks: Common SQL-Server AlwaysOn Gotchas. Microsoft preps &lt;em&gt;Visual Studio tools&lt;/em&gt; for Post Production duties…. Cool New feature for developer teams in &lt;em&gt;Visual Studio&lt;/em&gt; 2013. 4 Best Practices for Microsoft .NET Framework Applications.</description>
+      <dc:publisher>Telliant Blog</dc:publisher>
+      <dc:creator>Admin</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 09:31:50 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dave&amp;#39;s Tech &lt;b&gt;Blog&lt;/b&gt;: Improving code quality by using NDepend v5</title>
+      <link>http://www.davidbritch.com/2013/12/improving-code-quality-by-using-ndepend.html</link>
+      <description>Previously I&amp;#39;ve written about NDepend, a static analysis &lt;em&gt;tool&lt;/em&gt; design to improve code quality by using code metrics and enforcing a series of rules. I was particularly impressed by the CQLinq &lt;b&gt;...&lt;/b&gt; Support for &lt;em&gt;Visual Studio&lt;/em&gt; 2013. A new dashboard panel that shows the state of your code base at a glance. Customisable trend metrics and charts. Listing rules and queries according to a specific criteria, such as showing all the rules that have been violated. Obviously, there&amp;#39;s a lot more new in &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dave's Tech Blog</dc:publisher>
+      <dc:creator>David Britch</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 17:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Smarten up your UIs - COBOL - &lt;b&gt;Blog&lt;/b&gt; - COBOL - Micro Focus &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://community.microfocus.com/microfocus/cobol/b/weblog/archive/2013/12/03/smarten-up-your-uis.aspx</link>
+      <description>Why not try your hand at developing a .NET WPF or Java Swing application in COBOL? You won&amp;#39;t need to spend precious developer hours doing it by hand – the designer &lt;em&gt;tools&lt;/em&gt; in &lt;em&gt;Visual Studio&lt;/em&gt; and Eclipse make creating a 21st century UI a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>COBOL - Blog</dc:publisher>
+      <dc:creator>Melissa Burns</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 02:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Upcoming: SANKO Event on VS2013 tooling wave - Heikniemi.net</title>
+      <link>http://www.heikniemi.net/hardcoded/2013/12/upcoming-sanko-event-on-vs2013-tooling-wave/</link>
+      <description>TFVC, version control as a deployment &lt;em&gt;tool&lt;/em&gt;; Katana and the OWIN stack: Running ASP.NET outside the IIS stack; &lt;em&gt;Visual Studio&lt;/em&gt; Online вЂњMonacoвЂќ and App Insights. Registration is open! If you can understand Finnish, can you miss this?</description>
+      <dc:publisher>Heikniemi Hardcoded</dc:publisher>
+      <dc:creator>Jouni Heikniemi</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 07:06:52 GMT</dc:date>
+    </item>
+    <item>
+      <title>Create cross platform apps in C# with Xamarin &lt;b&gt;...&lt;/b&gt; - &lt;b&gt;Blogs&lt;/b&gt; - Perficient</title>
+      <link>http://blogs.perficient.com/microsoft/2013/12/create-cross-platform-apps-in-c-with-xamarin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-cross-platform-apps-in-c-with-xamarin</link>
+      <description>Xamarin is the creator of popular cross platform development &lt;em&gt;tools&lt;/em&gt; that allow developers to create iOS, Android and Windows applications all in C#. With the launch of &lt;em&gt;Visual Studio&lt;/em&gt; 2013, Xamarin and Microsoft announced a partnership that&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Microsoft Enterprise Technologies</dc:publisher>
+      <dc:creator>Brian ODonnell</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 15:00:02 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

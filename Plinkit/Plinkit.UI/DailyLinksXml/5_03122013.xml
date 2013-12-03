@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" OR "clean code" OR "design patterns" OR "oo technique" -job -stackoverflow.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+OR+%22clean+code%22+OR+%22design+patterns%22+OR+%22oo+technique%22+-job+-stackoverflow.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>7 results</description>
+    <opensearch:totalResults>7</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>7</opensearch:itemsPerPage>
+    <item>
+      <title>Designer: Need Local Profiles for Senior Software ( Dot Net &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/need-local-profiles-for-senior-software.html</link>
+      <description>Net, ASP MVC4, &lt;em&gt;C#&lt;/em&gt;, Razor views - Entity Framework, Enterprise Libraries - HTML5, JavaScript, CSS3, JQuery, Ajax - SQL, SQL Server - OO, Web &amp;amp; ASP &lt;em&gt;design patterns&lt;/em&gt; - Visual Studio 2012 - IIS - Strong knowledge of good application design&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 13:54:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>What are generics, Delegates and Generic delegates ( &lt;b&gt;C#&lt;/b&gt; interview &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/12/03/what-are-generics-delegates-and-generic-delegates-c-interview-questions/</link>
+      <description>MyDelegate&amp;lt;int&amp;gt; m=new MyDelegate&amp;lt;int&amp;gt;(MyFunction); m.invoke(5,6). Please do visit questpond.com for more such &lt;em&gt;c#&lt;/em&gt; and . &lt;b&gt;...&lt;/b&gt; NET and &lt;em&gt;C#&lt;/em&gt; interviews. It has all tips and tricks needed to crack .NET interviews , &lt;em&gt;C#&lt;/em&gt; interview , SQL Server interview , Java interview , WCF Interview , Silverlight interview , WPF interview , LINQ interview , Entity framework Interview. &lt;b&gt;.....&lt;/b&gt; &lt;em&gt;Best Practice&lt;/em&gt; No 4:- Improve bandwidth performance of ASP.NET sites using IIS compression &amp;middot; Best Practices No 5: &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 05:31:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>לוח דרושים למשרות מנכ&amp;quot;ל / סמנכ&amp;quot;ל: מתכנת/ת asp.net</title>
+      <link>http://ceo-vpo-israel.blogspot.com/2013/12/aspnet.html</link>
+      <description>What you&amp;#39;ll be doing: • Building high-performance, secure software using &lt;em&gt;design patterns&lt;/em&gt; • Following and contributing to software development best practices • Proposing design changes/suggestions to processes and products • Supporting &lt;b&gt;...&lt;/b&gt; using agile scrum methodology Education / Certification Requirements • BA/ BsC in software engineering or equivalent What you will need to succeed • At least 5 years&amp;#39; experience in &lt;em&gt;C#&lt;/em&gt; • Server side experience (&lt;em&gt;design patterns&lt;/em&gt;, multithreading, &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>לוח דרושים למשרות מנכ"ל / סמנכ"ל</dc:publisher>
+      <dc:creator>Ron</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 11:19:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>So what is Closure? | Rodan Sotto&amp;#39;s Tech Blog</title>
+      <link>http://rodansotto.wordpress.com/2013/12/02/so-what-is-closure/</link>
+      <description>NET &amp;middot; Web UI &amp;middot; &lt;em&gt;C#&lt;/em&gt; &amp;middot; VB.NET &amp;middot; &lt;em&gt;Design Patterns&lt;/em&gt; &amp;middot; MS Access &amp;middot; ← &lt;em&gt;C#&lt;/em&gt;: Predicates in LINQ to Entities &lt;b&gt;....&lt;/b&gt; Closures in &lt;em&gt;C#&lt;/em&gt; vs JavaScript – Same But Different really explains it to me clearly, from a really really technical point of view, as in how the compiler handles closure both in &lt;em&gt;C#&lt;/em&gt; and JavaScript. Don&amp;#39;t worry it&amp;#39;s not a long read but one needs to really read through the &lt;b&gt;...&lt;/b&gt; Framework, and Razor &amp;middot; &lt;em&gt;C#&lt;/em&gt;: Quick notes on some cool features… &lt;em&gt;Design Patterns&lt;/em&gt;: Strategy, Observer, and Decorator &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Rodan Sotto's Tech Blog</dc:publisher>
+      <dc:creator>Rodan Sotto</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 22:47:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>F# and SignalR Stock Ticker: Part 2 | Jamie Dixon&amp;#39;s Home</title>
+      <link>http://jamessdixon.wordpress.com/2013/12/03/f-and-signalr-stock-ticker-part-2/</link>
+      <description>I checked out the Singleton pattern in Liu&amp;#39;s F# for &lt;em&gt;C#&lt;/em&gt; Developers. The sentience that caught my eye was “An F# value is immutable by default, and this guarantees there is only on instance.” (p149) Liu then goes and builds an example using a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Jamie Dixon's Home</dc:publisher>
+      <dc:creator>jamie dixon</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 10:39:51 GMT</dc:date>
+    </item>
+    <item>
+      <title>Coding matters - ASP.NET, MVC, Web Forms, &lt;b&gt;C#&lt;/b&gt;, LINQ, jQuery &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://princepthomas.blogspot.com/2013/12/dealing-with-bugs-in-test-driven.html</link>
+      <description>Prince P Thomas: Web Developer, London I blog about things which come across in my day-to-day work. Mostly it is about ASP.NET MVC , ASP.NET WebForms, &lt;em&gt;C#&lt;/em&gt;, LINQ, JQuery, JavaScript, SQL, CSS and HTML. View my complete profile&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Coding matters - ASP.NET, MVC, Web Forms, C#, LINQ, jQuery, JavaScript</dc:publisher>
+      <dc:creator>Prince P Thomas</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 17:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Internet of Things: From RFID to the Next-Generation Pervasive &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://kenitra.biz/the-internet-of-things-from-rfid-to-the-next-generation-pervasive-networked-systems/</link>
+      <description>Discussing case studies, experience reports, and &lt;em&gt;best practice&lt;/em&gt;, it contains information on emerging technologies, market opportunities, and policy implications. Practical Guidance and Balanced Coverage The first book of its kind to address&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Kenitra</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 09:21:32 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

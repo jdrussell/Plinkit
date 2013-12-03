@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" OR "EF 5" OR "EF 6" OR (linq AND c#) -job -marketing -blogspot.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+OR+%22EF+5%22+OR+%22EF+6%22+OR+(linq+AND+c%23)+-job+-marketing+-blogspot.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 27 results</description>
+    <opensearch:totalResults>27</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;c#&lt;/b&gt; - Lambda expression that will match two collections - Stack &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://stackoverflow.com/questions/20339147/lambda-expression-that-will-match-two-collections</link>
+      <description>I am using &lt;em&gt;entity framework&lt;/em&gt; and I need an example of a lambda expression that will return true if an item in collection1 is in collection2. For example I &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Linq&lt;/em&gt; provides methods for each ( Intersect , Union , and Subtract respectively). – drf 1 hour&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - Stack Overflow</dc:publisher>
+      <dc:creator>DanScan</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 22:26:13 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;C# Entity Framework&lt;/b&gt; Query - How To Assign Retrieved Data To &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dreamincode.net/forums/topic/335539-c%23-entity-framework-query-how-to-assign-retrieved-data-to-variable/</link>
+      <description>&lt;em&gt;C# Entity Framework&lt;/em&gt; Query - How To Assign Retrieved Data To Variable. Posted 31 minutes ago. Hi guys, I am using &lt;em&gt;entity framework&lt;/em&gt; to get some data from a table: public static void GetData() { using (Water.WaterEntities1 context = new&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 09:59:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>Strategies and Languages for Generating Biml | Made2Mentor</title>
+      <link>http://www.made2mentor.com/2013/12/strategies-and-languages-for-generating-biml/</link>
+      <description>BimlScript allows the programmer to embed nuggets of &lt;em&gt;C#&lt;/em&gt; or VB.Net code inside Biml to dynamically generate Biml assets, much the same way that ASP.Net dynamically generates web pages. These nuggets often include &lt;em&gt;LINQ&lt;/em&gt; (Language&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Made2Mentor</dc:publisher>
+      <dc:creator>David</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 19:43:18 GMT</dc:date>
+    </item>
+    <item>
+      <title>Pro &lt;b&gt;LINQ&lt;/b&gt; – Language Integrated Query in &lt;b&gt;C#&lt;/b&gt; 2010</title>
+      <link>http://www.oemonlinestore.com/2013/12/pro-linq-language-integrated-query-in-c-2010-2.html</link>
+      <description>&lt;em&gt;LINQ&lt;/em&gt; is the part of the .NET Framework that provides a generic approach to querying data from different data sources. It has quickly become the next must-have skill for .NET developers. Pro &lt;em&gt;LINQ&lt;/em&gt;: Language Integrated Query in &lt;em&gt;C#&lt;/em&gt; 2010 is all&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Holiday Beauty Tips</dc:publisher>
+      <dc:creator>Coms Review</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 12:59:12 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;C#&lt;/b&gt; Index Out Bound Error After Loading Array - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335552-c%23-index-out-bound-error-after-loading-array/</link>
+      <description>&lt;em&gt;C#&lt;/em&gt; Index Out Bound Error After Loading Array. Posted 31 minutes ago. Ok here is my Code: static public void StoreInformation (string dte, string BOD, string EOD, string Complete){ //Search a SQL DB or Similar File for the informatio and then&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 15:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Altering Text Case Within The Clipboard - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335506-altering-text-case-within-the-clipboard/</link>
+      <description>I&amp;#39;ve used a couple other programming languages but never &lt;em&gt;C#&lt;/em&gt;, can someone help me figure out where im going wrong? Also I apologize for the unnecessary amount of &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Linq&lt;/em&gt;; using System.Text; using System.Threading.Tasks; using System. Windows.Forms; using System.Globalization; using System.IO; class Program { String changecase = null; String capital = null; public String Clipboardchange(String changecase) { if (Clipboard.ContainsText()) { changecase = Clipboard.GetText() &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 00:16:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dave&amp;#39;s Tech Blog: Improving code quality by using NDepend v5</title>
+      <link>http://www.davidbritch.com/2013/12/improving-code-quality-by-using-ndepend.html</link>
+      <description>Previously I&amp;#39;ve written about NDepend, a static analysis tool design to improve code quality by using code metrics and enforcing a series of rules. I was particularly impressed by the CQLinq feature, that allows you to write &lt;em&gt;LINQ&lt;/em&gt;-style queries to&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Dave's Tech Blog</dc:publisher>
+      <dc:creator>David Britch</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 17:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>What are generics, Delegates and Generic delegates ( &lt;b&gt;C#&lt;/b&gt; interview &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/12/03/what-are-generics-delegates-and-generic-delegates-c-interview-questions/</link>
+      <description>NET and &lt;em&gt;C#&lt;/em&gt; interviews. It has all tips and tricks needed to crack .NET interviews , &lt;em&gt;C#&lt;/em&gt; interview , SQL Server interview , Java interview , WCF Interview , Silverlight interview , WPF interview , &lt;em&gt;LINQ&lt;/em&gt; interview , &lt;em&gt;Entity framework&lt;/em&gt; Interview.</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 05:31:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Guest Post: The Brissioni Blog – Thankfulness and John Lennon &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dlr2008.wordpress.com/2013/12/03/guest-post-the-brissioni-blog-thankfulness-and-john-lennon/</link>
+      <description>Like this: Like Loading... Related. Posted 2013/12/03 by Cloud2013 in John Lennon, John Lennon, Occupy Everything. Tagged with Brissioni, Give Peace a Chance, John Lennon, Yoko Ono &amp;middot; « Sharepoint 2013 REST API: The &lt;em&gt;C#&lt;/em&gt; Connection:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Cloud2013 Or Bust</dc:publisher>
+      <dc:creator>Cloud2013</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 13:59:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>Use Of Regualr Expressions ? - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335565-use-of-regualr-expressions/</link>
+      <description>Saving Settings using OR &amp;middot; From &lt;em&gt;C#&lt;/em&gt; to F# and back again: lambdas and more. Creating an Easy Data Access Layer using &lt;b&gt;...&lt;/b&gt; using SQL Compact &amp;middot; DataTable.AsEnumerable&amp;lt;T&amp;gt; For Easy &lt;em&gt;LINQ&lt;/em&gt;-to-Object Functionalit &amp;middot; 232 More &lt;em&gt;C#&lt;/em&gt; Tutorials.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 18:28:38 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

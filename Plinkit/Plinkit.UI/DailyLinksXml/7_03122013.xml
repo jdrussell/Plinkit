@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"test driven development" OR "behaviour driven development" OR "unit testing" OR "bdd" OR nunit -blogspot.com -lte -job -hire -hiring - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;hs=ET7&amp;rls=org.mozilla:en-US:official&amp;q=%22test+driven+development%22+OR+%22behaviour+driven+development%22+OR+%22unit+testing%22+OR+%22bdd%22+OR+nunit+-blogspot.com+-lte+-job+-hire+-hiring&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 22 results</description>
+    <opensearch:totalResults>22</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Test-driven SPA development | Jon Curtis Blog</title>
+      <link>http://www.joncurtis.co.uk/2013/12/test-driven-spa-development/</link>
+      <description>Testing an SPA (single page application) adds its own idiosyncrasies and complexities. Utilizing well known patterns and practices and avoiding common pitfalls, it is possible to create a fast, maintainable &lt;em&gt;test-driven development&lt;/em&gt; process.</description>
+      <dc:publisher>Jon Curtis Blog</dc:publisher>
+      <dc:creator>JontyMC</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 16:32:19 GMT</dc:date>
+    </item>
+    <item>
+      <title>Donald Knuth – “Bayesian trees and BDDs” « thoughts...</title>
+      <link>http://irrlab.com/2013/12/03/donald-knuth-bayesian-trees-and-bdds/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; 17th annual Christmas Tree Lecture. Knuth explains how to apply elementary &lt;em&gt;BDD&lt;/em&gt; technology so that the probability of such events (and many others) can be computed in polynomial time...&amp;quot; http://www.youtube.com/watch?v=axUgEAgrSB8.</description>
+      <dc:publisher>thoughts...</dc:publisher>
+      <dc:creator>irrlab</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 16:15:14 GMT</dc:date>
+    </item>
+    <item>
+      <title>Fedora Package Announce -- Fedora 19 Update: unittest-cpp-1.4 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.spinics.net/lists/fedora-package-announce/msg123053.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; Fedora 19 Version : 1.4 Release : 14.20130823gite76d25a.fc19 URL : https://github.com/unittest-cpp/unittest-cpp Summary : Lightweight &lt;em&gt;unit testing&lt;/em&gt; framework for C++ Description : unittest-cpp is a lightweight &lt;em&gt;unit testing&lt;/em&gt; framework for C++.</description>
+      <dc:publisher>Fedora Package Announce</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 10:31:03 GMT</dc:date>
+    </item>
+    <item>
+      <title>Fedora Package Announce -- Fedora 18 Update: unittest-cpp-1.4 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.spinics.net/lists/fedora-package-announce/msg123055.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; Fedora 18 Version : 1.4 Release : 15.20130823gite76d25a.fc18 URL : https://github.com/unittest-cpp/unittest-cpp Summary : Lightweight &lt;em&gt;unit testing&lt;/em&gt; framework for C++ Description : unittest-cpp is a lightweight &lt;em&gt;unit testing&lt;/em&gt; framework for C++.</description>
+      <dc:publisher>Fedora Package Announce</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 10:31:13 GMT</dc:date>
+    </item>
+    <item>
+      <title>Freedom and the hunt for the next big adventure | Hugo Häggmark</title>
+      <link>http://www.hugohaggmark.com/2013/12/03/freedom-and-the-hunt-for-the-next-big-adventure/</link>
+      <description>I finally got “released” last Friday (as my former teammates would say) from a project with 2 years of coaching 20+ people in Spec By Example, Kanban, &lt;em&gt;BDD&lt;/em&gt;, TDD, SpecFlow and lots more. I bring with me a lot of real life Spec By Example&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Hugo Häggmark</dc:publisher>
+      <dc:creator>Hugo Häggmark</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 09:11:12 GMT</dc:date>
+    </item>
+    <item>
+      <title>Book review of Domain Testing Workbook – Equivalence class &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://testmuse.wordpress.com/2013/12/02/domaintestingworkbook/</link>
+      <description>If you&amp;#39;re doing system testing after the programmers have done extensive &lt;em&gt;unit testing&lt;/em&gt; of their variables, it will be unnecessary and wasteful to do thorough testing of secondary dimensions. The book incorporates many viewpoints, sometimes&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Musing about Software Testing</dc:publisher>
+      <dc:creator>testmuse</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 06:51:45 GMT</dc:date>
+    </item>
+    <item>
+      <title>Why Docker? « thoughts...</title>
+      <link>http://irrlab.com/2013/12/03/why-docker/</link>
+      <description>Donald Knuth – “Bayesian trees and BDDs”. “Professor Donald Knuth&amp;#39;s 17th annual Christmas Tree Lecture. Knuth explains how to apply elementary &lt;em&gt;BDD&lt;/em&gt; technology so that the probability of such events (and many…</description>
+      <dc:publisher>thoughts...</dc:publisher>
+      <dc:creator>irrlab</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 19:12:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>javascript - How to prevent an iframe from re-sizing when zooming &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://stackoverflow.com/questions/20339131/how-to-prevent-an-iframe-from-re-sizing-when-zooming</link>
+      <description>Lead Software Engineer – C/C++, Linux, Python, NoSQL. CookBrite Seattle, WA. SENIOR SOFTWARE DESIGN ENGINEER. pMD San Francisco, CA. SENIOR .NET(C#, MVC, ASP.NET, WCF, REST, TDD, &lt;em&gt;BDD&lt;/em&gt;) DEVELOPER. viagogo Group&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - Stack Overflow</dc:publisher>
+      <dc:creator>elodev</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 22:25:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Applications Of Abc Algorithm Information Technology Essay</title>
+      <link>http://www.ukessays.com/essays/information-technology/applications-of-abc-algorithm-information-technology-essay.php</link>
+      <description>Newer development models, such as Agile, often employ &lt;em&gt;test driven development&lt;/em&gt; and place an increased portion of the testing in the hands of the developer, before it reaches a formal team of testers. In a more traditional model, most of the test execution occurs after the requirements &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Unit testing&lt;/em&gt; refers to tests that verify the functionality of a specific section of code, usually at the function level. In an object-oriented environment, this is usually at the class level, and the minimal unit&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RSS Feed for UK Essays</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 16:25:07 GMT</dc:date>
+    </item>
+    <item>
+      <title>CLEANCODERS - EP19 PART2-JGTiSO - Unlimited Zone</title>
+      <link>http://www.unlimitedzone.org/thread-1365228.html</link>
+      <description>As part of this process we&amp;#39;ll learn one of the most foundational principles of &lt;em&gt;Test Driven Development&lt;/em&gt;. The principle where the magic really comes from. As the tests get more specific, the code gets more generic. And then... and then... Well&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Unlimited Zone - All Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 22:09:22 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
