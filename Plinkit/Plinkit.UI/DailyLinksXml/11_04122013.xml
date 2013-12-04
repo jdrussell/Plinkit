@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"robert c martin" blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?q=%22robert+c+martin%22+blog+-stackoverflow&amp;lr=lang_en&amp;hl=en&amp;tbm=blg&amp;tbs=qdr:m,lr:lang_1en</link>
+    <description>About 352 results</description>
+    <opensearch:totalResults>352</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>DataValues library | &lt;b&gt;Blog&lt;/b&gt; of Jeroen De Dauw</title>
+      <link>http://www.bn2vs.com/blog/2013/11/24/datavalues-library/</link>
+      <description>I read many articles on the topic, discussed some trade-offs with various knowledgeable people and even managed to get some input from his holiness &lt;em&gt;Robert C. Martin&lt;/em&gt;. The preliminary result can be seen here. The two most foundational&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Blog of Jeroen De Dauw</dc:publisher>
+      <dc:creator>Jeroen De Dauw</dc:creator>
+      <dc:date>Sat, 23 Nov 2013 23:54:10 GMT</dc:date>
+    </item>
+    <item>
+      <title>Chop onions instead of layers | bbv &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.bbv.ch/2013/11/27/chop-onions-instead-of-layers/</link>
+      <description>Similar approaches have been mentioned in Ports &amp;amp; Adapters (Cockburn), Screaming Architecture (&lt;em&gt;Robert C. Martin&lt;/em&gt;), DCI (Data Context Interaction) from James Coplien, and Trygve Reenskaug and BCE (A Use-Case Driven Approach) by&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>bbv Blog</dc:publisher>
+      <dc:creator>Daniel Marbach</dc:creator>
+      <dc:date>Wed, 27 Nov 2013 14:00:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>Pragmatic SOLID – Part 3 – The Liskov Substitution Principle &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://gilesey.wordpress.com/2013/11/30/pragmatic-solid-part-3-the-liskov-substitution-principle/</link>
+      <description>Subtypes must be substitutable for their base types - &lt;em&gt;Robert C. Martin&lt;/em&gt; February 1997 TL;DR Is-a is not enough to determine inheritance - Ensure the expected behaviour of your base class is preserved in derived classes. Use concepts from&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>@GilesDMiddleton</dc:publisher>
+      <dc:creator>Giles Middleton</dc:creator>
+      <dc:date>Sat, 30 Nov 2013 19:44:03 GMT</dc:date>
+    </item>
+    <item>
+      <title>Agile Challenge: Adopting Technical Practices – Mozaic Works</title>
+      <link>http://www.mozaicworks.com/blog/agile-challenge-adopting-technical-practices/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; and continuing with Java; Brian Marick – tester and programmer, specialized in functional languages; &lt;em&gt;Robert C. Martin&lt;/em&gt; – well-known author of books about design and programming, main promoter of the Software Craftsmanship movement.</description>
+      <dc:publisher>Mozaic Works</dc:publisher>
+      <dc:creator>Adi Bolboaca</dc:creator>
+      <dc:date>Thu, 07 Nov 2013 10:57:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Books | Georg Kullgren</title>
+      <link>http://kullgren.org/?p=204</link>
+      <description>The Mythical Man-Month, Frederick P. Brooks; The Pragmatic Programmer, Thomas Hunt; Software Craftsmanship, Sandro Mancuso; The Clean Coder, &lt;em&gt;Robert C. Martin&lt;/em&gt;; Clean Code, &lt;em&gt;Robert C. Martin&lt;/em&gt;; Agile Software Development, &lt;em&gt;Robert C.&lt;/em&gt;</description>
+      <dc:publisher>Georg Kullgren</dc:publisher>
+      <dc:creator>Georg</dc:creator>
+      <dc:date>Sat, 30 Nov 2013 16:02:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>Dev&amp;#39;s Corner: Clean Coding (Part One) - FileCatalyst</title>
+      <link>http://www.filecatalyst.com/devs-corner-clean-coding-part-one</link>
+      <description>A few years ago I came across a book, Clean Code: A Handbook of Agile Software Craftsmanship, by &lt;em&gt;Robert C. Martin&lt;/em&gt;. It changed everything &lt;b&gt;...&lt;/b&gt; Posted on Tuesday, November 19th, 2013 under the: Acceleration, &lt;em&gt;Blog&lt;/em&gt; category. Both comments&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>FileCatalyst » Fast File Transfer by FileCatalyst |</dc:publisher>
+      <dc:creator>Cara</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 15:25:25 GMT</dc:date>
+    </item>
+    <item>
+      <title>Pragmatic SOLID Part 2 – The Open/Closed Principle &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://gilesey.wordpress.com/2013/11/09/pragmatic-solid-part-2-the-openclosed-principle/</link>
+      <description>Software entities (classes, modules, functions etc.) should be open for extension but closed for modification- &lt;em&gt;Robert C. Martin&lt;/em&gt; February 1997 TL;DR Let the act of changing code be the catalyst for protecting against that kind of change in future.</description>
+      <dc:publisher>@GilesDMiddleton</dc:publisher>
+      <dc:creator>Giles Middleton</dc:creator>
+      <dc:date>Sat, 09 Nov 2013 12:48:42 GMT</dc:date>
+    </item>
+    <item>
+      <title>11 Strategies for Dealing With Technical Debt | Disciplined Agile &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://disciplinedagiledelivery.wordpress.com/2013/11/10/technical-debt/</link>
+      <description>There are many good online resources regarding technical debt, and the best single one that we have found is Israel Gat&amp;#39;s &lt;em&gt;blog&lt;/em&gt;. Technical debt is real and you need a viable strategy to manage it. Otherwise you run the risk of slowly choking&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Disciplined Agile Delivery</dc:publisher>
+      <dc:creator>scottwambler</dc:creator>
+      <dc:date>Sun, 10 Nov 2013 19:59:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>More Stuff less Fluff - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/brendonpage/archive/2013/11/08/more-stuff-less-fluff.aspx</link>
+      <description>&lt;em&gt;Robert C Martin&lt;/em&gt; explains it very nicely, he says a good architecture allows you to defer decisions because if you can defer a decision then you have the flexibility to change it. I&amp;#39;ve recently had a YAGNI experience which brought this all into&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Brendon Page</dc:publisher>
+      <dc:creator>brendonpage</dc:creator>
+      <dc:date>Fri, 08 Nov 2013 06:25:20 GMT</dc:date>
+    </item>
+    <item>
+      <title>Lessons Learned from Six Years of Agile Database Development</title>
+      <link>https://www.simple-talk.com/sql/performance/lessons-learned-from-six-years-of-agile-database-development/</link>
+      <description>&lt;em&gt;Robert C. Martin&amp;#39;s&lt;/em&gt; book describes in detail many communication-improving techniques for agile development teams. Even with frequent face-to-face communication, there is a danger that spoken requirements are misunderstood and morph&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Simple Talk RSS Feed</dc:publisher>
+      <dc:creator>Alex Kuznetsov</dc:creator>
+      <dc:date>Tue, 19 Nov 2013 00:00:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

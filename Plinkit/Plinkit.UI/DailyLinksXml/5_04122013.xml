@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" OR "clean code" OR "design patterns" OR "oo technique" -job -stackoverflow.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+OR+%22clean+code%22+OR+%22design+patterns%22+OR+%22oo+technique%22+-job+-stackoverflow.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>8 results</description>
+    <opensearch:totalResults>8</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+    <item>
+      <title>Can you explain some text effects in CSS 3?( ASP.NET CSS &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/12/04/can-you-explain-some-text-effects-in-css-3-asp-net-css-interview-questions/</link>
+      <description>Posted on December 4, 2013 by &lt;em&gt;c#&lt;/em&gt; and .NET Interview &lt;b&gt;...&lt;/b&gt; the permalink. ← What are generics, Delegates and Generic delegates ( &lt;em&gt;C#&lt;/em&gt; interview questions)? &lt;b&gt;.....&lt;/b&gt; &lt;em&gt;Best Practice&lt;/em&gt; No 4:- Improve bandwidth performance of ASP.NET sites using IIS&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 05:18:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>Designer: Excellent Dot Net Consultant Available</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/excellent-dot-net-consultant-available.html</link>
+      <description>Expertise in LINQ, WCF Services, WINFORMS. ○ Adept in distributed application using .NET Remoting and Webservices. ○ Expertise in developing enterprise web-based application based on ASP.NET, &lt;em&gt;C#&lt;/em&gt;, VB.NET, XAML, XML, XSL, XSLT, JQUERY, ADO.NET. ○ Expertise in databases - Oracle 10g, SQL Server 2000, MS Access &lt;b&gt;...&lt;/b&gt; Well expertise in N-tier architecture, OOPS methodologies, and &lt;em&gt;Design patterns&lt;/em&gt;. ○ Good Domain Knowledge of Garment and Textile industry, CRM for &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 13:56:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Experienced Software Engineer &lt;b&gt;C#&lt;/b&gt; / ++ - Athens, Germany &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.skywalker.gr/%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1/111151--Experienced-Software-Engineer-C---------Athens--Germany</link>
+      <description>&lt;b&gt;...&lt;/b&gt; in C++, &lt;em&gt;C#&lt;/em&gt; and Visual Studio; in test environment implementation; in software testingExperience in OO analysis and design methods (with UML and &lt;em&gt;design patterns&lt;/em&gt;); Tools experience for configuration management, testing, test automation&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Skywalker.gr | Οι πιο Πρόσφατες Αγγελίες</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 01:59:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Commands: Git hooks, config and prompt</title>
+      <link>http://wills-tech-notes.blogspot.com/2013/12/git-hooks-config-and-prompt.html</link>
+      <description>&lt;b&gt;...&lt;/b&gt; To do: Check for missing use strict and use warnings, or their equivalent (e.g. use NAP::policy - Perl critic does this); To do: Prevent merging more than one commit to master (&lt;em&gt;best practice&lt;/em&gt; says they should be squashed into a single commit)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Commands</dc:publisher>
+      <dc:creator>Will Sheppard</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 15:03:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Commands: Git workflow</title>
+      <link>http://wills-tech-notes.blogspot.com/2013/12/git-workflow.html</link>
+      <description>&lt;em&gt;Best practice&lt;/em&gt;. branch from master; make changes; when you&amp;#39;re ready to merge back, first rebase onto master; then merge to master in your working directory; squash all your commits into a single commit; push the single commit to master.</description>
+      <dc:publisher>Commands</dc:publisher>
+      <dc:creator>Will Sheppard</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 15:07:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Feedback Control for Computer Systems: Introducing Control Theory &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.wowebook.org/feedback-control-for-computer-systems-introducing-control-theory-to-enterprise-programmers.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feedback-control-for-computer-systems-introducing-control-theory-to-enterprise-programmers</link>
+      <description>Learn feedback concepts and controller design; Get practical techniques for implementing and tuning controllers; Use feedback “&lt;em&gt;design patterns&lt;/em&gt;” for common control scenarios; Maintain a cache&amp;#39;s “hit rate” by automatically adjusting its size&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Wow! eBook | Free Download eBooks</dc:publisher>
+      <dc:creator>Wow! eBook</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 12:55:16 GMT</dc:date>
+    </item>
+    <item>
+      <title>Pluralsight – Force &lt;b&gt;Design Patterns&lt;/b&gt; – Part 2 with Adam Purkiss+ &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://kenitra.biz/pluralsight-force-design-patterns-part-2-with-adam-purkissexercise-files-2/</link>
+      <description>Pluralsight – Force &lt;em&gt;Design Patterns&lt;/em&gt; – Part 2 with Adam Purkiss + Exercise Files Duration: 1h 45m | Video: WMV3 (.wmv) 1024×768 15fps | Audio: WMA2 44.1KHz 2ch | 204.75 MB Genre: eLearning | Level: Intermediate | Language: English.</description>
+      <dc:publisher>Kenitra</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 10:49:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>Tuts+ Premium Course: &lt;b&gt;Design Patterns&lt;/b&gt; in Ruby by Rem Zolotykh &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.moviestock.net/2013/12/tuts-premium-course-design-patterns-in-ruby-by-rem-zolotykh.html</link>
+      <description>Hi, and welcome to “&lt;em&gt;Design Patterns&lt;/em&gt; in Ruby.” In this course, we&amp;#39;ll review twelve common patterns for better development. Each episode will provide an overview of a problem, and then propose a solution, using a particular design pattern.</description>
+      <dc:publisher>Movie Stock</dc:publisher>
+      <dc:creator>Real Estate</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 14:49:11 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

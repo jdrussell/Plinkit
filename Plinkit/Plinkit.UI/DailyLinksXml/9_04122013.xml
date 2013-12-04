@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>5 results</description>
+    <opensearch:totalResults>5</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+    <item>
+      <title>Announcing the &lt;b&gt;F#&lt;/b&gt; 3.1 Compiler/Library Code Drop &lt;b&gt;...&lt;/b&gt; - MSDN &lt;b&gt;Blogs&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/fsharpteam/archive/2013/11/28/announcing-the-f-3-1-compiler-library-code-drop-from-the-visual-f-tools-team-at-microsoft.aspx</link>
+      <description>The Visual &lt;em&gt;F#&lt;/em&gt; Tools team at Microsoft contribute to &lt;em&gt;F#&lt;/em&gt; through enterprise-ready tooling in Visual Studio 2013. We recommend the Visual &lt;em&gt;F#&lt;/em&gt; Tools as the best, most productive and highly stable route for &lt;em&gt;functional&lt;/em&gt;-first programming in the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>dsyme</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 16:16:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #48, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/12/02/f-weekly-48-2013/</link>
+      <description>Welcome to &lt;em&gt;F#&lt;/em&gt; Weekly, A roundup of &lt;em&gt;F#&lt;/em&gt; content from this past week: News &lt;em&gt;F#&lt;/em&gt; 3.1 Compiler/Library Code Drop was announced! Don Syme &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; binding auto-complete running in SublimeText 3. &lt;b&gt;...&lt;/b&gt; New cross-&lt;em&gt;functional&lt;/em&gt; (&lt;em&gt;F#&lt;/em&gt;, Haskell, …)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 01 Dec 2013 21:22:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Keith Bloom: &lt;b&gt;F#&lt;/b&gt; in Finance conference - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://keithbloom.blogspot.com/2013/12/fsharp-in-finance-conference.html</link>
+      <description>On Monday 25th November I attended the &lt;em&gt;F#&lt;/em&gt; in Finance conference at the Microsoft offices in London. I was drawn to this single day conference as I have been learning about &lt;em&gt;functional&lt;/em&gt; programming for some time now. I am also interested in&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Keith Bloom</dc:publisher>
+      <dc:creator>Keith Bloom</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 13:45:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>On Excel Interoperation with &lt;b&gt;F&lt;/b&gt; - fbmnds.clojure.&lt;b&gt;blog&lt;/b&gt; - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://fbmnds.blogspot.com/2013/11/on-excel-interoperation-with-f.html</link>
+      <description>Digging into the Excel interoperation facilities of &lt;em&gt;F#&lt;/em&gt;, example code like &lt;em&gt;F#&lt;/em&gt; 3.0 Sample Pack, FSSnip.net and projects like Excel &lt;em&gt;F#&lt;/em&gt; Type Provider and Excel-DNA are first entry points for the topic. &lt;b&gt;....&lt;/b&gt; Porting &lt;em&gt;Functional&lt;/em&gt; Code from Clojure to &lt;em&gt;F#&lt;/em&gt;.</description>
+      <dc:publisher>Some ( Posts )</dc:publisher>
+      <dc:creator>Friedrich Boeckh</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 10:09:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>NDC London - are you ready? - MSDN UK Team &lt;b&gt;blog&lt;/b&gt; - Site Home &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.msdn.com/b/ukmsdn/archive/2013/11/28/ndc-london-are-you-ready.aspx</link>
+      <description>Don is a Principal Researcher at Microsoft and an &lt;em&gt;F#&lt;/em&gt; community contributor. He is an advocate of &amp;quot;data–rich, &lt;em&gt;functional&lt;/em&gt;–first programming&amp;quot; with a focus on simplicity, correctness and robustness of code. Talk: Making Magic: Combining Data,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>MSDN Blogs</dc:publisher>
+      <dc:creator>saraallison</dc:creator>
+      <dc:date>Thu, 28 Nov 2013 13:56:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

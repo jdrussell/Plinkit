@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 59 results</description>
+    <opensearch:totalResults>59</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>A New Project and New &lt;b&gt;Tools&lt;/b&gt; | Mann Software &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.mannsoftware.com/?p=591</link>
+      <description>As part of that I&amp;#39;m looking at trying out some new &lt;em&gt;tools&lt;/em&gt; to help. Thanks to the folks at Telerik for giving me a copy of their &lt;em&gt;tools&lt;/em&gt; (JustCode, JustTrace, JustDecompile, and JustMock) to kick the tires on. I&amp;#39;m also using &lt;em&gt;Visual Studio&lt;/em&gt; 2013.</description>
+      <dc:publisher>Mann Software Blog</dc:publisher>
+      <dc:creator>dmann</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 14:24:59 GMT</dc:date>
+    </item>
+    <item>
+      <title>Anton Staykov&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;: Reduce the trail-deploy-test time with &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blogs.staykov.net/2013/12/reduce-trail-deploy-test-time-with.html</link>
+      <description>&lt;em&gt;Visual Studio&lt;/em&gt; Online. Not long ago &lt;em&gt;Visual Studio&lt;/em&gt; Online went GA. What is not so widely mentioned is the hidden gem – preview version of the actual &lt;em&gt;Visual Studio&lt;/em&gt; IDE! Yes, this thing that we use to develop code has now gone online as&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Anton Staykov's Blog</dc:publisher>
+      <dc:creator>Anton Staykov</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 12:44:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;Visual Studio&lt;/b&gt; 2010 Premium with MSDN Renewal (Old Version)</title>
+      <link>http://shaaaps.blogspot.com/2013/12/visual-studio-2010-premium-with-msdn.html</link>
+      <description>Microsoft &lt;em&gt;Visual Studio&lt;/em&gt; 2010 Premium with MSDN Subscription provides an integrated environment that simplifies application development with advanced &lt;em&gt;tools&lt;/em&gt; ready to tackle the most difficult problems. Whether writing code, building&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>shaaaps</dc:publisher>
+      <dc:creator>Katja Erin Laval</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 13:33:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Troy Hunt: Introducing “Have I been pwned?” – aggregating &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.troyhunt.com/2013/12/introducing-have-i-been-pwned.html</link>
+      <description>Problem is, there&amp;#39;s not a &lt;em&gt;tool&lt;/em&gt; to search across multiple breaches, at least not that I&amp;#39;ve found which is why I&amp;#39;ve built haveibeenpwned.com: &lt;b&gt;...&lt;/b&gt; I&amp;#39;m enormously happy with the result and I&amp;#39;m drafting up a &lt;em&gt;blog&lt;/em&gt; with the technical details that I&amp;#39;ll push out shortly. &lt;b&gt;....&lt;/b&gt; Fixing ghoulish HTML behaviour after Ghostery breaks the web to block Disqus &amp;middot; The impending crisis that is Windows XP and IE 8 &amp;middot; A brief Sony password analysis &amp;middot; Essential reading for &lt;em&gt;Visual Studio&lt;/em&gt; 2013, MVC 5 and Web API 2&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Troy Hunt's Blog</dc:publisher>
+      <dc:creator>Troy Hunt</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 08:36:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>A pre-release of F# 3.1 and the Visual F# &lt;b&gt;tools&lt;/b&gt; in Microsoft&amp;#39;s &lt;b&gt;Visual&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://designforge.wordpress.com/2013/12/03/a-pre-release-of-f-3-1-and-the-visual-f-tools-in-microsofts-visual-studio-2013-is-announced/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; and enhancements in the support of constants in attributes and literal expressions. See this post on the. &lt;em&gt;Visual Studio&lt;/em&gt; F# Team &lt;em&gt;Blog&lt;/em&gt;. If you have not yet explored the F# language I would encourage you to check it out. It is a great &lt;em&gt;tool&lt;/em&gt; to have&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>the Design Forge</dc:publisher>
+      <dc:creator>James W Hurst</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 01:53:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>Testing &lt;b&gt;tools&lt;/b&gt; survey - Gartner &lt;b&gt;Blog&lt;/b&gt; Network</title>
+      <link>http://blogs.gartner.com/tom_murphy/2013/12/04/testing-tools-survey/</link>
+      <description>As we ramp up to update the MQ for Integrated Software Quality Suites, we are kicking off a survey about &lt;em&gt;tool&lt;/em&gt; recognition and use. The survey is located at https://t.co/9NXS0lJVPO and asks a few demographic questions, asks about various&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Thomas Murphy</dc:publisher>
+      <dc:creator>Thomas Murphy</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 07:52:43 GMT</dc:date>
+    </item>
+    <item>
+      <title>Designer: Excellent Dot Net Consultant Available</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/excellent-dot-net-consultant-available.html</link>
+      <description>&lt;em&gt;Tools&lt;/em&gt;: : SSRS, SSIS. IDE : &lt;em&gt;Visual Studio&lt;/em&gt; 2010, 2008, 2005, 2003. Application &lt;em&gt;Tools&lt;/em&gt; : Visual Source Safe, Infragistics v4.1, NHibernate, CVS,. Tortoise SVN, TFS. Operating Systems : Windows 95/98/NT/2K/ XP. Methodologies : Design Patterns, MVC Patterns, Agile Methodology,. N-Tier architecture, OOP Concepts,. Data Modeling techniques, Complete SDLC. Please add me babu.singanamala@pamten.com to &lt;b&gt;...&lt;/b&gt; Post a Comment. Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 13:56:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Sending an Lync IM using PowerShell - Under The Stairs - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://tfl09.blogspot.com/2013/12/sending-lync-im-using-powershell.html</link>
+      <description>Ahh – but the SDK requires you to have &lt;em&gt;Visual Studio&lt;/em&gt; installed. A bit tedious to enable one to play with it, but I understand. To send an IM with the client dll loaded is done in several steps involving first getting the client details, then getting a&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Under The Stairs</dc:publisher>
+      <dc:creator>Thomas Lee</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 11:55:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>The Windows Phone Epic - A Developer&amp;#39;s Experience - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://developerexperience.blogspot.com/2013/12/the-windows-phone-epic.html</link>
+      <description>I am programmer 2, gadget savvy, an avid fan of Microsoft products (especially &lt;em&gt;Visual Studio&lt;/em&gt; and associated suite of development &lt;em&gt;tools&lt;/em&gt;), and an honest critic of any product I use. I have an Android Phone, an iPhone, and for a few months now,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>A Developer's Experience</dc:publisher>
+      <dc:creator>Vivek Ragunathan</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 23:33:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Designer: Immed closure need a Windows Server Admin – LW5 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/immed-closure-need-windows-server-admin.html</link>
+      <description>Moderate proficiency using standard desktop applications such as Microsoft Office Suite and flowcharting and modeling &lt;em&gt;tools&lt;/em&gt; such as Visio • Basic .NET development experience • Ability to work as a stand-alone technical resource on a project• Strong experience using &lt;em&gt;Visual Studio&lt;/em&gt; 2010 etc. • Strong working knowledge of the entire Systems Development Life Cycle • Solid experience with JQUERY, JSON, &lt;b&gt;...&lt;/b&gt; Post a Comment. Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 14:25:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

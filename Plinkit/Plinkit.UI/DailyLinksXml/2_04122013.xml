@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" OR "EF 5" OR "EF 6" OR (linq AND c#) -job -marketing -blogspot.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+OR+%22EF+5%22+OR+%22EF+6%22+OR+(linq+AND+c%23)+-job+-marketing+-blogspot.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 14 results</description>
+    <opensearch:totalResults>14</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>How To Start A Dynamtic Form In &lt;b&gt;C#&lt;/b&gt; Code - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335583-how-to-start-a-dynamtic-form-in-c%23-code/</link>
+      <description>You could continue by learning &lt;em&gt;Entity Framework&lt;/em&gt;, for accessing data from your database server easier. I would also suggest learning about &lt;em&gt;LINQ&lt;/em&gt; and XML. As you can see, this can&amp;#39;t be done in a month, rather in 1-2-3 years. But once you&amp;#39;ve&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 20:22:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>Strategies and Languages for Generating Biml | Made2Mentor</title>
+      <link>http://www.made2mentor.com/2013/12/strategies-and-languages-for-generating-biml/</link>
+      <description>BimlScript allows the programmer to embed nuggets of &lt;em&gt;C#&lt;/em&gt; or VB.Net code inside Biml to dynamically generate Biml assets, much the same way that ASP.Net dynamically generates web pages. These nuggets often include &lt;em&gt;LINQ&lt;/em&gt; (Language&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Made2Mentor</dc:publisher>
+      <dc:creator>David</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 19:43:18 GMT</dc:date>
+    </item>
+    <item>
+      <title>Run Command Written To Text File - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335675-run-command-written-to-text-file/</link>
+      <description>&lt;em&gt;Linq&lt;/em&gt;; using System.Text; using System.Threading.Tasks; using System.IO; namespace Program_Test { class Program { static void Main(string[] args) { const string FILE_NAME = @&amp;quot;e:\command.txt&amp;quot;; Console.Clear(); Console.Write(&amp;quot;Write a &lt;b&gt;...&lt;/b&gt; Re: Run Command Written to Text File. Posted 12 minutes ago. Moved to &lt;em&gt;C#&lt;/em&gt;. Please remember to use a descriptive title (Problem! is not descriptive). Also, please use code tags: :code:/&amp;gt;. Was This Post Helpful? 0. +; -. Back to top; Reply Icon&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 18:47:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Can you explain some text effects in CSS 3?( ASP.NET CSS &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://dotnetinterviewquestion.wordpress.com/2013/12/04/can-you-explain-some-text-effects-in-css-3-asp-net-css-interview-questions/</link>
+      <description>NET and &lt;em&gt;C#&lt;/em&gt; interviews. It has all tips and tricks needed to crack .NET interviews , &lt;em&gt;C#&lt;/em&gt; interview , SQL Server interview , Java interview , WCF Interview , Silverlight interview , WPF interview , &lt;em&gt;LINQ&lt;/em&gt; interview , &lt;em&gt;Entity framework&lt;/em&gt; Interview.</description>
+      <dc:publisher>One stop place for c# ,.NET , SQL Server interview questions</dc:publisher>
+      <dc:creator>c# and .NET Interview questions</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 05:18:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>A pre-release of F# 3.1 and the Visual F# tools in Microsoft&amp;#39;s Visual &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://designforge.wordpress.com/2013/12/03/a-pre-release-of-f-3-1-and-the-visual-f-tools-in-microsofts-visual-studio-2013-is-announced/</link>
+      <description>These include named union type fields, extensions to array slicing, an improvement to &lt;em&gt;LINQ&lt;/em&gt;-style methods in the form of type-inference, better support for &lt;em&gt;C#&lt;/em&gt; extension members, and enhancements in the support of constants in attributes and&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>the Design Forge</dc:publisher>
+      <dc:creator>James W Hurst</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 01:53:24 GMT</dc:date>
+    </item>
+    <item>
+      <title>Example Custom Marshaler – The Array Marshaler | limbioliong</title>
+      <link>http://limbioliong.wordpress.com/2013/12/04/example-custom-marshaler-the-array-marshaler/</link>
+      <description>2.2 The standard way would require a DllImport() declaration in &lt;em&gt;C#&lt;/em&gt; such as the following : &lt;b&gt;...&lt;/b&gt; 3.3 In this section, we explore how we can successfully call a function like ModifyArray_WithLengthChanged() in &lt;em&gt;C#&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Linq&lt;/em&gt;; using System.Text; using System.Runtime.InteropServices; namespace ArrayMarshalerClassLib { public class ArrayMarshaler : ICustomMarshaler { public object MarshalNativeToManaged(IntPtr pNativeData) { // By now the Int32 that was passed as the holder // of the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>limbioliong</dc:publisher>
+      <dc:creator>Lim Bio Liong</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 15:51:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Input Validation /w Controller - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335588-input-validation-w-controller/</link>
+      <description>Hello everyone, first of all I wannna say that this is my first thread on this forum and also that I am a beginner in &lt;em&gt;C#&lt;/em&gt; programming. I have a problem with making an input validation in the project I am working on with my groupmates. This project&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 20:58:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>Application Development Process - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335631-application-development-process/</link>
+      <description>Hello, I am a beginner in &lt;em&gt;C#&lt;/em&gt; and I like this language so far. My question is about the curiosity to make the applications out of it. Please help me with the process of making applications by this language. Thanks in advance. Is This A Good&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 05:49:48 GMT</dc:date>
+    </item>
+    <item>
+      <title>.Net &lt;b&gt;C#&lt;/b&gt; case insensitive character replacement | CSharper</title>
+      <link>http://thecsharper.com/?p=366</link>
+      <description>Replace in &lt;em&gt;c#&lt;/em&gt;?) in stackoverflow I tidied it up a bit for a quick demo. using System; namespace CsharpInsensitiveReplaceDemo { class CsharpInsensitiveReplaceExample { /// &amp;lt;summary&amp;gt; /// Defines the entry point of the application.</description>
+      <dc:publisher>CSharper</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 20:49:27 GMT</dc:date>
+    </item>
+    <item>
+      <title>RSS Feed in Topic - YAF General - Yet Another Forum.NET &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://forum.yetanotherforum.net/yaf_postst16412_RSS-Feed-in-Topic.aspx</link>
+      <description>Source code is written in &lt;em&gt;C#&lt;/em&gt; and is freely available. &lt;b&gt;...&lt;/b&gt; Glad to see stored procedures are used in YAF - other projects are eliminating stored procs &amp;amp; replaced everything w/&lt;em&gt;LINQ&lt;/em&gt;, but they don&amp;#39;t scale at all and run much slower. Back to top.</description>
+      <dc:publisher>Rss Feed - Yet Another Forum.NET - Active Discussions</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Tue, 03 Dec 2013 19:51:28 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

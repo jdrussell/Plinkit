@@ -37,13 +37,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
     <File Include="bin/Plinkit.Domain.dll">
-      <publishTime>12/03/2013 20:03:51</publishTime>
+      <publishTime>12/04/2013 20:09:31</publishTime>
     </File>
     <File Include="bin/Plinkit.Domain.pdb">
       <publishTime>12/03/2013 20:03:50</publishTime>
     </File>
     <File Include="bin/Plinkit.UI.dll">
-      <publishTime>12/03/2013 20:10:38</publishTime>
+      <publishTime>12/04/2013 20:29:33</publishTime>
     </File>
     <File Include="bin/Plinkit.UI.pdb">
       <publishTime>12/03/2013 20:10:38</publishTime>
@@ -279,6 +279,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Scripts/bootstrap.bic-calendar.js">
       <publishTime>11/28/2013 09:46:58</publishTime>
     </File>
+    <File Include="Scripts/bootstrap.bic-calendar.min.js">
+      <publishTime>12/04/2013 19:26:02</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
@@ -373,7 +376,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>11/29/2013 08:12:58</publishTime>
+      <publishTime>12/04/2013 20:29:11</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>11/27/2013 12:58:32</publishTime>
@@ -385,7 +388,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/01/2013 07:08:33</publishTime>
+      <publishTime>12/04/2013 20:31:21</publishTime>
     </File>
   </ItemGroup>
 </Project>
