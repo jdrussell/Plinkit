@@ -43,7 +43,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/03/2013 20:03:50</publishTime>
     </File>
     <File Include="bin/Plinkit.UI.dll">
-      <publishTime>12/08/2013 10:36:35</publishTime>
+      <publishTime>12/08/2013 11:03:36</publishTime>
     </File>
     <File Include="bin/Plinkit.UI.pdb">
       <publishTime>12/03/2013 20:10:38</publishTime>
@@ -342,6 +342,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Scripts/_references.js">
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
+    <File Include="sitemap.xml">
+      <publishTime>12/08/2013 10:46:51</publishTime>
+    </File>
     <File Include="Views/Account/ChangePassword.cshtml">
       <publishTime>11/27/2013 12:58:32</publishTime>
     </File>
@@ -367,7 +370,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/29/2013 08:30:20</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>12/04/2013 20:53:18</publishTime>
+      <publishTime>12/08/2013 11:03:31</publishTime>
+    </File>
+    <File Include="Views/Home/_Adverts.cshtml">
+      <publishTime>12/08/2013 11:03:09</publishTime>
     </File>
     <File Include="Views/Home/_CategorySelector.cshtml">
       <publishTime>12/08/2013 10:38:40</publishTime>
