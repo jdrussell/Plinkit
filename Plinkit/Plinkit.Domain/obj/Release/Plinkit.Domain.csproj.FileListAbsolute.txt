@@ -5,3 +5,4 @@ C:\Git\Plinkit\Plinkit.Domain\bin\Release\EntityFramework.dll
 C:\Git\Plinkit\Plinkit.Domain\bin\Release\EntityFramework.xml
 C:\Git\Plinkit\Plinkit.Domain\obj\Release\Plinkit.Domain.dll
 C:\Git\Plinkit\Plinkit.Domain\obj\Release\Plinkit.Domain.pdb
+C:\Git\Plinkit\Plinkit.Domain\obj\Release\Plinkit.Domain.csprojResolveAssemblyReference.cache

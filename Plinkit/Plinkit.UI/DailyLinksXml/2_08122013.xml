@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" OR "EF 5" OR "EF 6" OR (linq AND c#) -job -marketing -blogspot.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+OR+%22EF+5%22+OR+%22EF+6%22+OR+(linq+AND+c%23)+-job+-marketing+-blogspot.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 17 results</description>
+    <opensearch:totalResults>17</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Augmented Interval Tree in &lt;b&gt;C#&lt;/b&gt; | Software Salad</title>
+      <link>http://brooknovak.wordpress.com/2013/12/07/augmented-interval-tree-in-c/</link>
+      <description>Collections; using System.Collections.Generic; using System.Globalization; using System.&lt;em&gt;Linq&lt;/em&gt;; using System.Runtime.Serialization; using System.Xml; using System.Xml.Schema; using System.Xml.Serialization; namespace BrookNovak.</description>
+      <dc:publisher>Software Salad</dc:publisher>
+      <dc:creator>brooknovak</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 11:55:50 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;C#&lt;/b&gt; HtmlElement GetElemetsByTagName Problem - C# | Dream.In &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dreamincode.net/forums/topic/336009-c%23-htmlelement-getelemetsbytagname-problem/</link>
+      <description>&lt;em&gt;C#&lt;/em&gt; HtmlElement GetElemetsByTagName problem: &lt;b&gt;...&lt;/b&gt; &lt;em&gt;C#&lt;/em&gt; Login/Register system using SQL Compact &amp;middot; &lt;em&gt;C#&lt;/em&gt; Inventory program using SQL Compact &amp;middot; DataTable.AsEnumerable&amp;lt;T&amp;gt; For Easy &lt;em&gt;LINQ&lt;/em&gt;-to-Object Functionalit &amp;middot; 232 More &lt;em&gt;C#&lt;/em&gt; Tutorials.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sun, 08 Dec 2013 06:11:40 GMT</dc:date>
+    </item>
+    <item>
+      <title>Error: Object Reference Not Set To An Instance Of An Object. - C &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dreamincode.net/forums/topic/335969-error-object-reference-not-set-to-an-instance-of-an-object/</link>
+      <description>&lt;em&gt;Linq&lt;/em&gt;; using System.Diagnostics; using System.Data.Sql; using System.Data.SqlClient; using System.Data.SqlServerCe; using System.Data.SqlTypes; using System.Text; using System.Windows.Forms; namespace Wishlist { public partial class&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 20:08:03 GMT</dc:date>
+    </item>
+    <item>
+      <title>TEST - XE2011 - 博客园</title>
+      <link>http://www.cnblogs.com/xe2011/p/3464069.html</link>
+      <description>&lt;em&gt;Linq&lt;/em&gt;; 4 using System.Text; 5 using System.Windows.Forms; 6 using System.Drawing; 7 using mshtml; 8 9 //参考 10 11 //http://code.google.com/p/msit88-gold-coast/source/browse/sandbox/GoldCoastTestSolution/HtmlEditor/DocumentEx.cs 12 13 &lt;b&gt;...&lt;/b&gt; createRange(); 74 75 # 76 @javascript 77 78 @&lt;em&gt;C#&lt;/em&gt; 79 80 # 81 @javascript 82 83 @&lt;em&gt;C#&lt;/em&gt; 84 85 # 86 @javascript 87 88 @&lt;em&gt;C#&lt;/em&gt; 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>博客园_Testudo</dc:publisher>
+      <dc:creator>XE2011</dc:creator>
+      <dc:date>Sun, 08 Dec 2013 10:22:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>ASP.NET and Web Tools 2013.1 Tools for Visual Studio 2012 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dotnetjalps.com/2013/12/aspnet-and-web-tools-20131-tools-for.html</link>
+      <description>It&amp;#39;s also comes with &lt;em&gt;Entity framework&lt;/em&gt; 6.0. Where you have some new great features like Async Query and Save,Connection Resiliency, Code-Based Configuration, Dependency Resolution, Interception/SQL Logging, Improved transaction&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>DotNetJalps</dc:publisher>
+      <dc:creator>noreply@blogger.com (jalpesh vadgama)</dc:creator>
+      <dc:date>Sun, 08 Dec 2013 09:32:51 GMT</dc:date>
+    </item>
+    <item>
+      <title>How to Perform Insert,Edit,Update,Cancel and Print operations in &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.msdotnet.co.in/2013/12/how-to-perform-inserteditupdatecancel.html</link>
+      <description>It more helpful for implementing the insert,Edit,Update.delete and Cancel operations in Gridview using &lt;em&gt;C#&lt;/em&gt;.</description>
+      <dc:publisher>Microsoft.NET Tutorials</dc:publisher>
+      <dc:creator>RAMASHANKER VERMA</dc:creator>
+      <dc:date>Sun, 08 Dec 2013 04:40:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Kevin@Work: Joining Google</title>
+      <link>http://work.j832.com/2013/12/joining-google.html</link>
+      <description>After coding in &lt;em&gt;C#&lt;/em&gt;, XAML, Ruby, and Javascript, I&amp;#39;ve finally found a development platform that I&amp;#39;m totally in love with: Dart. I want to make it better full time. I&amp;#39;ll be working in the Google office in Seattle with some great folks working on some&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Kevin@Work</dc:publisher>
+      <dc:creator>Kevin Moore</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 15:11:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;C#&lt;/b&gt; .Net lock statement | CSharper</title>
+      <link>http://thecsharper.com/?p=380</link>
+      <description>A lock can be performed by locking a critical section via a mutual-exclusion lock, then executing a statement and releasing the lock on completion. Here&amp;#39;s a quick example of a simple lock below: using System; namespace ChsharpLockDemo&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>CSharper</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 20:53:31 GMT</dc:date>
+    </item>
+    <item>
+      <title>ORM or not to ORM that is the question | Rob Blackin</title>
+      <link>http://robblackin.wordpress.com/2013/12/07/orm-or-not-to-orm-that-is-the-question/</link>
+      <description>Net shop we looked at &lt;em&gt;Entity Framework&lt;/em&gt; and nHibernate. Both were not only in their infancy and were &lt;b&gt;...&lt;/b&gt; Net 4.5 framework boosted &lt;em&gt;LINQ&lt;/em&gt; query performance significantly. So with the performance bottleneck no longer a &lt;b&gt;...&lt;/b&gt; In our old stored procedure pattern, if there was a performance issue or we needed to change a query, we just had to change it in the Db which is 100 times simpler than making the &lt;em&gt;c#&lt;/em&gt; code changes, compiling, deploying, etc. DB we can hot deploy and there is zero&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Rob Blackin</dc:publisher>
+      <dc:creator>Rob Blackin's Technology and Travel Blog</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 20:32:14 GMT</dc:date>
+    </item>
+    <item>
+      <title>Lastnames Is Displayed Under Firstname And Vice-versa - C &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dreamincode.net/forums/topic/335940-lastnames-is-displayed-under-firstname-and-vice-versa/</link>
+      <description>Related &lt;em&gt;C#&lt;/em&gt; Topicsbeta. [Boxing And Casting In &lt;em&gt;C#&lt;/em&gt;] - What Is The Difference Between Them? OPERATING SYSTEM &lt;b&gt;...&lt;/b&gt; program using SQL Compact &amp;middot; DataTable.AsEnumerable&amp;lt;T&amp;gt; For Easy &lt;em&gt;LINQ&lt;/em&gt;-to-Object Functionalit &amp;middot; 232 More &lt;em&gt;C#&lt;/em&gt; Tutorials.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 14:02:44 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" OR "clean code" OR "design patterns" OR "oo technique" -job -stackoverflow.com -consultant -seev.co.il - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+OR+%22clean+code%22+OR+%22design+patterns%22+OR+%22oo+technique%22+-job+-stackoverflow.com+-consultant+-seev.co.il&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>1 result</description>
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <item>
+      <title>Asynchronous, Non-Blocking NOM NOMs | Kotan Code 枯淡コード</title>
+      <link>http://www.kotancode.com/2013/12/07/asynchronous-non-blocking-nom-noms/</link>
+      <description>What makes this an interesting technical blog post is that this place employs a number of techniques that people like me have been using as large-scale application development &lt;em&gt;design patterns&lt;/em&gt; for years. My coworkers and I often refer to the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Kotan Code 枯淡コード</dc:publisher>
+      <dc:creator>Kevin Hoffman</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 19:00:11 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

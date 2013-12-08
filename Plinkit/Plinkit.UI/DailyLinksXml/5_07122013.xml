@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>c# "best practice" OR "clean code" OR "design patterns" OR "oo technique" -job -stackoverflow.com -consultant - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=c%23+%22best+practice%22+OR+%22clean+code%22+OR+%22design+patterns%22+OR+%22oo+technique%22+-job+-stackoverflow.com+-consultant&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>4 results</description>
+    <opensearch:totalResults>4</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>4</opensearch:itemsPerPage>
+    <item>
+      <title>All languages need first class tuples - RobG3D</title>
+      <link>http://www.robg3d.com/?p=1146</link>
+      <description>Over time I&amp;#39;ve moved more and more away from creating classes for data structures in Python, a &amp;#39;&lt;em&gt;best practice&lt;/em&gt;&amp;#39; habit I brought over from &lt;em&gt;C#&lt;/em&gt;. It is silly in a dynamically typed language. There&amp;#39;s nothing more clear about: for entry in chartdata:&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>RobG3D</dc:publisher>
+      <dc:creator>Rob Galanakis</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 22:10:42 GMT</dc:date>
+    </item>
+    <item>
+      <title>Arduino Interrupts and Timers | Charlie Brown - carbonatethis</title>
+      <link>http://www.carbonatethis.com/arduino-interrupts-and-timers/</link>
+      <description>Inside an ISR you can use any normal code you might use in the main loop, but &lt;em&gt;best practice&lt;/em&gt; is to keep your ISR as short (quick) as possible, usually just increment a value to keep track of the number of interrupts. Notice that our interrupt&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Charlie Brown</dc:publisher>
+      <dc:creator>carbonrobot</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 17:01:05 GMT</dc:date>
+    </item>
+    <item>
+      <title>LINQ to Twitter Runs On Xamarin.iOS - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/WinAZ/archive/2013/12/06/linq-to-twitter-runs-on-xamarin.ios.aspx</link>
+      <description>You&amp;#39;ll see the New Project window below. SNAGHTMLf7b664f. Under Installed Templates, Visual &lt;em&gt;C#&lt;/em&gt;, iOS, iPhone, you see some new templates. Select HelloWorld Application, name the project L2TDemo, specify any file location you want,&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Joe Mayo</dc:publisher>
+      <dc:creator>Joe Mayo</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 15:22:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>משרות הייטק - SeeV</title>
+      <link>http://www.seev.co.il/jobs</link>
+      <description>משרות הייטק הכי חמות שיש בהייטק נמצאות אצלנו. SeeV – משרות הייטק במגוון חברות, מסטארט-אפים ועד חברות מובילות במשק.</description>
+      <dc:publisher>דרושים הייטק seeV השמה בהייטק</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 20:53:02 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

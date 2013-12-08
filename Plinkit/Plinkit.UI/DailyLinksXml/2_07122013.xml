@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"entity framework" OR "EF 5" OR "EF 6" OR (linq AND c#) -job -marketing -blogspot.com - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=%22entity+framework%22+OR+%22EF+5%22+OR+%22EF+6%22+OR+(linq+AND+c%23)+-job+-marketing+-blogspot.com&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>8 results</description>
+    <opensearch:totalResults>8</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+    <item>
+      <title>&lt;b&gt;LINQ&lt;/b&gt; to Twitter Runs On Xamarin.iOS - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/WinAZ/archive/2013/12/06/linq-to-twitter-runs-on-xamarin.ios.aspx</link>
+      <description>That was pretty exciting, but so is watching &lt;em&gt;LINQ&lt;/em&gt; to Twitter jamming tweets into a UITableView in an iPhone simulator on my Mac, courtesy of Xamarin. &lt;b&gt;...&lt;/b&gt; Under Installed Templates, Visual &lt;em&gt;C#&lt;/em&gt;, iOS, iPhone, you see some new templates.</description>
+      <dc:publisher>Joe Mayo</dc:publisher>
+      <dc:creator>Joe Mayo</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 15:22:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Webservice Error - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335880-webservice-error/</link>
+      <description>Line 1: &amp;lt;%@ WebService Language=&amp;quot;&lt;em&gt;C#&lt;/em&gt;&amp;quot; CodeBehind=&amp;quot;Service1.asmx.cs&amp;quot; Class=&amp;quot;Service1.Service1&amp;quot; %&amp;gt; And I don&amp;#39;t know why I&amp;#39;m getting this. Can anyone spot why? using System.Collections.Generic; using System.&lt;em&gt;Linq&lt;/em&gt;; using System.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 19:32:18 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;C#&lt;/b&gt; Wind Chill Factor Using Methods - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335889-c%23-wind-chill-factor-using-methods/</link>
+      <description>&lt;em&gt;c#&lt;/em&gt; wind chill factor using methods: &lt;b&gt;...&lt;/b&gt; for Beginners &amp;middot; &lt;em&gt;C#&lt;/em&gt; Login/Register system using SQL Compact &amp;middot; &lt;em&gt;C#&lt;/em&gt; Inventory program using SQL Compact &amp;middot; DataTable.AsEnumerable&amp;lt;T&amp;gt; For Easy &lt;em&gt;LINQ&lt;/em&gt;-to-Object Functionalit &amp;middot; 232 More &lt;em&gt;C#&lt;/em&gt; Tutorials.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 21:01:09 GMT</dc:date>
+    </item>
+    <item>
+      <title>Making A Custom Wishlist Program... - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335900-making-a-custom-wishlist-program/</link>
+      <description>I have recently took up remaking it to where it is custom. You can add and subtract items as you please. I started developing it and it took a wrong turn. I ended up switching to &lt;em&gt;C#&lt;/em&gt; (due to it&amp;#39;s alikeness to Java and VB.net!) and starting it on there.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 23:50:28 GMT</dc:date>
+    </item>
+    <item>
+      <title>Having Trouble Using Server Explorer In Vs 2012 - C# | Dream.In &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.dreamincode.net/forums/topic/335869-having-trouble-using-server-explorer-in-vs-2012/</link>
+      <description>How To Connect To SQL Server In &lt;em&gt;C#&lt;/em&gt; - Using App.config In Windows Application &amp;middot; Multiple Columns In Listbox In VS 2003 - Listbox.multicolumn=true Is Not Coming In VS 2003 Using &lt;em&gt;C#&lt;/em&gt; &amp;middot; Beginner In Programming Having Trouble. Vs 2012 Browse &lt;b&gt;...&lt;/b&gt; Creating an Easy Data Access Layer using &lt;em&gt;Entity Framework&lt;/em&gt; &amp;middot; String Manipulation &amp;middot; Collections - In Depth &amp;middot; Using Recursion &amp;middot; &lt;em&gt;C#&lt;/em&gt; TestStack.White for &lt;b&gt;...&lt;/b&gt; AsEnumerable&amp;lt;T&amp;gt; For Easy &lt;em&gt;LINQ&lt;/em&gt;-to-Object Functionalit &amp;middot; 232 More &lt;em&gt;C#&lt;/em&gt; Tutorials.</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 17:47:46 GMT</dc:date>
+    </item>
+    <item>
+      <title>.Net &lt;b&gt;C#&lt;/b&gt; member shadowing | CSharper</title>
+      <link>http://thecsharper.com/?p=375</link>
+      <description>Post navigation. ← .Net &lt;em&gt;C#&lt;/em&gt; Custom Exception class &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Linq&lt;/em&gt; (PLINQ) and ToList() question; admin on .Net &lt;em&gt;C#&lt;/em&gt; parallel &lt;em&gt;Linq&lt;/em&gt; (PLINQ) and degree of parallelism example &amp;middot; Rich on .Net &lt;em&gt;C#&lt;/em&gt; parallel &lt;em&gt;Linq&lt;/em&gt; (PLINQ) and degree of parallelism example&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>CSharper</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 14:37:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Simple Example of the ReadOnlyCollection in &lt;b&gt;C#&lt;/b&gt; | AuthorCode</title>
+      <link>http://www.authorcode.com/simple-example-of-the-readonlycollection-in-c/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=simple-example-of-the-readonlycollection-in-c</link>
+      <description>Generate xml document with elements and attributes using &lt;em&gt;LINQ&lt;/em&gt; to XML &amp;middot; How to use Regular expression for validating Phone Numbers in .net &amp;middot; Read, delete and send email from Outlook in vb.net &amp;middot; Run php code in the wordpress post using&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>AuthorCode</dc:publisher>
+      <dc:creator>Hirendra Sisodiya</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 07:26:07 GMT</dc:date>
+    </item>
+    <item>
+      <title>Functions/methods In Seperate .cs File - C# | Dream.In.Code</title>
+      <link>http://www.dreamincode.net/forums/topic/335842-functionsmethods-in-seperate-cs-file/</link>
+      <description>Can You Pls. Code Review Of &lt;em&gt;C#&lt;/em&gt; Code(.cs File)? Difficulty Separating Struct File In &lt;em&gt;C#&lt;/em&gt; &amp;middot; Need &lt;b&gt;...&lt;/b&gt; File - What Is Wrong With My Code? Calling DLL And OCX File In Web Service Connect To SAP Using &lt;em&gt;C#&lt;/em&gt; &amp;middot; Using Methods In Other Classes/Files&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Programming Forums</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 08:52:50 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

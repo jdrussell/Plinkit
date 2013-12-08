@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"test driven development" OR "behaviour driven development" OR "unit testing" OR "bdd" OR nunit -blogspot.com -lte -job -hire -hiring - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;client=firefox-a&amp;hs=ET7&amp;rls=org.mozilla:en-US:official&amp;q=%22test+driven+development%22+OR+%22behaviour+driven+development%22+OR+%22unit+testing%22+OR+%22bdd%22+OR+nunit+-blogspot.com+-lte+-job+-hire+-hiring&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>3 results</description>
+    <opensearch:totalResults>3</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+    <item>
+      <title>Fresh Resources For Designers And Developers – December 2013 &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.ipixel.com.sg/blog/web-design/fresh-resources-for-designers-and-developers-december-2013/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; measure your theme and to identify errors and flaws that may only occur under particular circumstances. It contains a set of data based on WordPress Theme &lt;em&gt;Unit Testing&lt;/em&gt; and you also get an inside look into some experiences by the author.</description>
+      <dc:publisher>iPixel Creative | Singapore Web Design &amp; CMS Development Company Blog</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 19:49:54 GMT</dc:date>
+    </item>
+    <item>
+      <title>pivotal (Pivotal Labs) · GitHub</title>
+      <link>https://github.com/pivotal</link>
+      <description>&lt;em&gt;BDD&lt;/em&gt;-style testing using Objective-C. Last updated December 05, 2013. Ruby; 36 &amp;middot; 31 &amp;middot; whiteboard. A virtual whiteboard for keeping track of standup items. Last updated December 04, 2013. Ruby; 1 &amp;middot; 2 &amp;middot; blue-shell. friendly command-line test&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>GitHub</dc:publisher>
+      <dc:creator>pivotal</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 19:57:02 GMT</dc:date>
+    </item>
+    <item>
+      <title>My Favourites (Free) Visual Studio 2013 Extensions | The Cyber Den</title>
+      <link>http://thecyberden.wordpress.com/2013/12/07/my-favourites-free-visual-studio-2013-extensions/</link>
+      <description>It is also fully configurable to support MSTest, XUnit, and &lt;em&gt;NUnit&lt;/em&gt; so that you can choose the framework that is most suitable in your environment. Right-click in your method to select Generate Unit Test. This generates a test project and a test&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Cyber Den</dc:publisher>
+      <dc:creator>jvs</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 20:57:38 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

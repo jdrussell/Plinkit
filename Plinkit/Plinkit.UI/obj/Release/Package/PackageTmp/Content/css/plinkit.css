@@ -31,3 +31,7 @@ body
 .navbar .brand {
     padding-top: 0;
 }
+
+#linksArchive {
+    margin-bottom: 1em;
+}

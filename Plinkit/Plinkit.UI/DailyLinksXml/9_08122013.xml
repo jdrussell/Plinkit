@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>About 712 results</description>
+    <opensearch:totalResults>712</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>algorithms - Why Big Data Needs To Be &lt;b&gt;Functional&lt;/b&gt;? - Programmers &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://programmers.stackexchange.com/questions/220605/why-big-data-needs-to-be-functional</link>
+      <description>My managers recommended to start learning &lt;em&gt;functional&lt;/em&gt; programming (They highly recommended Scala). I had a humbled experience using &lt;em&gt;F#&lt;/em&gt;, but I couldn&amp;#39;t see the the important of using this paradigm of programming as it&amp;#39;s expensive in some cases. Dean gave an interesting talk &lt;b&gt;....&lt;/b&gt; Why is binary search,which needs sorted data, considered better than linear search? question feed. about help badges &lt;em&gt;blog&lt;/em&gt; chat data legal privacy policy jobs advertising info mobile contact us feedback&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Recent Questions - Programmers Stack Exchange</dc:publisher>
+      <dc:creator>user3047512</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 11:40:26 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #48, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/12/02/f-weekly-48-2013/</link>
+      <description>Welcome to &lt;em&gt;F#&lt;/em&gt; Weekly, A roundup of &lt;em&gt;F#&lt;/em&gt; content from this past week: News &lt;em&gt;F#&lt;/em&gt; 3.1 Compiler/Library Code Drop was announced! Don Syme &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; binding auto-complete running in SublimeText 3. &lt;b&gt;...&lt;/b&gt; New cross-&lt;em&gt;functional&lt;/em&gt; (&lt;em&gt;F#&lt;/em&gt;, Haskell, …)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 01 Dec 2013 21:22:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Keith Bloom: &lt;b&gt;F#&lt;/b&gt; in Finance conference - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://keithbloom.blogspot.com/2013/12/fsharp-in-finance-conference.html</link>
+      <description>On Monday 25th November I attended the &lt;em&gt;F#&lt;/em&gt; in Finance conference at the Microsoft offices in London. I was drawn to this single day conference as I have been learning about &lt;em&gt;functional&lt;/em&gt; programming for some time now. I am also interested in&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Keith Bloom</dc:publisher>
+      <dc:creator>Keith Bloom</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 13:45:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Slides for &lt;b&gt;F#&lt;/b&gt; in Social Gaming talk at CodeMesh | theburningmonk &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://theburningmonk.com/2013/12/slides-for-f-in-social-gaming-talk-at-codemesh/</link>
+      <description>Just a quick note to say that slides for my &lt;em&gt;F#&lt;/em&gt; in Social Gaming talk at the recent CodeMesh conference is now available on SlideShare and that recording of the. &lt;b&gt;...&lt;/b&gt; a &lt;em&gt;blog&lt;/em&gt; for Yan and Yinan&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>theburningmonk.com</dc:publisher>
+      <dc:creator>theburningmonk</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 03:00:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>Carl G. #Jung #Archetypes – The 4 Stages of &lt;b&gt;...&lt;/b&gt; - Kankuchito&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://kankuchito.wordpress.com/2013/12/04/article-carl-g-jung-archetypes-the-4-stages-of-life-purpose-fairy/</link>
+      <description>Article: Announcing a pre-release of &lt;em&gt;F#&lt;/em&gt; 3.1 and the Visual &lt;em&gt;F#&lt;/em&gt; tools in Visual Studio 2013 &lt;b&gt;...&lt;/b&gt; Enter your email address to subscribe to this &lt;em&gt;blog&lt;/em&gt; and receive notifications of new posts by email. &lt;b&gt;....&lt;/b&gt; Take someone in another &lt;em&gt;function&lt;/em&gt; to lunch.</description>
+      <dc:publisher>@Kankuchito's Blog</dc:publisher>
+      <dc:creator>kankuchito</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 23:17:37 GMT</dc:date>
+    </item>
+    <item>
+      <title>Coder Read #20131206: Canvas, Animate in Xcode without Code</title>
+      <link>http://www.codersgrid.com/2013/12/06/coder-read-20131206-canvas-animate-in-xcode-without-code/</link>
+      <description>http://gmailblog.&lt;em&gt;blogspot&lt;/em&gt;.com/2013/12/download-copy-of-your-gmail-and-google.html &lt;b&gt;...&lt;/b&gt; Books Reviews. a collections of reviews about the &lt;em&gt;functional&lt;/em&gt; programming in different languages, including Haskell, Erlang, Caml &amp;amp; Objective Caml, &lt;em&gt;F#&lt;/em&gt;…</description>
+      <dc:publisher>Coders Grid</dc:publisher>
+      <dc:creator>cauliturtle</dc:creator>
+      <dc:date>Thu, 05 Dec 2013 17:47:25 GMT</dc:date>
+    </item>
+    <item>
+      <title>Insights | ThoughtWorks</title>
+      <link>http://www.thoughtworks.com/insights</link>
+      <description>A global software company focused on software design and delivery. We provide professional services and products and leading thought on Agile and Continuous Delivery.</description>
+      <dc:publisher>Planet TW</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 05:52:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>Didn&amp;#39;t we have a lovely time // the day we went to Mampang</title>
+      <link>http://drbargle.blogspot.com/2013/12/didnt-we-have-lovely-time-day-we-went.html</link>
+      <description>An introduction to &lt;em&gt;Functional&lt;/em&gt; Programming in &lt;em&gt;F#&lt;/em&gt; -- Part 1 : &lt;em&gt;Functional&lt;/em&gt; Programming via circuits. 17 hours ago. Quirkworthy &amp;middot; Unhappy Silicon &lt;b&gt;...&lt;/b&gt; Fayana and the Dance of Death. 1 day ago. Realm of Chaos: An 80s Warhammer Enthusiast &lt;em&gt;Blog&lt;/em&gt;.</description>
+      <dc:publisher>Known World, Old World</dc:publisher>
+      <dc:creator>Andy Bartlett</dc:creator>
+      <dc:date>Thu, 05 Dec 2013 14:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Coding Journal | Creating a Search box with Reactive Extensions &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.kulman.sk/creating-a-search-box-with-reactive-extensions-and-mvvm/</link>
+      <description>Windows Phone and Windows 8 developer at Inmite currently also building applications for Windows Azure and playing with &lt;em&gt;F#&lt;/em&gt;. Former consultant particularly interested in &lt;em&gt;functional&lt;/em&gt; programming and data analysis. Direct experience with&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Coding JournalCoding Journal</dc:publisher>
+      <dc:creator>Igor Kulman</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 12:32:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>Why mapping DTOs to Entities using AutoMapper and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://rogeralsing.com/2013/12/01/why-mapping-dtos-to-entities-using-automapper-and-entityframework-is-horrible/</link>
+      <description>if (detail == null). detail = new Detail();. order.Details.Add(detail);. detail.Name = detailDTO.Name;. detail.Quantity = detailDTO.Quantity;. context.SaveChanges();. &lt;em&gt;Functional&lt;/em&gt; DDD in &lt;em&gt;F#&lt;/em&gt;. With 4 comments. Entity Framework to REST - EfREST.</description>
+      <dc:publisher>Roger Alsing Weblog</dc:publisher>
+      <dc:creator>Roger Alsing</dc:creator>
+      <dc:date>Sun, 01 Dec 2013 10:37:22 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

@@ -14,12 +14,18 @@ namespace Plinkit.UI
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
+            );            
+
+            routes.MapRoute(
+                "SeoLinks",
+                "daily-dot-net-links/{category}",
+                defaults: new { controller = "Home", action = "Links", date = "", category = "" }
             );
 
             routes.MapRoute(
-                "Links",                
-                "Links/{date}/{category}",
-                defaults: new { controller = "Home", action = "Links", date ="", category = "" }
+                "Links",
+                "daily-dot-net-links/{date}/{category}",
+                defaults: new { controller = "Home", action = "Links", date = "", category = "" }
             );
 
             routes.MapRoute(

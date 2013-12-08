@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>javascript js blog -stackoverflow - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;hl=en&amp;q=javascript+js+blog+-stackoverflow&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 150 results</description>
+    <opensearch:totalResults>150</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Node.&lt;b&gt;js&lt;/b&gt; in production a t Paypal | Bessieres.Biz &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://bessieres.biz/blog/2013/12/node-js-in-production-a-t-paypal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=node-js-in-production-a-t-paypal</link>
+      <description>Node.&lt;em&gt;js&lt;/em&gt; in production a t Paypal. This week Paypal announced they moved from Java to &lt;em&gt;Javascript&lt;/em&gt; on Node.&lt;em&gt;js&lt;/em&gt;. Capture d&amp;#39;écran 2013-12-05 à 12.01.28. Moving from what is known as the most trusted dev language used for banking&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Bessieres.Biz Blog</dc:publisher>
+      <dc:creator>bessieres.biz</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 11:52:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>Need for Speed: How Groupon Migrated to Node.&lt;b&gt;js&lt;/b&gt; | Data Center &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://www.datacenterknowledge.com/archives/2013/12/06/need-speed-groupon-migrated-node-js/</link>
+      <description>&lt;b&gt;...&lt;/b&gt; a place where application development happens fast. But engineers weren&amp;#39;t able to move quickly enough, prompting the company to make a major architectural move over the past year to Node.&lt;em&gt;js&lt;/em&gt;. &lt;b&gt;...&lt;/b&gt; They selected the popular Node.&lt;em&gt;js&lt;/em&gt; server- side &lt;em&gt;JavaScript&lt;/em&gt; runtime. It can scale fairly easily, and lots of &lt;b&gt;...&lt;/b&gt; And indeed, it&amp;#39;s become easier for developers to tack on new features now, according to a Groupon engineering &lt;em&gt;blog&lt;/em&gt; post on the move. Other companies have run across benefits of&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Data Center Knowledge</dc:publisher>
+      <dc:creator>Jordan Novet</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 14:00:50 GMT</dc:date>
+    </item>
+    <item>
+      <title>Required &lt;b&gt;Js&lt;/b&gt; Expert | HTML5 | &lt;b&gt;Javascript&lt;/b&gt; - Freelancer.com</title>
+      <link>http://www.freelancer.com/projects/HTML-Javascript/Required-Expert.html</link>
+      <description>&amp;#39;Required &lt;em&gt;Js&lt;/em&gt; Expert&amp;#39; project on Freelancer.com. Bid on this job or post your own project for free!</description>
+      <dc:publisher>Freelancer.com - New Projects</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 05:40:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>Organizing &lt;b&gt;Javascript&lt;/b&gt; and CSS assets for optimal loading &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.lavoie.sl/2013/12/organizing-javascript-and-css-assets-for-optimal-loading.html</link>
+      <description>I bundle them all in a big libs.&lt;em&gt;js&lt;/em&gt;/css. Global custom assets written for this project, bundled in a single global.&lt;em&gt;js&lt;/em&gt;/css. It does not need to be all the custom assets, but stuff you will need on 80% of your requests. Specific code for specific pages can&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Websites, Hosting and Friends</dc:publisher>
+      <dc:creator>Sébastien Lavoie</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 03:37:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Salesforce1 Cures the App Boogie Fever | Developer Force &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blogs.developerforce.com/developer-relations/2013/12/salesforce1-cures-the-app-boogie-fever.html</link>
+      <description>&amp;lt;script type=&amp;quot;text/&lt;em&gt;javascript&lt;/em&gt;&amp;quot; src=&amp;quot;/canvas/sdk/&lt;em&gt;js&lt;/em&gt;/publisher.&lt;em&gt;js&lt;/em&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;. Next, when my page is loading, it calls two Salesforce1 Publisher methods: Sfdc.canvas.publisher.publish({name: &amp;quot;publisher.setValidForSubmit&amp;quot;, payload:&amp;quot;true&amp;quot;})&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Developer Relations</dc:publisher>
+      <dc:creator>Pat Patterson</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 23:22:14 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;JavaScript&lt;/b&gt; Libraries and Frameworks | Shine: Thoughts &amp;amp; Creations</title>
+      <link>http://shineravindra.wordpress.com/2013/12/07/javascript-libraries-and-frameworks/</link>
+      <description>If you are developing dynamic web applications, you can create HTML templates using &lt;em&gt;JavaScript&lt;/em&gt; libraries like Mustache.&lt;em&gt;Js&lt;/em&gt; , Underscore.&lt;em&gt;JS&lt;/em&gt; (for simple), Handlebars.&lt;em&gt;Js&lt;/em&gt; (for Complex). For single page applications (like Gmail) I noted recently&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Shine: Thoughts &amp; Creations</dc:publisher>
+      <dc:creator>shineravindra</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 01:24:57 GMT</dc:date>
+    </item>
+    <item>
+      <title>Error Reporting in Sage 300 ERP | Stephen Smith&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://smist08.wordpress.com/2013/12/06/error-reporting-in-sage-300-erp/</link>
+      <description>We must include the &lt;em&gt;JavaScript&lt;/em&gt; library for this. The &lt;em&gt;JavaScript&lt;/em&gt; file for any library needs to be added to the Scripts section of the project and then an entry needs to be added to BundleConfig.cs. Here we added jquery.unobtrsive-ajax.&lt;em&gt;js&lt;/em&gt; to the&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Stephen Smith's Blog</dc:publisher>
+      <dc:creator>smist08</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 19:24:06 GMT</dc:date>
+    </item>
+    <item>
+      <title>mir.aculo.us &lt;b&gt;JavaScript&lt;/b&gt; with Thomas Fuchs » &lt;b&gt;Blog&lt;/b&gt; Archive » Happy &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://mir.aculo.us/2013/12/06/happy-high-resolution-holidays/</link>
+      <description>I&amp;#39;m the author of Zepto.&lt;em&gt;js&lt;/em&gt;, of script.aculo.us, and I&amp;#39;m a Ruby on Rails core alumnus. With Amy Hoy I&amp;#39;m building &lt;b&gt;...&lt;/b&gt; Projects. Zepto.&lt;em&gt;js&lt;/em&gt;. The aerogel-weight mobile &lt;em&gt;JavaScript&lt;/em&gt; framework, which also works great for Safari and Chrome extensions.</description>
+      <dc:publisher>mir.aculo.us</dc:publisher>
+      <dc:creator>miraculous1</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 19:08:13 GMT</dc:date>
+    </item>
+    <item>
+      <title>Need a &lt;b&gt;Javascript&lt;/b&gt; variable to populate into an HTML string - 3dCart &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://forums.3dcart.com/store-design/6211-need-javascript-variable-populate-into-html-string.html</link>
+      <description>Here&amp;#39;s my question as I don&amp;#39;t know &lt;em&gt;JS&lt;/em&gt; nor HTML really ... How can I get an additional meta tag declaration in the HEAD of the frame.html template to produce the needed Rich Pin open graph meta declaration above ? I tried to use&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>3dCart Shopping Cart Software Forums</dc:publisher>
+      <dc:creator>edcroteau</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 18:35:53 GMT</dc:date>
+    </item>
+    <item>
+      <title>Computer Science Teacher: Programming Languages for Middle &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.acthompson.net/2013/12/programming-languages-for-middle-school.html</link>
+      <description>This is Alfred Thompson&amp;#39;s &lt;em&gt;blog&lt;/em&gt; about computer science education and related topics. &lt;b&gt;...&lt;/b&gt; I have 3 diff. languages right now: Scratch (6), Python (7) &amp;amp; &lt;em&gt;JS&lt;/em&gt; (8). — Laura &lt;b&gt;...&lt;/b&gt; &lt;em&gt;JS&lt;/em&gt; would be &lt;em&gt;JavaScript&lt;/em&gt; which is a real up and coming language. That she&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Computer Science Teacher</dc:publisher>
+      <dc:creator>Alfred Thompson</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 11:13:00 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

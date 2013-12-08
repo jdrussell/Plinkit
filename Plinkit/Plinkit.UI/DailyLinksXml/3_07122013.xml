@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>"visual studio" tools blog -stackoverflow -consultant - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?lr=lang_en&amp;q=%22visual+studio%22+tools+blog+-stackoverflow+-consultant&amp;tbm=blg&amp;tbs=qdr:d,lr:lang_1en</link>
+    <description>About 67 results</description>
+    <opensearch:totalResults>67</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>Build Qt 5 x64 Library on Windows 7 using &lt;b&gt;Visual Studio&lt;/b&gt; 2010 | The &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://michael-stengel.com/blog/?p=214</link>
+      <description>7- Start the &lt;em&gt;Visual Studio&lt;/em&gt; x64 Win64 Command Prompt (2010) : go to Start, All Programs, Microsoft &lt;em&gt;Visual Studio&lt;/em&gt; 2010, &lt;em&gt;Visual Studio Tools&lt;/em&gt;, &lt;em&gt;Visual Studio&lt;/em&gt; x64 Win64 Command Prompt (2010). 8 – type in set QMAKESPEC=win32-msvc2010 set&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>The Black Hat</dc:publisher>
+      <dc:creator>Michael</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 13:52:47 GMT</dc:date>
+    </item>
+    <item>
+      <title>Interbase 7.1 integration with &lt;b&gt;Visual Studio&lt;/b&gt; 2012 - Spiceworks</title>
+      <link>http://community.spiceworks.com/topic/417545-interbase-7-1-integration-with-visual-studio-2012</link>
+      <description>all, I&amp;#39;m trying to connect &lt;em&gt;Visual Studio&lt;/em&gt; 2012 with and Interbase 7.1 database. Does anybody know how this can be done? Tha... | Web Development.</description>
+      <dc:publisher>Spiceworks Community</dc:publisher>
+      <dc:creator>Tom-LIFE</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 09:32:41 GMT</dc:date>
+    </item>
+    <item>
+      <title>Why I promote conda - Technical Discovery - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://technicaldiscovery.blogspot.com/2013/12/why-i-promote-conda.html</link>
+      <description>All of these &lt;em&gt;tools&lt;/em&gt; provided some standardization (at least around what somebody types at the command line to build a package) but no help in &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Visual Studio&lt;/em&gt;). I&amp;#39;ve been bitten more than once by unicode-width incompatibilities, strange shared- library incompatibilities, and the vagaries of how different compilers and run-times define the `FILE *` file pointer. In fact, if you have not read &amp;quot;Linkers and Loaders&amp;quot;, you should actually do that right now as it will open your mind to that interesting&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Technical Discovery</dc:publisher>
+      <dc:creator>Travis Oliphant</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 09:44:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>LINQ to Twitter Runs On Xamarin.iOS - Geekswithblogs.net</title>
+      <link>http://geekswithblogs.net/WinAZ/archive/2013/12/06/linq-to-twitter-runs-on-xamarin.ios.aspx</link>
+      <description>Note: If you haven&amp;#39;t used the Xamarin &lt;em&gt;tools&lt;/em&gt; before, visit the Xamarin site,download the free version, and do the Getting Started tutorial. &lt;b&gt;...&lt;/b&gt; On Windows, double-click the Connection… error message in the Error List window in &lt;em&gt;Visual Studio&lt;/em&gt;.</description>
+      <dc:publisher>Joe Mayo</dc:publisher>
+      <dc:creator>Joe Mayo</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 15:22:34 GMT</dc:date>
+    </item>
+    <item>
+      <title>Office 365 Beta Exams are Now Available - Born to Learn - Born To &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://borntolearn.mslearn.net/btl/b/weblog/archive/2013/12/06/office-365-beta-exams-are-now-available.aspx</link>
+      <description>Born to Learn is the official &lt;em&gt;blog&lt;/em&gt; for Microsoft Learning, which includes training for Microsoft products, Certifications, Microsoft Official Curriculum, Microsoft Press as well as Microsoft communities such as Microsoft Certified Trainers (MCT), Microsoft Certified Professionals (MCP), Certified Partners &lt;b&gt;...&lt;/b&gt; Microsoft Office 365 is transforming the way IT Professionals provision our Office products and administer our industry leading business productivity &lt;em&gt;tools&lt;/em&gt; (Exchange, SharePoint and Lync).</description>
+      <dc:publisher>Born to Learn</dc:publisher>
+      <dc:creator>Thomas Dawkins - Microsoft Learning</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 22:10:55 GMT</dc:date>
+    </item>
+    <item>
+      <title>Designer: QA Analyst - Livonia, MI - 6 months Contract - Only GC &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/qa-analyst-livonia-mi-6-months-contract.html</link>
+      <description>3+ years of test automation experience with at least two commercial test &lt;em&gt;tool&lt;/em&gt; packages (i.e., QuickTest Professional, Testpartner, SilkTest, and &lt;em&gt;Visual Studio&lt;/em&gt;). The selected &lt;b&gt;...&lt;/b&gt; a Comment. Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 15:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>this part od codes what say? - CodeGuru Forums</title>
+      <link>http://forums.codeguru.com/showthread.php?541555-this-part-od-codes-what-say</link>
+      <description>&lt;b&gt;...&lt;/b&gt; do as Romans do.&amp;quot; Follow: https://twitter.com/#!/ovidiucucu. My &lt;em&gt;blog&lt;/em&gt;: http://codexpert.ro/&lt;em&gt;blog&lt;/em&gt;/author/ovidiu-cucu/ &lt;b&gt;...&lt;/b&gt; Convenience and productivity &lt;em&gt;tools&lt;/em&gt; for Microsoft &lt;em&gt;Visual Studio&lt;/em&gt;: FeinViewer - an integrated GDI objects viewer for Visual C++&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>CodeGuru Forums</dc:publisher>
+      <dc:creator>irandoct</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 13:59:32 GMT</dc:date>
+    </item>
+    <item>
+      <title>Day 6: Teach &amp;#39;em a thing or two... - COBOL - &lt;b&gt;Blog&lt;/b&gt; - COBOL - Micro &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://community.microfocus.com/microfocus/cobol/b/weblog/archive/2013/12/06/day-6-teach-39-em-a-thing-or-two.aspx</link>
+      <description>The Micro Focus Developer product portfolio comprises industry leading off-mainframe COBOL development and deployment &lt;em&gt;tools&lt;/em&gt; to modernize business-critical enterprise applications. Get this RSS feed &lt;b&gt;...&lt;/b&gt; COBOL - &lt;em&gt;Blog&lt;/em&gt;. RSS for posts&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>COBOL - Blog</dc:publisher>
+      <dc:creator>Melissa Burns</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 09:00:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Designer: Need Senior/Expert Business Analyst @ WA</title>
+      <link>http://worlddesignernews.blogspot.com/2013/12/need-seniorexpert-business-analyst-wa.html</link>
+      <description>Conduct user needs assessment and employ survey &lt;em&gt;tools&lt;/em&gt;: focus on user behaviors, motivations and needs through observation and task analysis to understand the impact of design on an audience. Conduct qualitative and quantitative surveys to assess and discover &lt;b&gt;...&lt;/b&gt; &lt;em&gt;Visual Studio&lt;/em&gt; .Net. · ADABAS. · Natural. · Experience with Workers Compensation, Employer Services or Medical Insurance Processes &lt;b&gt;...&lt;/b&gt; Post a Comment. Note: Only a member of this &lt;em&gt;blog&lt;/em&gt; may post a comment.</description>
+      <dc:publisher>Designer</dc:publisher>
+      <dc:creator>Designer</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 14:20:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Jamie Thomson : Really useful Excel keyboard shortcuts</title>
+      <link>http://sqlblog.com/blogs/jamie_thomson/archive/2013/12/06/really-useful-excel-keyboard-shortcuts.aspx</link>
+      <description>I figured the only way I will ever ingrain these into my muscle memory is if I write them down somewhere, nowhere better than on my &lt;em&gt;blog&lt;/em&gt;. If you&amp;#39;re a fellow keyboard shortcut fetishist and want to share any obscure ones that you know of then&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>SQLblog.com - The SQL Server blog spot on the web</dc:publisher>
+      <dc:creator>jamiet</dc:creator>
+      <dc:date>Fri, 06 Dec 2013 09:28:24 GMT</dc:date>
+    </item>
+  </channel>
+</rss>

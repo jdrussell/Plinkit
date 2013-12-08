@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>f# functional blog - Google Blog Search</title>
+    <link>https://www.google.co.uk/search?client=firefox-a&amp;hs=e8v&amp;rls=org.mozilla:en-US:official&amp;q=f%23+functional+blog&amp;tbm=blg&amp;tbs=qdr:w,lr:lang_1en</link>
+    <description>About 597 results</description>
+    <opensearch:totalResults>597</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <item>
+      <title>An introduction to &lt;b&gt;Functional&lt;/b&gt; Programming in &lt;b&gt;F#&lt;/b&gt; -- Part 1</title>
+      <link>http://stevegilham.blogspot.com/2013/12/an-introduction-to-functional.html</link>
+      <description>This series covers &lt;em&gt;functional&lt;/em&gt;-programming concepts, as illustrated in &lt;em&gt;F#&lt;/em&gt; syntax -- a way for beginners who have started to use the language to avoid just writing FORTRAN C# in any other language. It is not intended as an introductory guide to the language syntax itself, though I&amp;#39;ll put in asides about the notations used &lt;b&gt;....&lt;/b&gt; Business. Previous instalments at Life before &lt;em&gt;Blogging&lt;/em&gt;. amazon.co.uk wishlist &amp;middot; amazon.com wishlist &amp;middot; profile for Steve Gilham at Stack Overflow, Q&amp;amp;A for professional &amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Distributed Memory</dc:publisher>
+      <dc:creator>Steve Gilham</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 21:24:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>&lt;b&gt;F#&lt;/b&gt; Weekly #48, 2013 | Sergey Tihon&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://sergeytihon.wordpress.com/2013/12/02/f-weekly-48-2013/</link>
+      <description>Welcome to &lt;em&gt;F#&lt;/em&gt; Weekly, A roundup of &lt;em&gt;F#&lt;/em&gt; content from this past week: News &lt;em&gt;F#&lt;/em&gt; 3.1 Compiler/Library Code Drop was announced! Don Syme &lt;b&gt;...&lt;/b&gt; &lt;em&gt;F#&lt;/em&gt; binding auto-complete running in SublimeText 3. &lt;b&gt;...&lt;/b&gt; New cross-&lt;em&gt;functional&lt;/em&gt; (&lt;em&gt;F#&lt;/em&gt;, Haskell, …)&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Sergey Tihon's Blog</dc:publisher>
+      <dc:creator>Sergey Tihon</dc:creator>
+      <dc:date>Sun, 01 Dec 2013 21:22:11 GMT</dc:date>
+    </item>
+    <item>
+      <title>Slides for &lt;b&gt;F#&lt;/b&gt; in Social Gaming talk at CodeMesh | theburningmonk &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://theburningmonk.com/2013/12/slides-for-f-in-social-gaming-talk-at-codemesh/</link>
+      <description>Just a quick note to say that slides for my &lt;em&gt;F#&lt;/em&gt; in Social Gaming talk at the recent CodeMesh conference is now available on SlideShare and that recording of the. &lt;b&gt;...&lt;/b&gt; a &lt;em&gt;blog&lt;/em&gt; for Yan and Yinan&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>theburningmonk.com</dc:publisher>
+      <dc:creator>theburningmonk</dc:creator>
+      <dc:date>Sat, 07 Dec 2013 03:00:56 GMT</dc:date>
+    </item>
+    <item>
+      <title>Keith Bloom: &lt;b&gt;F#&lt;/b&gt; in Finance conference - &lt;b&gt;Blogger&lt;/b&gt;</title>
+      <link>http://keithbloom.blogspot.com/2013/12/fsharp-in-finance-conference.html</link>
+      <description>On Monday 25th November I attended the &lt;em&gt;F#&lt;/em&gt; in Finance conference at the Microsoft offices in London. I was drawn to this single day conference as I have been learning about &lt;em&gt;functional&lt;/em&gt; programming for some time now. I am also interested in&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Keith Bloom</dc:publisher>
+      <dc:creator>Keith Bloom</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 13:45:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>The delusion of omnicompetence | Tim Martin&amp;#39;s &lt;b&gt;Blog&lt;/b&gt;</title>
+      <link>http://blog.asymptotic.co.uk/2013/12/the-delusion-of-omnicompetence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-delusion-of-omnicompetence</link>
+      <description>Adding the &lt;em&gt;F#&lt;/em&gt; PowerPack DLL to the interactive shell &amp;middot; Batch modifying Bugzilla milestones &amp;middot; Building glib on Mac OS X &amp;middot; Compiling the example code from O&amp;#39;Reilly “Linux Device Drivers” book &amp;middot; Connecting to Mikrotik RouterOS via ssh using &lt;b&gt;...&lt;/b&gt; algorithm Amazon Web Services apple book brogrammers Business C# C++ careers charity clojure closures database debugging economics entrepreneurship events &lt;em&gt;F#&lt;/em&gt; feminism &lt;em&gt;functional&lt;/em&gt; programming hiring internals interviews kindle&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Tim Martin's Blog</dc:publisher>
+      <dc:creator>admin</dc:creator>
+      <dc:date>Wed, 04 Dec 2013 20:25:35 GMT</dc:date>
+    </item>
+    <item>
+      <title>Slides for &lt;b&gt;F#&lt;/b&gt; in Finance talk and CodeMesh next! | theburningmonk &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://theburningmonk.com/2013/11/slides-for-f-in-finance-talk-and-codemesh-next/</link>
+      <description>Hello, just a quick word to say that slides for my &lt;em&gt;F#&lt;/em&gt; in the Cloud and at Scale talk at the recent &lt;em&gt;F#&lt;/em&gt; in Finance event is now available on SlideShare and that. &lt;b&gt;...&lt;/b&gt; a &lt;em&gt;blog&lt;/em&gt; for Yan and Yinan&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>theburningmonk.com</dc:publisher>
+      <dc:creator>theburningmonk</dc:creator>
+      <dc:date>Sat, 30 Nov 2013 23:35:04 GMT</dc:date>
+    </item>
+    <item>
+      <title>Didn&amp;#39;t we have a lovely time // the day we went to Mampang</title>
+      <link>http://drbargle.blogspot.com/2013/12/didnt-we-have-lovely-time-day-we-went.html</link>
+      <description>An introduction to &lt;em&gt;Functional&lt;/em&gt; Programming in &lt;em&gt;F#&lt;/em&gt; -- Part 1 : &lt;em&gt;Functional&lt;/em&gt; Programming via circuits. 17 hours ago. Quirkworthy &amp;middot; Unhappy Silicon &lt;b&gt;...&lt;/b&gt; Fayana and the Dance of Death. 1 day ago. Realm of Chaos: An 80s Warhammer Enthusiast &lt;em&gt;Blog&lt;/em&gt;.</description>
+      <dc:publisher>Known World, Old World</dc:publisher>
+      <dc:creator>Andy Bartlett</dc:creator>
+      <dc:date>Thu, 05 Dec 2013 14:02:00 GMT</dc:date>
+    </item>
+    <item>
+      <title>Coding Journal | Creating a Search box with Reactive Extensions &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://blog.kulman.sk/creating-a-search-box-with-reactive-extensions-and-mvvm/</link>
+      <description>Windows Phone and Windows 8 developer at Inmite currently also building applications for Windows Azure and playing with &lt;em&gt;F#&lt;/em&gt;. Former consultant particularly interested in &lt;em&gt;functional&lt;/em&gt; programming and data analysis. Direct experience with&amp;nbsp;&lt;b&gt;...&lt;/b&gt;</description>
+      <dc:publisher>Coding JournalCoding Journal</dc:publisher>
+      <dc:creator>Igor Kulman</dc:creator>
+      <dc:date>Mon, 02 Dec 2013 12:32:49 GMT</dc:date>
+    </item>
+    <item>
+      <title>Insights | ThoughtWorks</title>
+      <link>http://www.thoughtworks.com/insights</link>
+      <description>A global software company focused on software design and delivery. We provide professional services and products and leading thought on Agile and Continuous Delivery.</description>
+      <dc:publisher>Planet TW</dc:publisher>
+      <dc:creator>unknown</dc:creator>
+      <dc:date>Thu, 05 Dec 2013 01:07:30 GMT</dc:date>
+    </item>
+    <item>
+      <title>Why mapping DTOs to Entities using AutoMapper and &lt;b&gt;...&lt;/b&gt;</title>
+      <link>http://rogeralsing.com/2013/12/01/why-mapping-dtos-to-entities-using-automapper-and-entityframework-is-horrible/</link>
+      <description>if (detail == null). detail = new Detail();. order.Details.Add(detail);. detail.Name = detailDTO.Name;. detail.Quantity = detailDTO.Quantity;. context.SaveChanges();. &lt;em&gt;Functional&lt;/em&gt; DDD in &lt;em&gt;F#&lt;/em&gt;. With 4 comments. Entity Framework to REST - EfREST.</description>
+      <dc:publisher>Roger Alsing Weblog</dc:publisher>
+      <dc:creator>Roger Alsing</dc:creator>
+      <dc:date>Sun, 01 Dec 2013 10:37:22 GMT</dc:date>
+    </item>
+  </channel>
+</rss>
