@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Web;
 using System.Xml;
+using System.Text;
 using Plinkit.Domain.Configuration;
 using Plinkit.Domain.Models.Links;
 using Plinkit.Domain.Services;
@@ -131,23 +132,29 @@ namespace Plinkit.UI.Services
         private void ParseRssItems(XmlDocument xmlDoc)
         {
             _rssItems.Clear();
-            var nodes = xmlDoc.SelectNodes("rss/channel/item");            
-
+            var nodes = xmlDoc.SelectNodes("rss/channel/item");
             foreach (XmlNode node in nodes)
             {
-                string title = "", description = "", link = "";                
+                string title = "", description = "", link = "";
                 ParseDocElements(node, "title", ref title);
                 ParseDocElements(node, "description", ref description);
-                ParseDocElements(node, "link", ref link);                                
+                ParseDocElements(node, "link", ref link);
                 var item = DailyLinkFactory.BuildDailyLink(Url);
-                item.Title = title.Replace("</b>","").Replace("<b>","");
+                item.Title = title.Replace("</b>", "").Replace("<b>", "");
+                var isTitleAcii = IsAscii(item.Title);
                 item.Description = description
                     .Replace("</em>", "").Replace("<em>", "")
-                    .Replace("</b>", "").Replace("<b>", ""); 
+                    .Replace("</b>", "").Replace("<b>", "");
                 item.Link = link;
                 item.Date = DateTime.Now;
-                _rssItems.Add(item);
+                if (isTitleAcii)
+                    _rssItems.Add(item);
             }
+        }
+
+        private bool IsAscii(string value)
+        {
+            return Encoding.UTF8.GetByteCount(value) == value.Length;
         }
 
         private void ParseDocElements(XmlNode parent, string xPath, ref string property)
